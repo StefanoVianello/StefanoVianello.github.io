@@ -84,7 +84,7 @@ author:
   avatar           : "PGLS.png"
   bio              : "Final year predoc at EMBL studying synchronization in embryos using microfluidics"
   location         : "Heidelberg, Germany"
-  employer         : "European Molecular Biology Laboratory (EMBL)"
+  employer         : # "European Molecular Biology Laboratory (EMBL)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "pglsanchez@gmail.com"
