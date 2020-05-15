@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### **I am currently looking for postdoc opportunities in theoretical and experimental marine developmental biology**, preferably using simple and low-cost experiments/technologies.
+**I am currently looking for postdoc opportunities in theoretical and experimental marine developmental biology**, preferably using simple and low-cost experiments/technologies.
 
 ## Current research
 
