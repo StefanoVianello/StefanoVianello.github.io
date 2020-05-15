@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## **I am currently looking for postdoc opportunities in theoretical and experimental marine developmental biology**, preferably using simple and low-cost experiments/technologies.
 
 I am a final year PhD student in [Alexander Aulehla's lab](https://www.embl.de/research/units/dev_biology/aulehla/) at the European Molecular Biology Laboratory ([EMBL](https://www.embl.org/about/)) in Heidelberg, Germany. My current research melds developmental biology and dynamical systems theory to understand how synchronized signaling oscillations confer spatiotemporal cues for tissue patterning in vertebrate embryos. In particular, I use synchronization theory (via microfluidics-based entrainment) to predictably control the oscillations in embryos during the formation of their somites, the precursors of vertebrae.
@@ -16,4 +15,10 @@ I am a final year PhD student in [Alexander Aulehla's lab](https://www.embl.de/r
 
 I am broadly inspired by the "endless forms" (Darwin, 1859) of organisms in nature. It is humbling to realize that nature already has the answers to questions we have not even asked. Driven by this inspiration, my aspirations include surveying the rich biodiversity (primarily in the [Philippines](https://www.cbd.int/countries/profile/?country=ph), my home country) for unique organisms with unique forms (natural history), & to study these organisms' embryonic and larval development, their tissue patterning, and their morphogenesis. To address these, I intend to use the next years further honing complementary skills in experiment (classical and experimental embryology) and theory (theoretical biology, dynamical systems theory, simulations and modeling).
 
-My **research interests** include: theoretical and experimental developmental biology, dynamical systems theory, history of science, and natural history
+My **research interests** include:
+* theoretical and experimental developmental biology
+* dynamical systems theory
+* history of science
+* natural history
+
+I am a Filipino and I am a cis-gay man (pronouns: he/him), and I am passionate about "endless forms" of diversity, equity, and inclusion.
