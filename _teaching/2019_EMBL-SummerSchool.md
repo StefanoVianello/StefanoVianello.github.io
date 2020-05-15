@@ -4,7 +4,7 @@ collection: teaching
 type: # "Workshop"
 permalink: # /teaching/2017_EMBL-BTM
 venue: "EMBL International PhD Programme (EIPP), European Molecular Biology Laboratory (EMBL)"
-date: 2019
+date: #2019
 location: "Heidelberg, Germany"
 ---
 
