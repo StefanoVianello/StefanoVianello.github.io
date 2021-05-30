@@ -37,4 +37,4 @@ My scientific journey has been serendipitous. And I am constantly in awe how I a
 
 As a Filipino and somebody who identify as a member of the LGBTQIA+ community, I am also very passionate about "endless forms" of diversity, equity, and inclusion. I am a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Stefano Vianello, my partner, and I am a signatory of [DORA](https://sfdora.org/read/).
 
-Please feel free to check the [CV](https://pglsanchez.github.io/cv/) tab for some more information, or download a .pdf of my CV [here](https://pglsanchez.github.io/files/PGLSanchez_CV_20210530.pdf).
+Please feel free to check the [CV](https://pglsanchez.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://pglsanchez.github.io/files/PGLSanchez_CV_20210530.pdf).
