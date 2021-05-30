@@ -36,3 +36,5 @@ I am originally from the Philippines, the eldest of six, born into a very loving
 My scientific journey has been serendipitous. And I am constantly in awe how I am now pursuing a career that is not very different from my fascination, as a child, for colors and grooves in seashells which I collected in the white sand beaches of Bantayan Island. I am grateful for everything and everyone that has led me here, and I am excited what lies ahead.
 
 As a Filipino and somebody who identify as a member of the LGBTQIA+ community, I am also very passionate about "endless forms" of diversity, equity, and inclusion. I am a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Stefano Vianello, my partner, and I am a signatory of [DORA](https://sfdora.org/read/).
+
+Please feel free to check the [CV](https://pglsanchez.github.io/cv/) tab for some more information, or download a .pdf of my CV [here](https://pglsanchez.github.io/files/PGLSanchez_CV_20210530.pdf).
