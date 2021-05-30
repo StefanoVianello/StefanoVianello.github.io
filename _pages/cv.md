@@ -7,15 +7,13 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
-under construction
-
-#Education
-#======
-#* B.S. in GitHub, GitHub University, 2012
-#* M.S. in Jekyll, GitHub University, 2014
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Education
+======
+* BSc in Biochemistry, University of the Philippines Manila, 2011
+* graduate courses in Molecular Medicine, St. Luke's College of Medicine, 2014
+* PhD (Dr.rer.nat) in Developmental Biology and Dynamical Systems Theory, European Molecular Biology Laboratory and Ruprecht-Karls-Universität Heidelberg, 2020
 
 #Work experience
 #======
