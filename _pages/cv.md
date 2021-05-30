@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* BSc in Biochemistry
-University of the Philippines Manila, 2011
+* BSc in Biochemistry \
+University of the Philippines Manila, 2011 \
 Manila, Philippines
-* graduate courses in Molecular Medicine
-St. Luke's College of Medicine, 2014
+* graduate courses in Molecular Medicine \
+St. Luke's College of Medicine, 2014 \
 Quezon City, Philippines
-* PhD (Dr.rer.nat) in Developmental Biology and Dynamical Systems Theory
-European Molecular Biology Laboratory (EMBL) and Ruprecht-Karls-Universität Heidelberg, 2020
+* PhD (Dr.rer.nat) in Developmental Biology and Dynamical Systems Theory \
+European Molecular Biology Laboratory (EMBL) and Ruprecht-Karls-Universität Heidelberg, 2020 \
 Heidelberg, Germany
 
 #Work experience
