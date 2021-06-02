@@ -16,12 +16,9 @@ author_profile: true
   method="POST"
   enctype="multipart/form-data"
 >
-<input type="email" name="_replyto" placeholder="Your e-mail" required>
-<textarea name="message" placeholder="Type your message" required>
-<label>
-    Your file:
-    <input type="file" name="upload">
-</label>
+<input type="email" name="_replyto" placeholder="Your e-mail (required)" required>
+<textarea name="message" placeholder="Your message (required)" required>
+<input type="file" name="upload" placeholder="Your file">
 <button type="submit">Send</button>
 </form>
 
