@@ -7,19 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-Get in touch
+<h2>Get in touch</h2>
 
 <!-- modify this form HTML and place wherever you want your form -->
+<!-- tips from https://dev.to/charalambosioannou-->
 <form
   action="https://formspree.io/f/xzbyrypw"
   method="POST"
   enctype="multipart/form-data"
 >
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
+<input type="email" name="_replyto" placeholder="Your e-mail" required>
+<textarea name="message" placeholder="Type your message" required>
+<label>
     Your file:
     <input type="file" name="upload">
   </label>
