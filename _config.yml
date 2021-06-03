@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "pglsanchez"
+title                    : "Stefano Vianello"
 title_separator          : "-"
-name                     : &name "Paul Gerald Layague Sanchez"
+name                     : &name "Stefano Davide Vianello"
 description              : &description "personal website"
-url                      : https://pglsanchez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://StefanoVianello.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pglsanchez/pglsanchez.github.io"
+repository               : "StefanoVianello/StefanoVianello.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter poljiology
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Paul Gerald Layague Sanchez"
-  avatar           : "PGLS.png"
-  bio              : "Bridging postdoc at EMBL studying synchronization in embryos using microfluidics"
-  location         : "Heidelberg, Germany"
+  name             : "Stefano Davide Vianello"
+  avatar           : "SDV.png"
+  bio              : "Developmental Biologist at EPFL, studying mouse endoderm development"
+  location         : "Lausanne, Switzerland"
   employer         : # "European Molecular Biology Laboratory (EMBL)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "pglsanchez@gmail.com"
+  email            : "stefano.vianello@epfl.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pglsanchez"
+  github           : "StefanoVianello"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6213-8927"
+  orcid            : "https://orcid.org/0000-0002-4152-8990"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "poljiology"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
