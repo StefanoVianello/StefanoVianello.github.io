@@ -20,14 +20,14 @@ Read more about his research [over here](https://doi.org/10.11588/heidok.0002920
 ![2D Illustration of mouse tail entrainment experiments](https://StefanoVianello.github.io/images/Illustration_paul01.PNG)
 
 
-#### me mechanics
+### me mechanics
 
-Read more about the  research [over here](https://www.sciencedirect.com/science/article/pii/S1534580719301479), and about the illustration method [over here](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)
+Read more about the  research [over here](https://www.sciencedirect.com/science/article/pii/S1534580719301479)
 ![Illustration of mouse implantation and mechanical experimental tools](https://StefanoVianello.github.io/images/Illustration_me01.PNG)
 
-#### me, Endoderm
+### me, Endoderm
 Read more about the  research [over here](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3), and about the illustration method [over here](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)
-
+![Illustration of early endoderm development in the mouse embryo](https://StefanoVianello.github.io/images/Illustration_me02.PNG)
 
 
 #### matthias brassard isometric
