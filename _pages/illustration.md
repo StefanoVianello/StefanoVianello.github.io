@@ -39,7 +39,7 @@ Read more about the  research [over here](https://www.biorxiv.org/content/10.110
 ![Illustration of early endoderm development in the mouse embryo](https://StefanoVianello.github.io/images/Illustration_me02.PNG)
 
 
-#### Harnessing self-organisation to build better organoids (2D illustration, isometric; 2019)
+### Harnessing self-organisation to build better organoids (2D illustration, isometric; 2019)
 
 Read more about the  research [over here](https://doi.org/10.1016/j.stem.2019.05.005)
 ![Isometric illustration of bioengineering approaches to organoid technology](https://StefanoVianello.github.io/images/Illustration_brassard01.PNG)
