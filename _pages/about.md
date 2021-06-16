@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student with experience in stem cell and mouse developmental biology and expertise in embryonic stem cell culture, synthetic embryology, and bioengineering. My main academic interests reside in endoderm and gut tube development, as well as mechanobiology and mechanical inputs to development. I am an advocate for open science, preprints, and equitable publishing. Aside from my research projects, I am interested in data communication and visual storytelling in developmental biology. I resonate with knowledge equity movements of embodied knowledge and pedagogy.
+I am a PhD student with experience in stem cell and mouse developmental biology and expertise in embryonic stem cell culture, synthetic embryology, and bioengineering. My main academic interests reside in endoderm and gut tube development, as well as mechanobiology and mechanical inputs to development. I am an advocate for intersectional open science, preprints, and equitable publishing. Aside from my research projects, I am interested in data communication and visual storytelling in developmental biology. I resonate with knowledge equity movements of embodied knowledge and pedagogy.
 
 ## Current research
 
