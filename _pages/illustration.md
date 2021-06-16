@@ -32,6 +32,9 @@ Read more about the  research [over here](https://www.biorxiv.org/content/10.110
 
 #### matthias brassard isometric
 
+Read more about the  research [over here](https://doi.org/10.1016/j.stem.2019.05.005)
+![Isometric illustration of bioengineering approaches to organoid technology](https://StefanoVianello.github.io/images/Illustration_brassard01.PNG)
+
 ### sophia, protocol
 
 Read more about the research [over here](https://www.nature.com/articles/s41596-021-00517-1)
