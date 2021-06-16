@@ -1,19 +1,6 @@
 # main links links
 main:
-  %- title: "Research"
-  %  url: /research/
 
-  %- title: "Teaching"
-  %  url: /teaching/
-
-  %- title: "Education"
-  %  url: /education/
-
-  %- title: "Presentations"
-%    url: /presentations/
-
-  %- title: "Outreach"
-  %  url: /outreach/
 
   - title: "Illustration"
     url: /illustration/
