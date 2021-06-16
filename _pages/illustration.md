@@ -34,23 +34,23 @@ Read more about the science [over here](https://doi.org/10.11588/heidok.00029209
 Read more about the science [over here](https://www.sciencedirect.com/science/article/pii/S1534580719301479)
 
 
-### me, Endoderm
+### Endoderm emergence in the early mouse embryo (3D rendering from volume data; 2020)
 Read more about the  research [over here](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3), and about the illustration method [over here](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)
 ![Illustration of early endoderm development in the mouse embryo](https://StefanoVianello.github.io/images/Illustration_me02.PNG)
 
 
-#### matthias brassard isometric
+#### Harnessing self-organisation to build better organoids (2D illustration, isometric; 2019)
 
 Read more about the  research [over here](https://doi.org/10.1016/j.stem.2019.05.005)
 ![Isometric illustration of bioengineering approaches to organoid technology](https://StefanoVianello.github.io/images/Illustration_brassard01.PNG)
 
-### sophia, protocol
+### A protocol for mitochnodrial ribosome profiling  (simple 2D sketch, 2021)
 
 Read more about the research [over here](https://www.nature.com/articles/s41596-021-00517-1)
 ![Schematic of a protocol for mitochondrial ribosome profiling](https://StefanoVianello.github.io/images/Illustration_sophia01.PNG)
 
 
-### matthias, review
+### Human and mouse developmental models (simple 2D illustration; 2021)
 
 Read more about the research [over here](https://www.nature.com/articles/s41563-020-00829-9)
 ![2D illustration of mouse and human embryonic models](https://StefanoVianello.github.io/images/Illustration_lutolf01.PNG)
