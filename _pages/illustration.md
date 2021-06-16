@@ -40,6 +40,8 @@ Read more about the  research [over here](https://doi.org/10.1016/j.stem.2019.05
 Read more about the research [over here](https://www.nature.com/articles/s41596-021-00517-1)
 ![Schematic of a protocol for mitochondrial ribosome profiling](https://StefanoVianello.github.io/images/Illustration_sophia01.PNG)
 
-#### moritzm intestinal organoid
 
 #### matthias, review
+
+Read more about the research [over here](https://www.nature.com/articles/s41563-020-00829-9)
+![2D illustration of mouse and human embryonic models](https://StefanoVianello.github.io/images/Illustration_lutolf01.PNG)
