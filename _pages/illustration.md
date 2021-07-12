@@ -4,7 +4,7 @@ title: "Illustration"
 permalink: /illustration/
 author_profile: true
 ---
-![Banner](https://StefanoVianello.github.io/images/Illustration_banner.PNG)
+<! --  ![Banner](https://StefanoVianello.github.io/images/Illustration_banner.PNG) -->
 
 I have found my scientific practice to be most at ease when developing through the visual medium, both as I approach new topics and concepts, and as I contribute in turn to the communications of new findings. Be they diagrams, digital illustrations, microscopy pictures, volumes, colors, textures, I found that it is through visual media and graphic exploration that I most easily carve out spaces of deeper introspection on my scientific work (and my academic path at large). And this not only in terms of scientific visualisation of raw data, or in terms of usefulness of the visual in scientific storytelling and accessibility, but also for the value of the illustration process itself as a means of understanding ("Drawing as a way of Knowing", Anderson 2017). In my own practice (i.e. within the context of mouse Developmental Biology), I have explored and elaborated on these themes with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place.
 
