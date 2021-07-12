@@ -20,9 +20,11 @@ Read more about the science [over here](https://www.biorxiv.org/content/10.1101/
 
 ### Mouse embryos and microfluidics (2D illustration, airbrushed; 2021)
 
-
-
 ![2D Illustration of mouse tail entrainment experiments](https://StefanoVianello.github.io/images/Illustration_paul01.PNG)
+
+Above is a collection of some of the figures I designed and illustrated in collaboration with Paul Gerald Layague Sanchez, for his PhD thesis. Paul works on fundamental principles of eintrainment and synchronisation, and found that these very principles apply to living systems (specifically, the process through which the mouse embryo forms its somites, regular blocks of tissue that will give rise to the vertebrae). By putting tails (or *in vitro* models of them) into a microfluidic device, Paul could show he could oscillatory delivery of delivered small molecules to control (slow down and speed up predictably) the speed of the internal oscillations of the embryo.
+
+These illustrations were all done in a vector graphics editor, using soft layering of colors to give the illusion of volume (e.g. for the embryo), and to illustrate the ridges of the segmenting tail explants. Other elements were drawn in isometric style (see the microfluidics device). Working on this project was an intense and extremely enriching collaboration trying to bring to the page fundamental concepts of physics as they applied to a biological system.   
 
 Read more about the science [over here](https://doi.org/10.11588/heidok.00029209)
 
