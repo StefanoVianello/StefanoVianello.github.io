@@ -27,6 +27,6 @@ In humans, mice, and other mammals key internal organs such as the gut, lungs, p
 
 
 
-I am a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Paul Gerald Layague Sanchez, my partner, and I am a signatory of [DORA](https://sfdora.org/read/).
+I am a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Paul Gerald Layague Sanchez, my boyfriend, and I am a signatory of [DORA](https://sfdora.org/read/).
 
 Please feel free to check the [CV](https://StefanoVianello.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://StefanoVianello.github.io/files/CV_VIANELLO_052021.pdf).
