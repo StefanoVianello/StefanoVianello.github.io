@@ -18,7 +18,7 @@ The illustration process was mainly done on Blender, and combines 3D modelled st
 
 Read more about the science [over here](https://www.biorxiv.org/content/10.1101/2021.05.26.445803v1)
 
-### Mouse embryos and microfluidics (2D illustration, airbrushed; 2021)
+### Mouse embryos and microfluidics (2D illustration, digital airbrush; 2021)
 
 ![2D Illustration of mouse tail entrainment experiments](https://StefanoVianello.github.io/images/Illustration_paul01.PNG)
 
@@ -30,8 +30,10 @@ Read more about the science [over here](https://doi.org/10.11588/heidok.00029209
 
 ### Mechanical imputs to development (3D rendering and 2D "cartoon"; 2019)
 
-
 ![Illustration of mouse implantation and mechanical experimental tools](https://StefanoVianello.github.io/images/Illustration_me01.PNG)
+
+One of the very first set of illustrations I drew during my PhD, for a review bringing together knowns and unknowns of the biomechanical inputs of mouse development, and the potential held by *in vitro* embryonic systems to test these questions experimentally. The illustration on the left (timeline of mouse development as it implants in the uterus) combined elements of 2D illustration (mostly, the background) with rendered 3D models of mouse embryos at different stages of development (a more detailed writeup on the history and background of these models is available [here](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). At the end, the setup resembled that of a puppet stage, with the 3D embryonic models floating in front of (and aligned with) a painted 2D background. The illustration on the right (experimental applications of *in vitro* embryonic models for the study of mechanobiology) was instead an early experimentation with a more "cartoonish" style, marked by stylised 2D elements bound by dark outlines. 
+
 Read more about the science [over here](https://www.sciencedirect.com/science/article/pii/S1534580719301479)
 
 
