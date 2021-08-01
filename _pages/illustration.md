@@ -4,9 +4,7 @@ title: "Illustration"
 permalink: /illustration/
 author_profile: true
 ---
-In my own practice (i.e. within the context of mouse Developmental Biology), I have explored and elaborated on the themes of "Drawing as a way of Knowing" (see e.g. Anderson 2017) with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place.
-
-This page wants to be some form of digital scrapbook where all these illustrations may find a home.
+In my own practice (i.e. within the context of mouse Developmental Biology), I have explored and elaborated on the themes of "Drawing as a way of Knowing" (see e.g. Anderson 2017) with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place. <span style="background-color: #ceeff0">This page wants to be some form of digital scrapbook where all these illustrations may find a home.</span> 
 
 ### Bone marrow organoids (3D render, 2021)
 
