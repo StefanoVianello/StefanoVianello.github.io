@@ -4,7 +4,7 @@ title: "Illustration"
 permalink: /illustration/
 author_profile: true
 ---
-In my own practice (i.e. within the context of mouse Developmental Biology), I have explored and elaborated on the themes of "Drawing as a way of Knowing" (see e.g. Anderson 2017) with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place. <span style="background-color: #ceeff0">This page wants to be some form of digital scrapbook where all these illustrations may find a home.</span> 
+In my own practice (mouse development and stem cell biology), I have explored and elaborated on the themes of "Drawing as a way of Knowing" (see e.g. Anderson 2017) with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field of Developmental Biology (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place. <span style="background-color: #ceeff0">This page wants to be some form of digital scrapbook where all these illustrations may find a home.</span>
 
 ### Bone marrow organoids (3D render, 2021)
 
@@ -36,22 +36,38 @@ Read more about the science [over here](https://www.sciencedirect.com/science/ar
 
 
 ### Endoderm emergence in the early mouse embryo (3D rendering from volume data; 2020)
-Read more about the  research [over here](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3), and about the illustration method [over here](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)
+
 ![Illustration of early endoderm development in the mouse embryo](https://StefanoVianello.github.io/images/Illustration_me02.PNG)
+
+An illustration that I did for one of my own publications! A summary of the main step of gut endoderm development as endoderm cells first emerge within the primitive streak (pink in the image), circumnavigate the surface of the embryo proper (white) and intercalate in the outer layer of (extraembryonic) visceral endoderm (yellow). The path of specific mesoderm (red) or endoderm (orange) cells is stylised in the insight on the right.
+
+This illustration was heavily based on the use of 3D rendering software and embryonic models as I elaborated upon in [this publication](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1). Specifically, the need to show the changing cellular composition of the outer epithelial layer of the embryo (visceral endoderm first, then with intercalated embryonic endoderm cells) allowed me to experiment with more complex material editing tasks and more complex node setups in the software. Slicing of the 3D models to create the "exploded view" shown in the inset at the right (and inspired by the beautiful hand drawings of [Rosa Beddington]()) was done by applying simple boolean modifiers on the model geometries.
+
+Read more about the  research [over here](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3)
+
 
 
 ### Harnessing self-organisation to build better organoids (2D illustration, isometric; 2019)
 
-Read more about the  research [over here](https://doi.org/10.1016/j.stem.2019.05.005)
 ![Isometric illustration of bioengineering approaches to organoid technology](https://StefanoVianello.github.io/images/Illustration_brassard01.PNG)
+
+When asked to illustrate bioengineering topics for a review on the latest on organoid biotechnology, especially as they relate to microfluidics chips, micropatterns, micropatterned structures and devices, my mind immediately went to an illustration style that could look modern and technological. A departure from the much more *organic* styles I usually find myself having to illustrate. Drawing in isometric style (see illustrations above) is sometimes challenging but a very fun activity that almost feels like lego construction and is a very interesting style to experiment in.
+
+In practical terms, these illustrations (as all the other ones in the review) were all done in a vector graphics editor, with the help of a simple isometric guiding grid in the background layer.
+
+Read the review [over here](https://doi.org/10.1016/j.stem.2019.05.005)
+
 
 ### A protocol for mitochnodrial ribosome profiling  (simple 2D sketch, 2021)
 
-Read more about the research [over here](https://www.nature.com/articles/s41596-021-00517-1)
 ![Schematic of a protocol for mitochondrial ribosome profiling](https://StefanoVianello.github.io/images/Illustration_sophia01.PNG)
 
+A quick and fun illustration done for Sophia Li, a postdoc in my lab. Before joining our lab Sophia developed a method to monitor ribosomal activity on the messenger RNA they are translating, and she collaborated with me to draw up a visual summary of the experimental details of the procedure.
 
-### Human and mouse developmental models (simple 2D illustration; 2021)
+Read more about the method [over here](https://www.nature.com/articles/s41596-021-00517-1)
+
+
+<!--- ### Human and mouse developmental models (simple 2D illustration; 2021)
 
 Read more about the research [over here](https://www.nature.com/articles/s41563-020-00829-9)
-![2D illustration of mouse and human embryonic models](https://StefanoVianello.github.io/images/Illustration_lutolf01.PNG)
+![2D illustration of mouse and human embryonic models](https://StefanoVianello.github.io/images/Illustration_lutolf01.PNG) ---->
