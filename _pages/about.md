@@ -22,6 +22,9 @@ Click [here](https://splasho.com/upgoer5/?i=FJ4tqTuyVTMcpaA0VTMyqlOxLKymVUEbLKDt
 ![Gastruloids immunostained for endoderm marker FoxA2 and posterior marker TBra](https://StefanoVianello.github.io/images/TBra_foxA2_banner.PNG)
 <figcaption> Embryonic stem cells can be left to self-organise into structures called Gastruloids. These provide an <i>in vitro</i> model of embryonic development. Endoderm cells, marked here in cyan (FoxA2), form an elongated internal core. The posterior marker TBra (gold) marks the posterior of the aggregate. </figcaption>
 
+![Gastruloids next to the tailbud of a mouse embryo. The same makers have been immunostained in both.](https://StefanoVianello.github.io/images/Gastruloids_and_tail.PNG)
+<figcaption> Gastruloids have been found to express genes in a organised way, in many way similar (and in many ways different) from that of the real mouse embryo. In the image above, the same markers have been stained in the tail of a mouse embryo (big structure on the right) and in 7-days-old Gastruloids. Insight comes from the comparison between what seen in the embryo and what observed to happen in these self-organising *in vitro* systems. </figcaption>
+
 ![Plots showing alternative quantifications of the marker expression patterns in Gastruloids](https://StefanoVianello.github.io/images/Gastruloid_quantification.PNG)
 <figcaption> The patterns of gene expression amongst Gastruloids are very robust and reproducible. We can image entire populations of Gastruloids and extract spatial information about where specific genes are expressed along the main axis. </figcaption>
 
