@@ -34,4 +34,4 @@ Click [here](https://splasho.com/upgoer5/?i=FJ4tqTuyVTMcpaA0VTMyqlOxLKymVUEbLKDt
 
 I have been a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Paul Gerald Layague Sanchez, my boyfriend, and I am a signatory of [DORA](https://sfdora.org/read/).
 
-Please feel free to check the [CV](https://StefanoVianello.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://StefanoVianello.github.io/files/CV_VIANELLO_052021.pdf).
+Please feel free to check the [CV](https://StefanoVianello.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://StefanoVianello.github.io/files/CV_VIANELLO_102021.pdf).
