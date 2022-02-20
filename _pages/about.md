@@ -33,6 +33,6 @@ Click [here](https://splasho.com/upgoer5/?i=FJ4tqTuyVTMcpaA0VTMyqlOxLKymVUEbLKDt
 
 ## Background
 
-I have been a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Paul Gerald Layague Sanchez, my boyfriend, and I am a signatory of [DORA](https://sfdora.org/read/). I currently curate a list of Global SOuth-authored preprints on the eLife platform [Sciety](https://sciety.org/users/ZonaPellucida_/lists/saved-articles).
+I have been a volunteer contributor for [preLights](https://prelights.biologists.com/about-us/) with Paul Gerald Layague Sanchez, my boyfriend, and I am a signatory of [DORA](https://sfdora.org/read/). I currently curate a list of Global South-authored preprints on the eLife platform [Sciety](https://sciety.org/users/ZonaPellucida_/lists/saved-articles).
 
 Please feel free to check the [CV](https://StefanoVianello.github.io/cv/) tab for some more information, or download a digital copy (.pdf) of my CV [here](https://StefanoVianello.github.io/files/CV_VIANELLO_102021.pdf).
