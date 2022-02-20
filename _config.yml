@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stefano Davide Vianello"
+  name             : "Stefano Davide Vianello, PhD"
   avatar           : "SDV.PNG"
-  bio              : "Developmental Biologist at EPFL, studying mouse endoderm development"
-  location         : "Lausanne, Switzerland"
+  bio              : "Developmental Biologist, endoderm development and synthetic embriology"
+  location         : "Switzerland"
   employer         : # "European Molecular Biology Laboratory (EMBL)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "stefano.vianello@epfl.ch"
+  email            : "stefano@vianello.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
