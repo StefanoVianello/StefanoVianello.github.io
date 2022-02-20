@@ -5,26 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-{% include base_path %}
-
 <h2>Get in touch</h2>
 
-<!-- modify this form HTML and place wherever you want your form -->
-<!-- tips from https://dev.to/charalambosioannou-->
-
 Under construction. In the meantime, you can contact me by email at the address stefano [at] vianello [dot] ai
-<!--
-<form
-  action= <!--"https://formspree.io/f/xzbyrypw"
-  method="POST"
-  enctype="multipart/form-data"
->
-<input type="email" name="_replyto" placeholder="Your e-mail (required)" required>
-<textarea name="message" placeholder="Your message (required)" required></textarea>
-<button type="submit">Send</button>
-</form>
-
--->
-{% for post in site.contact reversed %}
-  {% include archive-single.html %}
-{% endfor %}
