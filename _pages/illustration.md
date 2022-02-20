@@ -4,7 +4,7 @@ title: "Illustration"
 permalink: /illustration/
 author_profile: true
 ---
-<span style="background-color: #fff194"> **I am open for commissions**. Do contact me to discuss scientific illustrations in any of the styles below. </span>
+🙋‍♂️ <span style="background-color: #fff194"> **I am open for commissions**. Do contact me to discuss scientific illustrations in any of the styles below. </span>
 <br/><br/>
 In my own practice (mouse development and stem cell biology), I have explored and elaborated on the themes of "Drawing as a way of Knowing" (see e.g. Anderson 2017) with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field of Developmental Biology (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place. <span style="background-color: #ceeff0">This page wants to be some form of digital scrapbook where all these illustrations may find a home.</span>
 
@@ -40,12 +40,13 @@ Read more about the science [over here](https://www.sciencedirect.com/science/ar
 ### Endoderm emergence in the early mouse embryo (3D rendering from volume data; 2020)
 
 ![Illustration of early endoderm development in the mouse embryo](https://StefanoVianello.github.io/images/Illustration_me02.PNG)
+![Illustration of early endoderm development in the mouse embryo](https://StefanoVianello.github.io/images/Illustration_me03.PNG)
 
-An illustration that I did for one of my own publications! A summary of the main step of gut endoderm development as endoderm cells first emerge within the primitive streak (pink in the image), circumnavigate the surface of the embryo proper (white) and intercalate in the outer layer of (extraembryonic) visceral endoderm (yellow). The path of specific mesoderm (red) or endoderm (orange) cells is stylised in the insight on the right.
+Illustrations I did for one of my own publications and for my thesis! A summary of the main step of gut endoderm development as endoderm cells first emerge within the primitive streak (pink in the image), circumnavigate the surface of the embryo proper (white) and intercalate in the outer layer of (extraembryonic) visceral endoderm (yellow). The path of specific mesoderm (red) or endoderm (orange) cells is stylised in the insight on the right.
 
 This illustration was heavily based on the use of 3D rendering software and embryonic models as I elaborated upon in [this publication](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1). Specifically, the need to show the changing cellular composition of the outer epithelial layer of the embryo (visceral endoderm first, then with intercalated embryonic endoderm cells) allowed me to experiment with more complex material editing tasks and more complex node setups in the software. Slicing of the 3D models to create the "exploded view" shown in the inset at the right (and inspired by the beautiful hand drawings of [Rosa Beddington]()) was done by applying simple boolean modifiers on the model geometries.
 
-Read more about the  research [over here](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3)
+Read more about the  research [over here](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3) and [here](https://infoscience.epfl.ch/record/291467)
 
 
 
