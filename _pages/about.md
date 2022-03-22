@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="background-color: #ceeff0">I hold a PhD in biotechnology and bioengineering, and have expertise in stem cell biology, mouse developmental biology, and endoderm developmental biology. </span> I have also experience in synthetic embryology and bioengineering. My main academic interests reside in endoderm and gut tube development, as well as mechanobiology and mechanical inputs to development.
-<br/> **Currently, I am studying the mechanisms of intestinal metamorphosis during clownfish post-embryonic development**.  I am an advocate for intersectional open science, preprints, equitable publishing, and knowledge equity. Aside from my work, I am interested in data communication and visual storytelling in developmental biology.
+<br/><br/> **Currently, I am studying the mechanisms of intestinal metamorphosis during clownfish post-embryonic development**.  I am an advocate for intersectional open science, preprints, equitable publishing, and knowledge equity. Aside from my work, I am interested in data communication and visual storytelling in developmental biology.
 
 ## Research Projects
 
