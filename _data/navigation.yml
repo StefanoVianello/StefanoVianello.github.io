@@ -11,7 +11,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-    - title: "Preprint Lists"
+  - title: "Preprint Lists"
     url: /preprints/
 
   - title: "Contact"
