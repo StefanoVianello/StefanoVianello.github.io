@@ -19,18 +19,18 @@ An updated list of preprints touching on *Amphiprion sp.* 🐠
 
 Billy Moore, Marcela Herrera, Emma Gairin, Chengze Li, Saori Miura, Jeffrey Jolly, Manon Mercader, Michael Izumiyama, Erina Kawai, Timothy Ravasi, Vincent Laudet, Taewoo Ryu
 
-<br/><b>doi:</b> <a href="https://doi.org/10.1101/2022.07.21.500941">10.1101/2022.07.21.500941</a>
+<br/><b>doi:</b> <a href="https://doi.org/10.1101/2022.07.21.500941" target="_blank" rel="noopener noreferrer">10.1101/2022.07.21.500941</a>
 </div>
 
 <!--- -----------------------------------------------------------------------  -->
-<<!--- -----------------------------------------------------------------------  -->
+<!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
 <b>A chromosome-scale genome assembly of the false clownfish, Amphiprion ocellaris </b>
 
 Taewoo Ryu, Marcela Herrera, Billy Moore, Michael Izumiyama, Erina Kawai, Vincent Laudet, Timothy Ravasi
 
-<br/><b>doi:</b> <a href="https://doi.org/10.1101/2022.01.16.476524">10.1101/2022.01.16.476524</a>
+<br/><b>doi:</b> <a href="https://doi.org/10.1101/2022.01.16.476524" target="_blank" rel="noopener noreferrer">10.1101/2022.01.16.476524</a>
 </div>
 
 *regularly updated*
