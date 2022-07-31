@@ -4,9 +4,15 @@ title: "Preprint lists"
 permalink: /preprints/
 author_profile: true
 ---
+<style>
+.borderexample {
+ border-style:solid;
+ border-color:#287EC7;
+}
+</style>
 
 #Test
 
 Test123
 
-<p style="width:20px;height:20px;background-color:#ffcc00;">The contents go here</p>
+<div id="tile"> Test </div>
