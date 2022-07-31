@@ -11,8 +11,8 @@ author_profile: true
 }
 </style>
 
-## Amphiprion preprints
-🐠 An updated list of preprints touching on *Amphiprion sp.* 🐠
+## Amphipri-preprints
+An updated list of preprints touching on *Amphiprion sp.* 🐠
 
 <div class="tile">
 <b>The chromosome-scale genome assembly of the yellowtail clownfish Amphiprion clarkii provides insights into melanic pigmentation of anemonefish </b>
