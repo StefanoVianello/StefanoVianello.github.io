@@ -15,7 +15,7 @@ author_profile: true
 An updated list of preprints about *Amphiprion sp.* 🐠
 
 <div class="tile">
-🔵 <b>The chromosome-scale genome assembly of the yellowtail clownfish Amphiprion clarkii provides insights into melanic pigmentation of anemonefish </b>
+◽ <b>The chromosome-scale genome assembly of the yellowtail clownfish Amphiprion clarkii provides insights into melanic pigmentation of anemonefish </b>
 
 Billy Moore, Marcela Herrera, Emma Gairin, Chengze Li, Saori Miura, Jeffrey Jolly, Manon Mercader, Michael Izumiyama, Erina Kawai, Timothy Ravasi, Vincent Laudet, Taewoo Ryu
 
@@ -27,7 +27,7 @@ July 22, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>Extensive hybridisation throughout clownfishes evolutionary history </b>
+◽ <b>Extensive hybridisation throughout clownfishes evolutionary history </b>
 
 Sarah Schmid, Baptiste Micheli, Fabio Cortesi, Giulia Donati, Nicolas Salamin
 
@@ -39,7 +39,7 @@ July 10, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>Hydrodynamics shapes self-recruitment in anemonefishes </b>
+◽ <b>Hydrodynamics shapes self-recruitment in anemonefishes </b>
 
 Masaaki Sato, Kentaro Honda, Yohei Nakamura, Lawrence Patrick C. Bernardo, Klenthon O. Bolisay, Takahiro Yamamoto, Eugene C. Herrera, Yuichi Nakajima, Chunlan Lian, Wilfredo H. Uy, Miguel D. Fortes, Kazuo Nadaoka, Masahiro Nakaoka
 
@@ -51,7 +51,7 @@ June 13, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>Hosting sea anemones at the Perhentian reefs of Malaysia: population descriptives and associations with live coral cover </b>
+◽ <b>Hosting sea anemones at the Perhentian reefs of Malaysia: population descriptives and associations with live coral cover </b>
 
 Melissa Versteeg, Alanah Campbell, Hidayah Halid
 
@@ -63,7 +63,7 @@ June 10, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>Developing and adult reef fish show rapid, reversible light-induced plasticity in their visual system </b>
+◽ <b>Developing and adult reef fish show rapid, reversible light-induced plasticity in their visual system </b>
 
 Lily G. Fogg, Fabio Cortesi, Camille Gache, David Lecchini, N. Justin Marshall, Fanny de Busserolles
 
@@ -75,7 +75,7 @@ June 04, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>Insights into the genomics of clownfish adaptive radiation: the genomic substrate of the diversification </b>
+◽ <b>Insights into the genomics of clownfish adaptive radiation: the genomic substrate of the diversification </b>
 
 Anna Marcionetti, Nicolas Salamin
 
@@ -87,7 +87,7 @@ May 13, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>Environmental DNA persistence and fish detection in captive sponges </b>
+◽ <b>Environmental DNA persistence and fish detection in captive sponges </b>
 
 Wang Cai, Lynsey R. Harper, Erika F. Neave, Peter Shum, Jamie Craggs, María Belén Arias, Ana Riesgo, Stefano Mariani
 
@@ -99,7 +99,7 @@ April 20, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>The multi-level regulation of clownfish metamorphosis by thyroid hormones </b>
+◽ <b>The multi-level regulation of clownfish metamorphosis by thyroid hormones </b>
 
 Natacha Roux, Saori Miura, Mélanie Dussene, Yuki Tara, Fiona Lee, Simon de Bernard, Mathieu Reynaud, Pauline Salis, Agneesh Barua, Abdelhay Boulahtouf, Patrick Balaguer, Karine Gauthier, David Lecchini, Yann Gibert, Laurence Besseau, Vincent Laudet
 
@@ -110,7 +110,7 @@ March 04, 2022 <i>bioRxiv</i> <br/>
 <!--- -----------------------------------------------------------------------  -->
 
 <div class="tile">
-🔵 <b>A chromosome-scale genome assembly of the false clownfish, Amphiprion ocellaris </b>
+◽ <b>A chromosome-scale genome assembly of the false clownfish, Amphiprion ocellaris </b>
 
 Taewoo Ryu, Marcela Herrera, Billy Moore, Michael Izumiyama, Erina Kawai, Vincent Laudet, Timothy Ravasi
 
