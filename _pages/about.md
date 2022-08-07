@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-**I am a postdoctoral researchers studying clownfish metamorphosis.** I focus on the early (post-embryonic) development of clownfish digestive tract and on the role of thyroid hormones in this process.  I work in the Laudet's lab, as part of Academia Sinica's Marine Research Station (中央研究院所臨海研究站), Yilan County, Taiwan. I am an advocate for intersectional open science, preprints, equitable publishing, and knowledge equity. Aside from my work, I am interested in data communication and visual storytelling in developmental biology.
+**I am a postdoctoral researchers studying clownfish metamorphosis.** I focus on the early (post-embryonic) development of clownfish digestive tract and on the role of thyroid hormones in this process.  I work in the [Laudet's lab](https://groups.oist.jp/meedu), as part of Academia Sinica's Marine Research Station (中央研究院所臨海研究站), Yilan County, Taiwan. I am an advocate for intersectional open science, preprints, equitable publishing, and knowledge equity. Aside from my work, I am interested in data communication and visual storytelling in developmental biology.
 <br/><br/>
 I hold a PhD in biotechnology and bioengineering, and have expertise in stem cell biology, mouse developmental biology, and endoderm developmental biology. I have also experience in synthetic embryology and bioengineering. My main academic interests reside in endoderm and gut tube development, as well as mechanobiology and mechanical inputs to development.
 
 ![Landscape view from the Marine Research Station: fish pond in the foreground, green mountains in the background](https://StefanoVianello.github.io/images/landscape.png)
 
+
+
 ## Research Projects
 
-**Postdoc research**<br/>
+<!-- **Postdoc research**<br/>
 coming soon, watch this space
 ![Picture of a clownfish in an orange anemone](https://StefanoVianello.github.io/images/Clownfish.PNG)
+-->
 
 **PhD research** <br/>
 📑 **Read more about my research in [my most recent preprint](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3) and in [my doctorate thesis](https://infoscience.epfl.ch/record/291467).** Or click [here](https://splasho.com/upgoer5/?i=FJ4tqTuyVTMcpaA0VTMyqlOxLKymVUEbLKDtLJ5coJSfVTWuLzyyplOupzHtM3Wiq2yhMlOcoaAcMTHtqTuynKVtoJ90nTIlYPO3nTIhVUEbMKxtLKWyVUA0nJkfVUMypaxtqzIlrFOfnKE0oTHfVUEbMKxtnTS2MFO0olOaolO0nUWiqJqbVUMypaxtLzyaVTAbLJ5aMKZhVSEbMKxtLKWyVUA0nJkfVT1cp3AcozptLFOfo3Dto2LtnJ1jo3W0LJ50VTWiMUxtpTSlqUZuVSEbMKxtq2yfoPOhMJIxVTRtp3EioJSwnPO0olOyLKDtMz9iMPjtqTuyrFO3nJkfVT5yMJDtLFO3LKxtqT8tLaWyLKEbMFjtLJ5xVUEbMKxtq2yfoPOhMJIxVT1uoaxto3EbMKVtnJ5mnJEyVUOupaEmVUEiVTSfoT93VUEbMJylVTWiMTyyplO0olO3o3WeVTWyp3DhVSqyVT5iqlOeoz93VUEbLKDtoJShrFOiMvO0nTImMFOcoKOipaEuoaDtLz9xrFOjLKW0plOupzHtLaIcoUDtMaWioFO0nTHtp2SgMFOzLJ1coUxto2LtLaIcoTEcozptLzkiL2gmYvOWVUA0qJE5VUqbLKDtqTucplOzLJ1coUxto2LtLaIcoTEcozptLzkiL2gmVTAuovOxolO3nTIhVUEbMKxtLKWyVTW5VUEbMJ1mMJk2MKZfVUqcqTuiqKDtLJ55VTuyoUNtMaWioFO0nTHto3I0p2yxMF4tITucplOenJ5xVT9zVUqipzftnTIfpUZtqKZtLzI0qTIlVUIhMTIlp3EuozDtq2uuqPO0nTImMFOvqJyfMTyhMlOvoT9wn3ZtoT9inlOfnJgyYPObo3ptqTuyrFOeoz93VUqbLKDtqT8tMT8fVTuiqlO0nTI5VUEuoTftq2y0nPOiozHtLJ5iqTuypvO0olOvqJyfMPOuoTjtqTuyVTWiMUxtpTSlqUZtq2HtozIyMPjtLJ5xVUqbLKDtL291oTDtnTS2MFOao25yVUqlo25aVUqbMJ4tqTucplOxo2ImVT5iqPO3o3WeVT91qP4=) for a summary of my research in more accessible terms. <br/> <br/>
