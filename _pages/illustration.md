@@ -4,9 +4,10 @@ title: "Illustration"
 permalink: /illustration/
 author_profile: true
 ---
-🙋‍♂️ <span style="background-color: #fff194"> **I am open for commissions**. Do contact me to discuss scientific illustrations in any of the styles below. </span>
-<br/><br/>
-In my own practice (mouse development and stem cell biology), I have explored and elaborated on the themes of "Drawing as a way of Knowing" (see e.g. Anderson 2017) with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field of Developmental Biology (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place. <span style="background-color: #ceeff0">This page wants to be some form of digital scrapbook where all these illustrations may find a home.</span>
+<!-- 🙋‍♂️ <span style="background-color: #fff194"> **I am open for commissions**. Do contact me to discuss scientific illustrations in any of the styles below. </span>
+<br/><br/> -->
+
+<!-- In my own practice (mouse development and stem cell biology), I have explored and elaborated on the themes of "Drawing as a way of Knowing" (see e.g. Anderson 2017) with a focus on the use of 2.5D and 3D volumetric data as a tool to foster visual-spatial literacy and penetrative thinking skills in the field of Developmental Biology (see [my work on this topic](https://www.biorxiv.org/content/10.1101/2020.11.23.393991v1)). Still, and given the interdisciplinary and heterogeneous nature of my lab, I have also come to illustrate a variety of other topics. These works have made the pages of several pieces of literature in a variety of fields, yet never existed in a collected, easy to find place. <span style="background-color: #ceeff0">This page wants to be some form of digital scrapbook where all these illustrations may find a home.</span> -->
 
 ### Bone marrow organoids (3D render, 2021)
 
@@ -60,6 +61,14 @@ In practical terms, these illustrations (as all the other ones in the review) we
 
 Read the review [over here](https://doi.org/10.1016/j.stem.2019.05.005)
 
+
+### An automated DIY system for dynamic stem cell and organoid culture.  (2D illustration, isometric; 2022)
+
+![Isometric illustration of a microfluidics cell culture setup](https://StefanoVianello.github.io/images/Illustration_Julia01.PNG)
+
+Another, more recent, illustration in isometric style. This time to summarise the set up of a microfluidics-based automated setup to expose cells and organoids to precise and dynamic concentrations of small molecules without the need of user intervention. This is an illustration that I was very happy to do for the graphical abstract of my dear colleague Julia Tischler at EPFL, who led the research. As all my other isometric illustration, this one was done in a vector graphics editor, with the help of a simple isometric guiding grid in the background layer.
+
+Read about the research and the actual device [over here](https://doi.org/10.1016/j.crmeth.2022.100244)
 
 ### A protocol for mitochnodrial ribosome profiling  (simple 2D sketch, 2021)
 
