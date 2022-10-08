@@ -14,6 +14,19 @@ author_profile: true
 ## Amphipri-preprints
 An updated list of preprints about *Amphiprion sp.* 🐠
 
+
+<div class="tile">
+◽ <b>The genetic basis for adaptation in giant sea anemones to their symbiosis with anemonefish and Symbiodiniaceae </b>
+
+Agneesh Barua, Rio Kashimoto, Konstantin Khalturin, Noriyuki Satoh and Vincent Laudet
+
+<br/><b>doi:</b> <a href="https://doi.org/10.1101/2022.09.25.509434" target="_blank" rel="noopener noreferrer">10.1101/2022.09.25.509434</a>
+September 27, 2022 <i>bioRxiv</i> <br/>‏‏‎ ‎
+</div>
+
+<!--- -----------------------------------------------------------------------  -->
+<!--- -----------------------------------------------------------------------  -->
+
 <div class="tile">
 ◽ <b>The chromosome-scale genome assembly of the yellowtail clownfish Amphiprion clarkii provides insights into melanic pigmentation of anemonefish </b>
 
@@ -120,4 +133,4 @@ January 17, 2022 <i>bioRxiv</i> <br/>‏‏‎ ‎
 <!--- -----------------------------------------------------------------------  -->
 <!--- -----------------------------------------------------------------------  -->
 
-*regularly updated...*
+*regularly updated!*
