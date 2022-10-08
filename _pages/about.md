@@ -9,9 +9,15 @@ redirect_from:
 ---
 <style>
 
-.column {
+.column2 {
   float: left;
   width: 33.33%;
+  padding: 5px;
+}
+
+.column {
+  float: left;
+  width: 66.66%;
   padding: 5px;
 }
 
@@ -27,17 +33,16 @@ redirect_from:
 **I am a postdoctoral researchers studying clownfish metamorphosis.** I focus on the early (post-embryonic) development of clownfish digestive tract and on the role of thyroid hormones in this process.  I work in [Vincent Laudet's lab](https://groups.oist.jp/meedu) at Academia Sinica's Marine Research Station ([中央研究院所臨海研究站](https://sl.icob.sinica.edu.tw/mrs/)), Yilan County, Taiwan.  My main academic interests reside in endoderm and gut tube development.
 <br/><br/>
 
+<!--
 ![Landscape view from the Marine Research Station: fish pond in the foreground, green mountains in the background](https://StefanoVianello.github.io/images/landscape.png)
+/-->
 
 <div class="row">
   <div class="column">
     <img src="https://StefanoVianello.github.io/images/landscape.png" alt="Snow" style="width:100%">
   </div>
-  <div class="column">
-    <img src="https://StefanoVianello.github.io/images/landscape.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://StefanoVianello.github.io/images/landscape.png" alt="Mountains" style="width:100%">
+  <div class="column2">
+    <img src="https://StefanoVianello.github.io/images/slowdown.jpeg" alt="Forest" style="width:100%">
   </div>
 </div>
 
