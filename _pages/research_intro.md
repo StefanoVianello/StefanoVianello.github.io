@@ -7,9 +7,9 @@ author_profile: true
 
 ## Research Projects
 
-<!-- **Postdoc research**<br/>
-coming soon, watch this space
-![Picture of a clownfish in an orange anemone](https://StefanoVianello.github.io/images/Clownfish.PNG)
+**Postdoc research**
+[*Under construction*] I study the hormonal control of metamorphosis in the common clownfish (*Amphiprion ocellaris*). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef.
+![Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef](https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.PNG)
 -->
 
 **PhD research** <br/>
