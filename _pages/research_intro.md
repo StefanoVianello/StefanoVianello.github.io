@@ -9,8 +9,8 @@ author_profile: true
 
 **Postdoc research**
 [*Under construction*] I study the hormonal control of metamorphosis in the common clownfish (*Amphiprion ocellaris*). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef.
-![Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef](https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.PNG)
--->
+![Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef](https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.png)
+
 
 **PhD research** <br/>
 📑 **Read more about my research in [my most recent preprint](https://www.biorxiv.org/content/10.1101/2020.06.07.138883v3) and in [my doctorate thesis](https://infoscience.epfl.ch/record/291467).** Or click [here](https://splasho.com/upgoer5/?i=FJ4tqTuyVTMcpaA0VTMyqlOxLKymVUEbLKDtLJ5coJSfVTWuLzyyplOupzHtM3Wiq2yhMlOcoaAcMTHtqTuynKVtoJ90nTIlYPO3nTIhVUEbMKxtLKWyVUA0nJkfVUMypaxtqzIlrFOfnKE0oTHfVUEbMKxtnTS2MFO0olOaolO0nUWiqJqbVUMypaxtLzyaVTAbLJ5aMKZhVSEbMKxtLKWyVUA0nJkfVT1cp3AcozptLFOfo3Dto2LtnJ1jo3W0LJ50VTWiMUxtpTSlqUZuVSEbMKxtq2yfoPOhMJIxVTRtp3EioJSwnPO0olOyLKDtMz9iMPjtqTuyrFO3nJkfVT5yMJDtLFO3LKxtqT8tLaWyLKEbMFjtLJ5xVUEbMKxtq2yfoPOhMJIxVT1uoaxto3EbMKVtnJ5mnJEyVUOupaEmVUEiVTSfoT93VUEbMJylVTWiMTyyplO0olO3o3WeVTWyp3DhVSqyVT5iqlOeoz93VUEbLKDtoJShrFOiMvO0nTImMFOcoKOipaEuoaDtLz9xrFOjLKW0plOupzHtLaIcoUDtMaWioFO0nTHtp2SgMFOzLJ1coUxto2LtLaIcoTEcozptLzkiL2gmYvOWVUA0qJE5VUqbLKDtqTucplOzLJ1coUxto2LtLaIcoTEcozptLzkiL2gmVTAuovOxolO3nTIhVUEbMKxtLKWyVTW5VUEbMJ1mMJk2MKZfVUqcqTuiqKDtLJ55VTuyoUNtMaWioFO0nTHto3I0p2yxMF4tITucplOenJ5xVT9zVUqipzftnTIfpUZtqKZtLzI0qTIlVUIhMTIlp3EuozDtq2uuqPO0nTImMFOvqJyfMTyhMlOvoT9wn3ZtoT9inlOfnJgyYPObo3ptqTuyrFOeoz93VUqbLKDtqT8tMT8fVTuiqlO0nTI5VUEuoTftq2y0nPOiozHtLJ5iqTuypvO0olOvqJyfMPOuoTjtqTuyVTWiMUxtpTSlqUZtq2HtozIyMPjtLJ5xVUqbLKDtL291oTDtnTS2MFOao25yVUqlo25aVUqbMJ4tqTucplOxo2ImVT5iqPO3o3WeVT91qP4=) for a summary of my research in more accessible terms. <br/> <br/>
