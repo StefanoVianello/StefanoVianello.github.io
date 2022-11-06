@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Projects
 
-**Postdoc research** [*Under construction*] <br/>
+**Postdoc research** <br/>
 I study the hormonal control of metamorphosis in the common clownfish (*Amphiprion ocellaris*). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef.
 ![Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef](https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.png)
 <figcaption> Illustration of the lifecycle of the common clownfish. Larvae (rightmost) disperse into the ocean (pelagic phase). Major physiological, behavioral, and ecological changes (metamorphosis) take place as the larval body plan is recruited into the reef and the clownfish finds an anemome in which to house. Figure redrawn from (Roux et al. 2019)[https://doi.org/10.1002/dvdy.46]</figcaption>
@@ -17,9 +17,12 @@ I study the hormonal control of metamorphosis in the common clownfish (*Amphipri
 <figcaption> Photograph of Amphiprion ocellaris clownfish larvae as seen down the microscope, on the day of hatching. Larvae were fixed and orange pigment cells were stripped by acetone treatment. The larvae appear black and white as a result. </figcaption>
 
 
-![Newly hatched larvae of the common clowmfish Amphiprion ocellaris](https://StefanoVianello.github.io/images/1dph_larvae.mp4)
+![Newly hatched larvae of the common clownfish Amphiprion ocellaris](https://StefanoVianello.github.io/images/1dph_larvae.mp4)
 <figcaption> Newly hatched larvae of the common clownfish *Amphiprion ocellaris* </figcaption>
 
+<video src="https://StefanoVianello.github.io/images/1dph_larvae.mp4" data-canonical-src="https://StefanoVianello.github.io/images/1dph_larvae.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+
+ </video>
 <video src=https://StefanoVianello.github.io/images/1dph_larvae.mp4>
 </video>
 
