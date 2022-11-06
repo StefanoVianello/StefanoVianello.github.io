@@ -10,9 +10,11 @@ author_profile: true
 **Postdoc research** [*Under construction*] <br/>
 I study the hormonal control of metamorphosis in the common clownfish (*Amphiprion ocellaris*). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef.
 ![Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef](https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.png)
-<figcaption> Illustration of the lifecycle of the common clownfish. Larvae (rightmost) disperse into the ocean (pelagic phase). Major physiological, behavioral, and ecological changes (metamorphosis) take place as the larval body plan is recruited into the reef and the clownfish finds an anemome in which to house. Figure redrawn from [Roux et al. 2019](https://doi.org/10.1002/dvdy.46)</figcaption>
+<figcaption> Illustration of the lifecycle of the common clownfish. Larvae (rightmost) disperse into the ocean (pelagic phase). Major physiological, behavioral, and ecological changes (metamorphosis) take place as the larval body plan is recruited into the reef and the clownfish finds an anemome in which to house. Figure redrawn from (Roux et al. 2019)[https://doi.org/10.1002/dvdy.46]</figcaption>
 ![Microscope immunofluorescence larvae of clownfish, the day of hatching](https://StefanoVianello.github.io/images/Immunostaining_1dph.PNG)
+<figcaption> Two larvae of the clownfish Amphiprion percula, collected on the day of hatching. Stains show the cell nuclei (light gray) and the epithelial cell junction component epithelial-cadherin (light blue)</figcaption>
 ![Fotographs of 3 clownfish larvae on the day of hatching (fixed)](https://StefanoVianello.github.io/images/Larvae_1dph.PNG)
+<figcaption> Photograph of Amphiprion ocellaris clownfish larvae as seen down the microscope, on the day of hatching. Larvae were fixed and orange pigment cells were stripped by acetone treatment. The larvae appear black and white as a result. </figcaption>
 
 
 ![Newly hatched larvae of the common clowmfish Amphiprion ocellaris](https://StefanoVianello.github.io/images/1dph_larvae.mp4)
