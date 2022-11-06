@@ -17,9 +17,6 @@ I study the hormonal control of metamorphosis in the common clownfish (*Amphipri
 <figcaption> Photograph of Amphiprion ocellaris clownfish larvae as seen down the microscope, on the day of hatching. Larvae were fixed and orange pigment cells were stripped by acetone treatment. The larvae appear black and white as a result. </figcaption>
 
 
-![Newly hatched larvae of the common clownfish Amphiprion ocellaris](https://StefanoVianello.github.io/images/1dph_larvae.mp4)
-<figcaption> Newly hatched larvae of the common clownfish *Amphiprion ocellaris* </figcaption>
-
 <video src="https://StefanoVianello.github.io/images/1dph_larvae.mp4" data-canonical-src="https://StefanoVianello.github.io/images/1dph_larvae.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
 
