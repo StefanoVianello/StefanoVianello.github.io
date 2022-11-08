@@ -16,6 +16,19 @@ An updated list of preprints about *Amphiprion sp.* 🐠
 
 
 <div class="tile">
+◽ <b> Megacolonies: an alternative social organization in anemonefishes? </b>
+
+Manon Mercader, Jann Zwahlen, Kina Hayashi, Hiroki Takamiyagi, Yung-Che Tseng, Hai-Thanh Nguyen, Keishu Asada, Jérome Sowinski, James Rimer, David Lecchini,  Vincent Laudet
+
+<br/><b>doi:</b> <a href="https://doi.org/10.1101/2022.11.06.515354" target="_blank" rel="noopener noreferrer">10.1101/2022.11.06.515354</a>
+November 07, 2022 <i>bioRxiv</i> <br/>‏‏‎ ‎
+</div>
+
+<!--- -----------------------------------------------------------------------  -->
+<!--- -----------------------------------------------------------------------  -->
+
+
+<div class="tile">
 ◽ <b>The genetic basis for adaptation in giant sea anemones to their symbiosis with anemonefish and Symbiodiniaceae </b>
 
 Agneesh Barua, Rio Kashimoto, Konstantin Khalturin, Noriyuki Satoh and Vincent Laudet
