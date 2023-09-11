@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "(this page is still under construction)"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
