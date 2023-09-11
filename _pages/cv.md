@@ -20,7 +20,7 @@ redirect_from:
 <style>
 
 .projcard-container {
-  margin: 0px 0;
+  margin: 50px 0;
 }
 
 /* Actual Code: */
@@ -74,7 +74,7 @@ redirect_from:
 .projcard-img {
   position: absolute;
   height: 300px;
-  width: 400px;
+  width: 0px;
   top: 0;
   left: 0;
   transition: transform 0.2s ease;
