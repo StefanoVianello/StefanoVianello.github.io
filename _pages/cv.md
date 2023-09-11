@@ -37,7 +37,7 @@ redirect_from:
 .projcard {
   position: relative;
   width: 100%;
-  height: 300px;
+  height: 350px;
   margin-bottom: 40px;
   border-radius: 10px;
   background-color: #fff;
