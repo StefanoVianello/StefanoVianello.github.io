@@ -302,7 +302,7 @@ redirect_from:
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Publications</div>
-        <div class="projcard-subtitle">other</div>
+        <div class="projcard-subtitle">Other</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
             <li><b>Vianello</b>;   ““English only please!” Real world effects of English-centred literature searches.”. preLights, 2021</li>
@@ -328,7 +328,14 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Posters</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+        <div class="projcard-description"><ul>
+          <li>Jovanic, Godovich, <b>Vianello</b>, Hadjantonakis; International Society for Stem Cell Research Annual meeting, "2D and 3D gastruloid models for investigating mammalian endoderm development" 06.2023 </li>
+          <li><b>Vianello</b>, Lutolf; BIRS-CMO WORKSHOP: "MODELLING AND ENGINEERING THE MOUSE EMBRYO" Oaxaca, MX Cancelled due pandemic 04/2020</li>
+          <li><b>Vianello</b>, Lutolf; EUROPEAN SUMMER SCHOOL ON STEM CELLS AND REGENERATIVE MEDICINE Hydra, EL "Studying the mechanobiology of early mammalian development using self-organising embryonic organoids" 09/2019</li>
+          <li><b>Vianello</b>, Lutolf; EMBO SYMPOSIUM: MECHANICAL FORCES IN DEVELOPMENT Heidelberg, DE "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 07/2019</li>
+          <li><b>Vianello</b>, Lutolf; EMBO SYMPOSIUM: SYNTHETIC MORPHOGENSIS Heidelberg, DE "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 03/2019</li>
+          <li><b>Vianello</b>; EMBO WORKSHOP: VISUALIZING BIOLOGICAL DATA 03/2019</li>
+        </ul></div>
         </div>
     </div>
   </div>
@@ -338,7 +345,14 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Talks</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+        <div class="projcard-description"><ul>
+          <li> (internal) Speaker: "", 2023</li>
+          <li>OASPA Open Access Scholarly Publishing Association Webinar; Invited speaker: "So can publishing respond to a crisis? An evidence-informed approach" 2021</li>
+          <li>ASAPbio FELLOWS TRAINING PROGRAMME virtual Invited speaker: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
+          <li> PHYSICS OF LIVING SYSTEMS (INTERNAL) Lausanne, CH "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
+          <li>EUROTECH SUMMER SCHOOL: OPEN SCIENCE IN PRACTICE Lausanne, CH Invited speaker: “PreLights: a community-driven effort to highlighting preprints. 2019</li>
+          <li>EMBO WORKSHOP: IMAGING MOUSE DEVELOPMENT Heidelberg, DE “Elucidating the role of mechanical cues during peri-implantation mouse development”. 2019</li>
+        </ul></div>
         </div>
     </div>
   </div>
