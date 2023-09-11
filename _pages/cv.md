@@ -18,11 +18,7 @@ redirect_from:
 
 
 <style>
-  body {
-  font-family: 'Open Sans', arial, sans-serif;
-  color: #333;
-  font-size: 14px;
-}
+
 .projcard-container {
   margin: 50px 0;
 }
