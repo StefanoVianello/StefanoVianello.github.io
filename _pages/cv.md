@@ -93,7 +93,7 @@ redirect_from:
   position: absolute;
   top: 7%;
   bottom: 7%;
-  left: 5px;
+  left: 100px;
   width: calc(100% - 50px);
   font-size: 17px;
 }
