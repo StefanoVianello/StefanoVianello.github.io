@@ -247,7 +247,8 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Education</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+        <div class="projcard-description">2017-2021:  test <br/>
+        2016-2017: d</div>
         </div>
     </div>
   </div>
