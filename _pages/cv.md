@@ -226,8 +226,8 @@ redirect_from:
   <div class="projcard-container">
     
   <div class="projcard projcard-grey">
-    <div class="projcard-innerbox">      
-      <div class="projcard-textbox">
+    <div class="projcard-innerbox">
+        <div class="projcard-textbox">
         <div class="projcard-title">Card Title</div>
         <div class="projcard-subtitle">This explains the card in more detail</div>
         <div class="projcard-bar"></div>
@@ -235,7 +235,8 @@ redirect_from:
         <div class="projcard-tagbox">
           <span class="projcard-tag">HTML</span>
           <span class="projcard-tag">CSS</span>
-        </div>      
+        </div>
+      </div>
     </div>
   </div>
   
