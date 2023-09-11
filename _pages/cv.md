@@ -93,8 +93,8 @@ redirect_from:
   position: absolute;
   top: 7%;
   bottom: 7%;
-  left: 430px;
-  width: calc(100% - 470px);
+  left: 5px;
+  width: calc(100% - 0px);
   font-size: 17px;
 }
 .projcard:nth-child(2n) .projcard-textbox {
