@@ -265,9 +265,14 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Publications</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description"> Vianello, Lutolf; “In vitro endoderm emergence and self-organisation in the absence of extraembryonic tissues and embryonic architecture”, 2021 <br/><br/>
-        Vianello; “Exploring and illustrating the mouse embryo: virtual objects to think and create with”,2020 <br/><br/>
-        Vianello, Lutolf; “Understanding the Mechanobiology of Early Mammalian Development through Bioengineered Models”, 2019
+        <div class="projcard-description"> 
+          <ul>
+            <li>Suppinger, Zinner, Aizarani, Lukonin, Ortiz, Azzi, Stadler, <b>Vianello</b>, Palla, Kohler, Mayran, Lutolf, Liberali; "Multimodal characterization of murine gastruloid development", 2023</li>
+            <li>Tischler, Swank, Hsiung, <b>Vianello</b>, Lutolf, Maerkl; "An automated do-it-yourself system for dynamic stem cell and organoid culture in standard multi-well plates", 2022</li>
+            <li><b>Vianello</b>, Lutolf; “In vitro endoderm emergence and self-organisation in the absence of extraembryonic tissues and embryonic architecture”, 2021</li>
+            <li><b>Vianello</b>; “Exploring and illustrating the mouse embryo: virtual objects to think and create with”,2020</li>
+            <li><b>Vianello</b>, Lutolf; “Understanding the Mechanobiology of Early Mammalian Development through Bioengineered Models”, 2019</li>
+          </ul>
         </div>
         </div>
     </div>
