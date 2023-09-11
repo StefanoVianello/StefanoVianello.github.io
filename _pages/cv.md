@@ -250,9 +250,9 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description">
           <ul>
-            <li><b>2022 - present</b>: Marine Research Station, Academia Sinica  <span class="projcard-tag">EcoEvoDevo</span></li>
-            <li><b>2017-2021</b>: École polytechnique fédérale de Lausanne (EPFL)</li>
-            <li><b>2013 - 2016</b>: Girton College, University of Cambridge</li>
+            <li><span class="projcard-tag">2022-present</span> Marine Research Station, Academia Sinica  </li>
+            <li><span class="projcard-tag">2017-2021</span> École polytechnique fédérale de Lausanne (EPFL)</li>
+            <li><<span class="projcard-tag">2013-2016</span> Girton College, University of Cambridge</li>
           </ul>         
         </div>
         </div>
