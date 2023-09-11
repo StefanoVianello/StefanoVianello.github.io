@@ -228,7 +228,7 @@ redirect_from:
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
-        <div class="projcard-title">Stefano Davide Vianello, phD</div>
+        <div class="projcard-title">Stefano Davide Vianello, PhD</div>
         <div class="projcard-subtitle">ORCID:0000-0002-4152-8990</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"> Postdoctoral researcher, Marine EvoEvoDevo Unit <br/> Current address: 中央研究院所臨海研究站 (Linhai Marine Research Station, Academia Sinica, Taiwan)</div>
@@ -242,7 +242,7 @@ redirect_from:
     </div>
   </div>
   
-  <div class="projcard projcard-red">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Education</div>
@@ -252,7 +252,7 @@ redirect_from:
     </div>
   </div>
   
-   <div class="projcard projcard-red">
+   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Publications</div>
@@ -262,7 +262,7 @@ redirect_from:
     </div>
   </div>
   
-  <div class="projcard projcard-red">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Publications</div>
@@ -273,7 +273,7 @@ redirect_from:
     </div>
   </div>
 
-  <div class="projcard projcard-red">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Publications</div>
@@ -284,7 +284,7 @@ redirect_from:
     </div>
   </div>
 
-  <div class="projcard projcard-red">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Posters</div>
@@ -294,7 +294,7 @@ redirect_from:
     </div>
   </div>
 
-  <div class="projcard projcard-red">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Talks</div>
@@ -304,7 +304,7 @@ redirect_from:
     </div>
   </div>
 
-  <div class="projcard projcard-red">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Community involvement abnd responsibilities</div>
@@ -314,7 +314,7 @@ redirect_from:
     </div>
   </div>
 
-  <div class="projcard projcard-red">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Misc</div>
