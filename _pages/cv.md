@@ -175,7 +175,7 @@ redirect_from:
   font-size: 15px;
   color: #424242;
   height: 150px;
-  overflow: scroll;
+  overflow: auto;
   text-overflow: ellipsis;
 }
 .projcard-tagbox {
