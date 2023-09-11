@@ -284,7 +284,16 @@ redirect_from:
         <div class="projcard-title">Publications</div>
         <div class="projcard-subtitle">Protocols, data, scripts</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+        <div class="projcard-description"><ul>
+            <li><b>Vianello</b>;  “Protocol to process Gastruloids for FACS”. 2021</li>
+            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;  “Protocol to generate Gastruloids (LSCB, EPFL)”. 2020</li>
+            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to immunostain Gastruloids (LSCB, EPFL)”. 2020</li>
+            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to culture mESCs (LSCB, UPLUT)”. 2020</li>
+            <li><b>Vianello</b>; “RNotebook FACS pipeline”. 2021</li>
+            <li><b>Vianello</b>, Sanchez, Bercowsky-Rama, Lutolf; “Gastruloid Intensity Proiler”. 2020</li>
+            <li><b>Vianello</b>; “3D models of mouse embryonic development”. 2020</li>
+          </ul>
+          </div>
         </div>
     </div>
   </div>
