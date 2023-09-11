@@ -362,7 +362,28 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Community involvement and responsibilities</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+        <div class="projcard-description"><ul>
+          <li>2021: Preprint Curator, Sciety</li>
+          <li>2020-2021: Preprint Curator, The company of biologists</li>
+          <li>2019-2021: PreLights Contributor, The company of biologists</li>
+        </ul></div>
+        </div>
+    </div>
+  </div>
+
+  <div class="projcard projcard-grey">
+    <div class="projcard-innerbox">     
+      <div class="projcard-textbox">
+        <div class="projcard-title">Teaching Training/Experience</div>
+        <div class="projcard-bar"></div>
+        <div class="projcard-description"><ul>
+          <li>2021: EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
+          <li>2020: EPFL ENG-624: SCIENCE & ENGINEERING TEACHING AND LEARNING</li>
+          <li>2021: TEACHING ASSISTANT EPFL BIO-378 PHYSIOLOGY LAB 1</li>
+          <li>2018-2021: TEACHING ASSISTANT EPFL BIOENG-110 GENERAL BIOLOGY</li>
+          <li>24,25/10/2019: COURSE INSTRUCTOR CAMBIOSCIENCE PRACTICAL COURSE: DISCOVERING GASTRULOIDS</li>
+          <li>10/2016; 02/2017: DEMONSTRATOR UNIVERSITY OF CAMBRIDGE</li>
+        </ul></div>
         </div>
     </div>
   </div>
