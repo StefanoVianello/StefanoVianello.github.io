@@ -20,7 +20,7 @@ redirect_from:
 <style>
 
 .projcard-container {
-  margin: 50px 0;
+  margin: 0px 0;
 }
 
 /* Actual Code: */
