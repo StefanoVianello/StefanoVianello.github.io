@@ -248,8 +248,8 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Education</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">2017-2021:  test <br/>
-        2016-2017: d</div>
+        <div class="projcard-description">2017-2021: &emsp&emsp test <br/>
+        2016-2017: &emsp&emsp d</div>
         </div>
     </div>
   </div>
