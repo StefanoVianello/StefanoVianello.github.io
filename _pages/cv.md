@@ -165,7 +165,6 @@ redirect_from:
 .projcard-brown::before { background-image: linear-gradient(-70deg, #C49863, transparent 50%); }
 .projcard-brown:nth-child(2n)::before { background-image: linear-gradient(-250deg, #C49863, transparent 50%); }
 .projcard-grey .projcard-bar { background-color: #424242; }
-.projcard-grey {height: 600px; overflow: visible;}
 .projcard-grey::before { background-image: linear-gradient(-70deg, #424242, transparent 50%); }
 .projcard-grey:nth-child(2n)::before { background-image: linear-gradient(-250deg, #424242, transparent 50%); }
 .projcard-customcolor .projcard-bar { background-color: var(--projcard-color); }
