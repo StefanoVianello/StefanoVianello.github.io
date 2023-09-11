@@ -99,7 +99,7 @@ redirect_from:
 }
 .projcard:nth-child(2n) .projcard-textbox {
   left: initial;
-  right: 430px;
+  right: 0px;
 }
 .projcard-textbox::before,
 .projcard-textbox::after {
