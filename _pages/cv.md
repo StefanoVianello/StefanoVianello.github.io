@@ -42,6 +42,7 @@ redirect_from:
   background-color: #fff;
   border: 2px solid #ddd;
   font-size: 18px;
+  overflow: visible;
   cursor: pointer;
   box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
