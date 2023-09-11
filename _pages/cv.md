@@ -304,7 +304,7 @@ redirect_from:
         <div class="projcard-title">Publications</div>
         <div class="projcard-subtitle">Other</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description"><ul>
+        <div class="projcard-description"><span class="projcard-tag">PreLights posts</span><ul>
             <li><b>Vianello</b>;   ““English only please!” Real world effects of English-centred literature searches.”. preLights, 2021</li>
             <li><b>Vianello</b>; “Bitter bites for a chocolate lover. Searching for RNAi targets to fight cocoa crop pests”. preLights, 2021</li>
             <li><b>Vianello</b>, Sanchez;  “Say “Aaaah!”. Foregut development and toothed tongues in the black Katy chiton”. preLights, 2021</li>
@@ -314,7 +314,7 @@ redirect_from:
             <li><b>Vianello</b>, Sanchez;  “(Transiently) Comfortable in its own “skin”: formation of epithelium-like multicellular structures in a unicellular organism through conserved actomyosin-dependent mechanisms”. preLights, 2019</li>
             <li><b>Vianello</b>, Sanchez; ; “Mind the gap: epiblast geometry at its extraembryonic boundary constrains BMP localization and ensures robust gradient formation”. preLights, 2019</li>
           </ul>
-          <ul>
+          <span class="projcard-tag">Blogposts</span><ul>
             <li>"No Diamonds for DevBio", August 2023</li>
             <li>“The “pre” in (my) “preprint” is for pre-figurative”. September 2021</li>
             <li>“Preprint highlighting in a haunted house [Part 1]”. August 2021</li>
