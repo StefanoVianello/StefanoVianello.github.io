@@ -124,7 +124,7 @@ redirect_from:
   right: -55px;
 }
 .projcard:nth-child(2n) .projcard-textbox::after {
-  display: block;
+  display: none;
 }
 .projcard-textbox * {
   position: relative;
@@ -248,9 +248,13 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Education</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">* 2022 - present: &emsp&emsp test 
-        * 2017-2021: École polytechnique fédérale de Lausanne (EPFL) 
-        * 2013 - 2016: Girton College, University of Cambridge</div>
+        <div class="projcard-description">
+          <ul>
+            <li>2022 - present: &emsp&emsp test </li>
+            <li>2017-2021: École polytechnique fédérale de Lausanne (EPFL)</li>
+            <li>2013 - 2016: Girton College, University of Cambridge</li>
+          </ul>         
+        </div>
         </div>
     </div>
   </div>
