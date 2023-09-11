@@ -43,7 +43,7 @@ redirect_from:
   background-color: #fff;
   border: 2px solid #ddd;
   font-size: 18px;
-  overflow: scroll;
+  overflow: hide;
   cursor: pointer;
   box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
@@ -174,8 +174,8 @@ redirect_from:
   z-index: 10;
   font-size: 15px;
   color: #424242;
-  height: 125px;
-  overflow: hidden;
+  height: 500px;
+  overflow: scroll;
   text-overflow: ellipsis;
 }
 .projcard-tagbox {
