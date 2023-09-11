@@ -37,7 +37,7 @@ redirect_from:
 .projcard {
   position: relative;
   width: 100%;
-  height: 350px;
+  height: 450px;
   margin-bottom: 40px;
   border-radius: 10px;
   background-color: #fff;
@@ -174,7 +174,7 @@ redirect_from:
   z-index: 10;
   font-size: 15px;
   color: #424242;
-  height: 150px;
+  height: 250px;
   overflow: auto;
   text-overflow: ellipsis;
 }
