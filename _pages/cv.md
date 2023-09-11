@@ -26,7 +26,8 @@ redirect_from:
     <div class="row justify-content-end">
       <div class="col-12 col-md-5 text-center">
         <h1>Froala Blocks</h1>
-        <p class="lead">When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
+        <p class="lead">Stefano Davide Vianello</p>
+        test test test
 
         <p class="mt-4"><a href="https://www.froala.com">Learn More <i class="fas fa-angle-right"></i></a></p>
       </div>
