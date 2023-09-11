@@ -93,7 +93,7 @@ redirect_from:
   position: absolute;
   top: 7%;
   bottom: 7%;
-  left: 100px;
+  left: 60px;
   width: calc(100% - 60px);
   font-size: 17px;
 }
@@ -228,10 +228,10 @@ redirect_from:
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
-        <div class="projcard-title">Card Title</div>
-        <div class="projcard-subtitle">This explains the card in more detail</div>
+        <div class="projcard-title">Dr. Stefano Davide Vianello</div>
+        <div class="projcard-subtitle">ORCID:0000-0002-4152-8990</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+        <div class="projcard-description">Contact1: test <br/> Contact2:.</div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">HTML</span>
           <span class="projcard-tag">CSS</span>
