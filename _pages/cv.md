@@ -285,13 +285,13 @@ redirect_from:
         <div class="projcard-subtitle">Protocols, data, scripts</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
-            <li><b>Vianello</b>;  “Protocol to process Gastruloids for FACS”. 2021</li>
-            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;  “Protocol to generate Gastruloids (LSCB, EPFL)”. 2020</li>
-            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to immunostain Gastruloids (LSCB, EPFL)”. 2020</li>
-            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to culture mESCs (LSCB, UPLUT)”. 2020</li>
-            <li><b>Vianello</b>; “RNotebook FACS pipeline”. 2021</li>
-            <li><b>Vianello</b>, Sanchez, Bercowsky-Rama, Lutolf; “Gastruloid Intensity Profiler”. 2020</li>
-            <li><b>Vianello</b>; “3D models of mouse embryonic development”. 2020</li>
+            <li><b>Vianello</b>;  “Protocol to process Gastruloids for FACS”. 2021 [doi:<a href="https://dx.doi.org/10.17504/protocols.io.bvgrn3v6">dx.doi.org/10.17504/protocols.io.bvgrn3v6</a>]</li>
+            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;  “Protocol to generate Gastruloids (LSCB, EPFL)”. 2020 [doi:<a href="https://dx.doi.org/10.17504/protocols.io.9j5h4q6">dx.doi.org/10.17504/protocols.io.9j5h4q6</a>]</li>
+            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to immunostain Gastruloids (LSCB, EPFL)”. 2020 [doi:<a href="https://dx.doi.org/10.17504/protocols.io.7tzhnp6">dx.doi.org/10.17504/protocols.io.7tzhnp6</a>]</li>
+            <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to culture mESCs (LSCB, UPLUT)”. 2020 [doi:<a href="https://dx.doi.org/10.17504/protocols.io.7xbhpin">dx.doi.org/10.17504/protocols.io.7xbhpin</a>]</li>
+            <li><b>Vianello</b>; “RNotebook FACS pipeline”. 2021 <a href="https://doi.org/10.5281/zenodo.4894122"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4894122.svg" alt="DOI"></a></li>
+            <li><b>Vianello</b>, Sanchez, Bercowsky-Rama, Lutolf; “Gastruloid Intensity Profiler”. 2020 <a href="https://doi.org/10.5281/zenodo.4899121"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4899121.svg" alt="DOI"></a></li>
+            <li><b>Vianello</b>; “3D models of mouse embryonic development”. 2020 <a href="https://doi.org/10.5281/zenodo.4284380"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4284380.svg" alt="DOI"></a></li>
           </ul>
           </div>
         </div>
