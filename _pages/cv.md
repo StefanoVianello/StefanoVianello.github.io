@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,13 +24,33 @@ redirect_from:
 
   <div class="container">
     <div class="row justify-content-end">
-      <div class="col-12 col-md-5 text-center">
-        <h1>Froala Blocks</h1>
-        <p class="lead">Stefano Davide Vianello</p>
+      <div class="col-12 col-md-5 text-left">
+        <h1> Stefano Davide Vianello</h1>
+        <p class="lead">Yilan Marine Research Station</p>
         test test test
 
-        <p class="mt-4"><a href="https://www.froala.com">Learn More <i class="fas fa-angle-right"></i></a></p>
+        
       </div>
     </div>
   </div>
 </section>
+
+<section class="fdb-block">
+  <div class="col-fill-left" style="background-image: url(https://i.imgur.com/3U2Fd7P.jpg);">
+  </div>
+
+  <div class="container">
+    <div class="row justify-content-end">
+      <div class="col-12 col-md-5 text-left">
+        <h1> Stefano Davide Vianello</h1>
+        <p class="lead">Stefano Davide Vianello</p>
+        test test test
+
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- <p class="mt-4"><a href="https://www.froala.com">Learn More <i class="fas fa-angle-right"></i></a></p> -->
