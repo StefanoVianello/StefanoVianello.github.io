@@ -37,13 +37,13 @@ redirect_from:
 .projcard {
   position: relative;
   width: 100%;
-  height: 300px;
+  min-height: 300px;
+  overflow: hidden;
   margin-bottom: 40px;
   border-radius: 10px;
   background-color: #fff;
   border: 2px solid #ddd;
   font-size: 18px;
-  overflow: hidden;
   cursor: pointer;
   box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
@@ -232,7 +232,7 @@ redirect_from:
         <div class="projcard-title">Stefano Davide Vianello, PhD</div>
         <div class="projcard-subtitle">ORCID:0000-0002-4152-8990</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description"> Test Postdoctoral researcher, Marine EvoEvoDevo Unit <br/> Current address: 中央研究院所臨海研究站 (Linhai Marine Research Station, Academia Sinica, Taiwan) <br/> <br/>  I am a postdoctoral researcher working in the Marine Eco-Evo-Devo Unit of Prof. Vincent Laudet at the LinHai Marine Research Station, Academia Sinica, Taiwan. My research focuses on the study of gastrointestinal changes during anemonefish metamorphosis, and on the role of thyroid hormones in this process; with a focus on the evolutionary conservation of gastrointestinal metamorphosis mechanisms across deuterostomes. <br/> I completed my PhD in the Laboratory of Stem Cell Engineering of Prof. Matthias Lütolf at EPFL, Switzerland; in which I described the self-organisation properties of endoderm cells as they develop within stem-cell-based models of early embryonic development (gastruloids). I studied Natural Sciences in Cambridge (Girton College), specialising in Genetics. I then worked in the laboratory of Prof. Alfonso Martinez-Arias, Department of Genetics, to investigate the interactions between chemical signalling pathways involved in early embryonic development (Wnt and Notch signalling integration). I am an advocate for intersectional open science, preprinting, and knowledge equity, and a strong critic of the current politics of publishing in academia. Aside from his lab work, I am interested in data communication and visual storytelling in developmental biology.</div>
+        <div class="projcard-description"> Postdoctoral researcher, Marine EvoEvoDevo Unit <br/> Current address: 中央研究院所臨海研究站 (Linhai Marine Research Station, Academia Sinica, Taiwan) <br/> <br/>  I am a postdoctoral researcher working in the Marine Eco-Evo-Devo Unit of Prof. Vincent Laudet at the LinHai Marine Research Station, Academia Sinica, Taiwan. My research focuses on the study of gastrointestinal changes during anemonefish metamorphosis, and on the role of thyroid hormones in this process; with a focus on the evolutionary conservation of gastrointestinal metamorphosis mechanisms across deuterostomes. <br/> I completed my PhD in the Laboratory of Stem Cell Engineering of Prof. Matthias Lütolf at EPFL, Switzerland; in which I described the self-organisation properties of endoderm cells as they develop within stem-cell-based models of early embryonic development (gastruloids). I studied Natural Sciences in Cambridge (Girton College), specialising in Genetics. I then worked in the laboratory of Prof. Alfonso Martinez-Arias, Department of Genetics, to investigate the interactions between chemical signalling pathways involved in early embryonic development (Wnt and Notch signalling integration). I am an advocate for intersectional open science, preprinting, and knowledge equity, and a strong critic of the current politics of publishing in academia. Aside from his lab work, I am interested in data communication and visual storytelling in developmental biology.</div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EcoEvoDevo</span>
           <span class="projcard-tag">endoderm</span>
