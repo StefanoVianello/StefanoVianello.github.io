@@ -228,13 +228,15 @@ redirect_from:
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
-        <div class="projcard-title">Dr. Stefano Davide Vianello</div>
+        <div class="projcard-title">Stefano Davide Vianello, phD</div>
         <div class="projcard-subtitle">ORCID:0000-0002-4152-8990</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Contact1: test <br/> Contact2:.</div>
+        <div class="projcard-description"> Postdoctoral researcher, Marine EvoEvoDevo Unit <br/> Current address: 中央研究院所臨海研究站 (Linhai Marine Research Station, Academia Sinica, Taiwan)</div>
         <div class="projcard-tagbox">
-          <span class="projcard-tag">HTML</span>
-          <span class="projcard-tag">CSS</span>
+          <span class="projcard-tag">EcoEvoDevo</span>
+          <span class="projcard-tag">endoderm</span>
+          <span class="projcard-tag">metamorphosis</span>
+          <span class="projcard-tag">gut</span>
         </div>
       </div>
     </div>
