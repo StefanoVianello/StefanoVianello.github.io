@@ -17,6 +17,7 @@ redirect_from:
 </object> -->
 
 
+<!-- https://medium.com/geekculture/33-blog-card-css-for-web-design-726a037217b5 -->
 <style>
 
 .projcard-container {
