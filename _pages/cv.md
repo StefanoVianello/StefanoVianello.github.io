@@ -174,7 +174,7 @@ redirect_from:
   z-index: 10;
   font-size: 15px;
   color: #424242;
-  height: 500px;
+  height: 150px;
   overflow: scroll;
   text-overflow: ellipsis;
 }
