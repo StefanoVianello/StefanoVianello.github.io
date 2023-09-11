@@ -346,7 +346,7 @@ redirect_from:
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
-        <div class="projcard-title">Community involvement abnd responsibilities</div>
+        <div class="projcard-title">Community involvement and responsibilities</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
         </div>
@@ -360,9 +360,17 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"> <ul>
           <li><b>Languages</b>: <span class="projcard-tag">Italian (native)</span> <span class="projcard-tag">French (fluent)</span> <span class="projcard-tag">English (fluent)</span> </li>
-          <li><b>Affiliations</b>: <span class="projcard-tag">PSDB ((Philippine Society for Developmental Biology) member</span>  <span class="projcard-tag">DORA (signatory)</span> </li>
+          <li><b>Affiliations</b>: <span class="projcard-tag">PSDB (Philippine Society for Developmental Biology) member</span>  <span class="projcard-tag">DORA (signatory)</span> </li>
           <li><b>Hobbies</b>: </li>
-          <li><b>IT skills</b>: </li>
+          <li><b>IT skills</b>: 
+            <ul>
+              <li><b>Programming</b>: <span class="projcard-tag">R (e.g. Seurat; full scRNAseq and bulkRNAseq analysis, FACS processing)</span> <span class="projcard-tag">Python/Jupyter notebooks</span></li> 
+              <li><b>Software</b>: <span class="projcard-tag">MS Office</span> <span class="projcard-tag">LibreOffice</span> <span class="projcard-tag">GIMP/Photoshop</span> <span class="projcard-tag">Inkscape/Adobe Illustrator</span></li>
+              <li><b>Web Development</b>: <span class="projcard-tag">PHP</span> <span class="projcard-tag">HTML</span> <span class="projcard-tag">SQL</span> <span class="projcard-tag">CSS</span></li>
+              <li><b>Virtual Reality</b>: <span class="projcard-tag">Unity</span> <span class="projcard-tag">Blender</span> <span class="projcard-tag">Google cardboard</span></li>
+              <li><span class="projcard-tag">familiarity with Unix environment</span></li>
+            </ul>
+          </li>
         </ul></div>
         </div>
     </div>
