@@ -106,7 +106,7 @@ redirect_from:
 .projcard-textbox::after {
   content: "";
   position: absolute;
-  display: block;
+  display: none;
   background: #ff0000bb;
   background: #fff;
   top: -20%;
