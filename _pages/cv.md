@@ -251,7 +251,7 @@ redirect_from:
         <div class="projcard-description">
           <ul>
             <li><span class="projcard-tag">2022-present</span> Marine Research Station, Academia Sinica: Postdoctoral researcher  </li>
-            <li><span class="projcard-tag">2017-2021</span> École polytechnique fédérale de Lausanne (EPFL): PhD Doctoral Program in Biotechnology and Bioengineering, with Teaching Assistantship</li>
+            <li><span class="projcard-tag">2017-2021</span> École polytechnique fédérale de Lausanne (EPFL): PhD in Biotechnology and Bioengineering, with Teaching Assistantship</li>
             <li><span class="projcard-tag">2016-2017</span> Girton College, University of Cambridge: MPhil in Biological Science (Genetics) </li>
             <li><span class="projcard-tag">2013-2016</span> Girton College, University of Cambridge: BA Hons Natural Sciences </li>
           </ul>         
