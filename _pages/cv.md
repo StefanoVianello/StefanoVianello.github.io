@@ -36,13 +36,13 @@ redirect_from:
 .projcard {
   position: relative;
   width: 100%;
-  
+  height: 300px;
   margin-bottom: 40px;
   border-radius: 10px;
   background-color: #fff;
   border: 2px solid #ddd;
   font-size: 18px;
-  overflow: visible;
+  overflow: hidden;
   cursor: pointer;
   box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
@@ -164,7 +164,7 @@ redirect_from:
 .projcard-brown::before { background-image: linear-gradient(-70deg, #C49863, transparent 50%); }
 .projcard-brown:nth-child(2n)::before { background-image: linear-gradient(-250deg, #C49863, transparent 50%); }
 .projcard-grey .projcard-bar { background-color: #424242; }
-.projcard-grey {height: 600px;}
+.projcard-grey {height: 600px; overflow: visible;}
 .projcard-grey::before { background-image: linear-gradient(-70deg, #424242, transparent 50%); }
 .projcard-grey:nth-child(2n)::before { background-image: linear-gradient(-250deg, #424242, transparent 50%); }
 .projcard-customcolor .projcard-bar { background-color: var(--projcard-color); }
