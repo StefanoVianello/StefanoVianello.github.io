@@ -346,7 +346,7 @@ redirect_from:
         <div class="projcard-title">Talks</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
-          <li> (internal) Speaker: "", 2023</li>
+          <li>ECOEVODEVO INTERGROUP SEMINARS (INTERNAL) Speaker: "Gut metamorphosis in the common clownfish <i>Amphiprion ocellaris</i>", 02.2023</li>
           <li>OASPA Open Access Scholarly Publishing Association Webinar; Invited speaker: "So can publishing respond to a crisis? An evidence-informed approach" 2021</li>
           <li>ASAPbio FELLOWS TRAINING PROGRAMME virtual Invited speaker: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
           <li> PHYSICS OF LIVING SYSTEMS (INTERNAL) Lausanne, CH "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
