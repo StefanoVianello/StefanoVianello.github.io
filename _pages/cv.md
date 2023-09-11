@@ -250,10 +250,10 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description">
           <ul>
-            <li>2022-present: Marine Research Station, Academia Sinica <br/> Postdoctoral researcher <br/> Project name </li>
-            <li>2017-2021: École polytechnique fédérale de Lausanne (EPFL): PhD in Biotechnology and Bioengineering, with Teaching Assistantship</li>
-            <li>2016-2017: Girton College, University of Cambridge: MPhil in Biological Science (Genetics) </li>
-            <li>2013-2016: Girton College, University of Cambridge: BA Hons Natural Sciences </li>
+            <li>2022-present: Marine Research Station, Academia Sinica <br/> Postdoctoral researcher <br/> Towards an integrated understanding of metamorphosis in bilaterians <br/> Academia Sinica Grand Challenge Program </li>
+            <li>2017-2021: École polytechnique fédérale de Lausanne (EPFL) <br/>PhD in Biotechnology and Bioengineering, with Teaching Assistantship<br/> Laboratory of Stem Cell Bioengineering, with Prof M. Lütolf <br/> "Endoderm development and morphogenesis in self-organising stem cell-based models of mouse embryogenesis <br/>  “Characterising the mechanical and geometrical inputs of early mammalian development through bioengineered models of patterning and morphogenesis” <br/>  Swiss National Science Foundation Synergia Grant</li>
+            <li>2016-2017: Girton College, University of Cambridge: <br/>MPhil in Biological Science (Genetics)<br/>  “Wnt and Notch (Wntch) interactions in in vitro models of preimplantation embryonic development”, with Prof A. Martinez-Arias</li>
+            <li>2013-2016: Girton College, University of Cambridge:<br/> BA Hons Natural Sciences</li>
           </ul>         
         </div>
         </div>
@@ -267,11 +267,11 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"> 
           <ul>
-            <li>Suppinger, Zinner, Aizarani, Lukonin, Ortiz, Azzi, Stadler, <b>Vianello</b>, Palla, Kohler, Mayran, Lutolf, Liberali; "Multimodal characterization of murine gastruloid development", 2023</li>
-            <li>Tischler, Swank, Hsiung, <b>Vianello</b>, Lutolf, Maerkl; "An automated do-it-yourself system for dynamic stem cell and organoid culture in standard multi-well plates", 2022</li>
-            <li><b>Vianello</b>, Lutolf; “In vitro endoderm emergence and self-organisation in the absence of extraembryonic tissues and embryonic architecture”, 2021</li>
-            <li><b>Vianello</b>; “Exploring and illustrating the mouse embryo: virtual objects to think and create with”,2020</li>
-            <li><b>Vianello</b>, Lutolf; “Understanding the Mechanobiology of Early Mammalian Development through Bioengineered Models”, 2019</li>
+            <li>Suppinger, Zinner, Aizarani, Lukonin, Ortiz, Azzi, Stadler, <b>Vianello</b>, Palla, Kohler, Mayran, Lutolf, Liberali; "Multimodal characterization of murine gastruloid development", 2023 [PMID:<a href="https://doi.org/10.1016/j.stem.2023.04.018">37209681</a>]</li>
+            <li>Tischler, Swank, Hsiung, <b>Vianello</b>, Lutolf, Maerkl; "An automated do-it-yourself system for dynamic stem cell and organoid culture in standard multi-well plates", 2022 [PMID:<a href="https://doi.org/10.1016/j.crmeth.2022.100244">35880022</a>]</li>
+            <li><b>Vianello</b>, Lutolf; “In vitro endoderm emergence and self-organisation in the absence of extraembryonic tissues and embryonic architecture”, 2021 [PPR:<a href="https://doi.org/10.1101/2020.06.07.138883">PPR173378</a>]</li>
+            <li><b>Vianello</b>; “Exploring and illustrating the mouse embryo: virtual objects to think and create with”,2020 [PPR:<a href="https://doi.org/10.1101/2020.11.23.393991">PPR243698</a>]</li>
+            <li><b>Vianello</b>, Lutolf; “Understanding the Mechanobiology of Early Mammalian Development through Bioengineered Models”, 2019 [PMID:<a href="https://doi.org/10.1016/j.devcel.2019.02.024">30913407</a>]</li>
           </ul>
         </div>
         </div>
