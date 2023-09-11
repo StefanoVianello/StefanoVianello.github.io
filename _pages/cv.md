@@ -290,7 +290,7 @@ redirect_from:
             <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to immunostain Gastruloids (LSCB, EPFL)”. 2020</li>
             <li><b>Vianello</b>, Girgin, Rossi, Lutolf;   “Protocol to culture mESCs (LSCB, UPLUT)”. 2020</li>
             <li><b>Vianello</b>; “RNotebook FACS pipeline”. 2021</li>
-            <li><b>Vianello</b>, Sanchez, Bercowsky-Rama, Lutolf; “Gastruloid Intensity Proiler”. 2020</li>
+            <li><b>Vianello</b>, Sanchez, Bercowsky-Rama, Lutolf; “Gastruloid Intensity Profiler”. 2020</li>
             <li><b>Vianello</b>; “3D models of mouse embryonic development”. 2020</li>
           </ul>
           </div>
@@ -304,7 +304,21 @@ redirect_from:
         <div class="projcard-title">Publications</div>
         <div class="projcard-subtitle">other</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+        <div class="projcard-description"><ul>
+            <li><b>Vianello</b>;   ““English only please!” Real world effects of English-centred literature searches.”. preLights, 2021</li>
+            <li><b>Vianello</b>; “Bitter bites for a chocolate lover. Searching for RNAi targets to fight cocoa crop pests”. preLights, 2021</li>
+            <li><b>Vianello</b>, Sanchez;  “Say “Aaaah!”. Foregut development and toothed tongues in the black Katy chiton”. preLights, 2021</li>
+            <li><b>Vianello</b>, Sanchez; “Navigating change: sentinels of the sea tell about ocean health and disease.”. preLights, 2021</li>
+            <li><b>Vianello</b>, Sanchez; “Gastruloids, pescoids, caveoids, surfoids. . . .In vitro embryonic models to study evo-eco-devo. New experimental approaches to cavefish development.”. preLights, 2020</li>
+            <li><b>Vianello</b>, Sanchez; “On the (h)edge: the germline precursors of a basal metazoa are induced at the interface between Hedgehog signalling domains”.preLights, 2020</li>
+            <li><b>Vianello</b>, Sanchez;  “(Transiently) Comfortable in its own “skin”: formation of epithelium-like multicellular structures in a unicellular organism through conserved actomyosin-dependent mechanisms”. preLights, 2019</li>
+            <li><b>Vianello</b>, Sanchez; ; “Mind the gap: epiblast geometry at its extraembryonic boundary constrains BMP localization and ensures robust gradient formation”. preLights, 2019</li>
+          </ul>
+          <ul>
+            <li>"No Diamonds for DevBio", August 2023</li>
+            <li>“The “pre” in (my) “preprint” is for pre-figurative”. September 2021</li>
+            <li>“Preprint highlighting in a haunted house [Part 1]”. August 2021</li>
+          </ul></div>
         </div>
     </div>
   </div>
