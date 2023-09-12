@@ -25,7 +25,7 @@ author_profile: true
 .projcard {
   position: relative;
   width: 100%;
-  height: 800px;
+  height: 900px;
   margin-bottom: 40px;
   border-radius: 10px;
   background-color: #fff;
@@ -218,7 +218,7 @@ author_profile: true
         <div class="projcard-title"> Postdoc Research</div>
         <div class="projcard-subtitle">Gut metamorphosis in the common clownfish</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description"> I study the hormonal control of metamorphosis in the common clownfish (*Amphiprion ocellaris*). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef. <img src="https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.png" alt="Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef"><figcaption> Illustration of the lifecycle of the common clownfish. Larvae (rightmost) disperse into the ocean (pelagic phase). Major physiological, behavioral, and ecological changes (metamorphosis) take place as the larval body plan is recruited into the reef and the clownfish finds an anemome in which to house. Figure redrawn from (<a href="https://doi.org/10.1002/dvdy.46">Roux et al. 2019</a>)</figcaption></div>
+        <div class="projcard-description"> I study the hormonal control of metamorphosis in the common clownfish (<i>Amphiprion ocellaris</i>). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef. <img src="https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.png" alt="Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef"><figcaption> Illustration of the lifecycle of the common clownfish. Larvae (rightmost) disperse into the ocean (pelagic phase). Major physiological, behavioral, and ecological changes (metamorphosis) take place as the larval body plan is recruited into the reef and the clownfish finds an anemome in which to house. Figure redrawn from (<a href="https://doi.org/10.1002/dvdy.46">Roux et al. 2019</a>)</figcaption></div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EcoEvoDevo</span>
           <span class="projcard-tag">endoderm</span>
