@@ -333,7 +333,7 @@ redirect_from:
           <li><b>Vianello</b>, Lutolf; BIRS-CMO WORKSHOP: "MODELLING AND ENGINEERING THE MOUSE EMBRYO" Oaxaca, MX Cancelled due pandemic 04/2020</li>
           <li><b>Vianello</b>, Lutolf; EUROPEAN SUMMER SCHOOL ON STEM CELLS AND REGENERATIVE MEDICINE Hydra, EL "Studying the mechanobiology of early mammalian development using self-organising embryonic organoids" 09/2019</li>
           <li><b>Vianello</b>, Lutolf; EMBO SYMPOSIUM: MECHANICAL FORCES IN DEVELOPMENT Heidelberg, DE "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 07/2019</li>
-          <li><b>Vianello</b>, Lutolf; EMBO SYMPOSIUM: SYNTHETIC MORPHOGENSIS Heidelberg, DE "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 03/2019</li>
+          <li><b>Vianello</b>, Lutolf; EMBO SYMPOSIUM: SYNTHETIC MORPHOGENESIS Heidelberg, DE "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 03/2019</li>
           <li><b>Vianello</b>; EMBO WORKSHOP: VISUALIZING BIOLOGICAL DATA 03/2019</li>
         </ul></div>
         </div>
@@ -347,12 +347,14 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
           <li>ECOEVODEVO INTERGROUP SEMINARS (INTERNAL) Speaker: "Gut metamorphosis in the common clownfish <i>Amphiprion ocellaris</i>", 02.2023</li>
+          <li>INTERNATIONAL SCIENCE COUNCIL: OPEN SCIENCE SOUTH ASIAN NETWORK CONFERENCE 2022. Invited speaker: "Preprints- A Pathway to Open Access", 09.2022</li>
           <li>eLife Early Career Researcher Wednesday Webinar Series Invited speaker: "Do-it-Yourself strategies to prefigurative publishing", 05.2022</li>
-          <li>OASPA Open Access Scholarly Publishing Association Webinar; Invited speaker: "So can publishing respond to a crisis? An evidence-informed approach" 2021</li>
+          <li>OASPA Open Access Scholarly Publishing Association Webinar; Invited speaker: "So can publishing respond to a crisis? An evidence-informed approach" 12.2021</li>
+          <li>PREPRINTS IN MOTION PODCAST; Invited speaker: "Be the change you want to see: Prefigurative politics in academia" 11.2021</li>
           <li>ASAPbio FELLOWS TRAINING PROGRAMME virtual Invited speaker: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
           <li> PHYSICS OF LIVING SYSTEMS (INTERNAL) Lausanne, CH "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
-          <li>EUROTECH SUMMER SCHOOL: OPEN SCIENCE IN PRACTICE Lausanne, CH Invited speaker: “PreLights: a community-driven effort to highlighting preprints. 2019</li>
-          <li>EMBO WORKSHOP: IMAGING MOUSE DEVELOPMENT Heidelberg, DE “Elucidating the role of mechanical cues during peri-implantation mouse development”. 2019</li>
+          <li>EUROTECH SUMMER SCHOOL: OPEN SCIENCE IN PRACTICE Lausanne, CH Invited speaker: "PreLights: a community-driven effort to highlighting preprints". 2019</li>
+          <li>EMBO WORKSHOP: IMAGING MOUSE DEVELOPMENT Heidelberg, DE "Elucidating the role of mechanical cues during peri-implantation mouse development". 2019</li>
         </ul></div>
         </div>
     </div>
