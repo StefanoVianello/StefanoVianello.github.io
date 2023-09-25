@@ -246,7 +246,7 @@ redirect_from:
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
-        <div class="projcard-title">Education</div>
+        <div class="projcard-title">Education and Professional Experience</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description">
           <ul>
