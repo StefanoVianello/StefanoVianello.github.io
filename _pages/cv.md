@@ -253,7 +253,7 @@ redirect_from:
             <li><b>2022-present</b> | <font style="font-variant: small-caps"> Marine Research Station, Academia Sinica </font> <br/> Postdoctoral researcher <br/> Towards an integrated understanding of metamorphosis in bilaterians <br/> Academia Sinica Grand Challenge Program </li>
             <li><b>2017-2021</b> | <font style="font-variant: small-caps">École polytechnique fédérale de Lausanne (EPFL)</font> <br/>PhD in Biotechnology and Bioengineering, with Teaching Assistantship<br/> Laboratory of Stem Cell Bioengineering, with Prof M. Lütolf <br/> "Endoderm development and morphogenesis in self-organising stem cell-based models of mouse embryogenesis <br/>  “Characterising the mechanical and geometrical inputs of early mammalian development through bioengineered models of patterning and morphogenesis” <br/>  Swiss National Science Foundation Synergia Grant</li>
             <li><b>2016-2017</b> | <font style="font-variant: small-caps"> Girton College, University of Cambridge </font> <br/>MPhil in Biological Science (Genetics)<br/>  “Wnt and Notch (Wntch) interactions in in vitro models of preimplantation embryonic development”, with Prof A. Martinez-Arias</li>
-            <li>2013-2016: Girton College, University of Cambridge:<br/> BA Hons Natural Sciences</li>
+            <li><b>2013-2016</b> | <font style="font-variant: small-caps"> Girton College, University of Cambridge</font><br/> BA Hons Natural Sciences</li>
           </ul>         
         </div>
         </div>
