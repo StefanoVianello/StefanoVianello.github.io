@@ -250,10 +250,10 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description">
           <ul>
-            <li><font style="font-variant: small-caps"><b>2022-present</b> | Marine Research Station, Academia Sinica </font> <br/> <b>Postdoctoral researcher</b> <br/> "Towards an integrated understanding of metamorphosis in bilaterians" <br/> Academia Sinica Grand Challenge Program </li>
-            <li><font style="font-variant: small-caps"><b>2017-2021</b> | École polytechnique fédérale de Lausanne (EPFL)</font> <br/><b>PhD in Biotechnology and Bioengineering</b>, with Teaching Assistantship<br/> Laboratory of Stem Cell Bioengineering, with Prof M. Lütolf <br/> "Endoderm development and morphogenesis in self-organising stem cell-based models of mouse embryogenesis" <br/>  “Characterising the mechanical and geometrical inputs of early mammalian development through bioengineered models of patterning and morphogenesis” <br/>  Swiss National Science Foundation Synergia Grant</li>
-            <li><font style="font-variant: small-caps"><b>2016-2017</b> |  Girton College, University of Cambridge </font> <br/><b>MPhil in Biological Science (Genetics)</b><br/>  “Wnt and Notch (Wntch) interactions in in vitro models of preimplantation embryonic development”, with Prof A. Martinez-Arias</li>
-            <li><font style="font-variant: small-caps"><b>2013-2016</b> |  Girton College, University of Cambridge</font><br/><b> BA Hons Natural Sciences</b></li>
+            <li><font style="font-variant: small-caps">2022-present | Marine Research Station, Academia Sinica </font> <br/> <b>Postdoctoral researcher</b> <br/> "Towards an integrated understanding of metamorphosis in bilaterians" <br/> Academia Sinica Grand Challenge Program </li>
+            <li><font style="font-variant: small-caps">2017-2021 | École polytechnique fédérale de Lausanne (EPFL)</font> <br/><b>PhD in Biotechnology and Bioengineering</b>, with Teaching Assistantship<br/> Laboratory of Stem Cell Bioengineering, with Prof M. Lütolf <br/> "Endoderm development and morphogenesis in self-organising stem cell-based models of mouse embryogenesis" <br/>  “Characterising the mechanical and geometrical inputs of early mammalian development through bioengineered models of patterning and morphogenesis” <br/>  Swiss National Science Foundation Synergia Grant</li>
+            <li><font style="font-variant: small-caps">2016-2017 |  Girton College, University of Cambridge </font> <br/><b>MPhil in Biological Science (Genetics)</b><br/>  “Wnt and Notch (Wntch) interactions in in vitro models of preimplantation embryonic development”, with Prof A. Martinez-Arias</li>
+            <li><font style="font-variant: small-caps">2013-2016 |  Girton College, University of Cambridge</font><br/><b> BA Hons Natural Sciences</b></li>
           </ul>         
         </div>
         </div>
