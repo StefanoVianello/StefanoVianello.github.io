@@ -330,11 +330,11 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
           <li>Jovanic, Godovich, <b>Vianello</b>, Hadjantonakis; <font style="font-variant: small-caps"> International Society for Stem Cell Research (ISSCR) annual meeting </font>, "2D and 3D gastruloid models for investigating mammalian endoderm development" | 06.2023 </li>
-          <li><b>Vianello</b>, Lutolf; BIRS-CMO WORKSHOP: "MODELLING AND ENGINEERING THE MOUSE EMBRYO" Oaxaca, MX Cancelled due pandemic 04/2020</li>
-          <li><b>Vianello</b>, Lutolf; EUROPEAN SUMMER SCHOOL ON STEM CELLS AND REGENERATIVE MEDICINE Hydra, EL "Studying the mechanobiology of early mammalian development using self-organising embryonic organoids" 09/2019</li>
-          <li><b>Vianello</b>, Lutolf; EMBO SYMPOSIUM: MECHANICAL FORCES IN DEVELOPMENT Heidelberg, DE "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 07/2019</li>
-          <li><b>Vianello</b>, Lutolf; EMBO SYMPOSIUM: SYNTHETIC MORPHOGENESIS Heidelberg, DE "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 03/2019</li>
-          <li><b>Vianello</b>; EMBO WORKSHOP: VISUALIZING BIOLOGICAL DATA 03/2019</li>
+          <li><b>Vianello</b>, Lutolf; <font style="font-variant: small-caps"> BIRS-CMO Workshop: "Modelling and engineering the mouse embryo" Oaxaca, MX </font> | Cancelled due pandemic 04.2020</li>
+          <li><b>Vianello</b>, Lutolf; <font style="font-variant: small-caps">European Summer School on Stem Cells and Regenerative Medicine Hydra, EL </font>, "Studying the mechanobiology of early mammalian development using self-organising embryonic organoids" |09.2019</li>
+          <li><b>Vianello</b>, Lutolf; <font style="font-variant: small-caps"> EMBO Symposium: Mechanical Forces in Development Heidelberg, DE </font>, "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" | 07.2019</li>
+          <li><b>Vianello</b>, Lutolf;<font style="font-variant: small-caps"> EMBO Symposium: Synthetic Morphogenesis Heidelberg, DE </font>, "Altering geometry and mechanics to coax the development of self-organising embryonic organoids" 03.2019</li>
+          <li><b>Vianello</b>;<font style="font-variant: small-caps"> EMBO Workshop: Visualizing Biological Data </font> | 03.2019</li>
         </ul></div>
         </div>
     </div>
