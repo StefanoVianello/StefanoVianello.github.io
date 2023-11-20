@@ -267,6 +267,7 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"> 
           <ul>
+            <li>Roux, <b>Vianello</b>, Laudet; "Physiology of metamorphosis", 2023 [<a href="https://doi.org/10.1016/B978-0-323-90801-6.00134-8">doi</a>]</li>
             <li>Suppinger, Zinner, Aizarani, Lukonin, Ortiz, Azzi, Stadler, <b>Vianello</b>, Palla, Kohler, Mayran, Lutolf, Liberali; "Multimodal characterization of murine gastruloid development", 2023 [PMID:<a href="https://doi.org/10.1016/j.stem.2023.04.018">37209681</a>]</li>
             <li>Tischler, Swank, Hsiung, <b>Vianello</b>, Lutolf, Maerkl; "An automated do-it-yourself system for dynamic stem cell and organoid culture in standard multi-well plates", 2022 [PMID:<a href="https://doi.org/10.1016/j.crmeth.2022.100244">35880022</a>]</li>
             <li><b>Vianello</b>, Lutolf; “In vitro endoderm emergence and self-organisation in the absence of extraembryonic tissues and embryonic architecture”, 2021 [PPR:<a href="https://doi.org/10.1101/2020.06.07.138883">PPR173378</a>]</li>
