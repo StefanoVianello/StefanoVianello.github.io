@@ -330,6 +330,7 @@ redirect_from:
         <div class="projcard-title">Posters</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
+          <li><b>Vianello</b>, Lee, Wu, Roux, Laudet; <font style="font-variant: small-caps"> Institute of Cellular and Organismic Biology (ICOB) departmental poster presentation </font>, "Thyroid hormones trigger the appearance and differentiation of the stomach during the metamorphosis ofthe common clownfish (Amphiprion ocellaris)" | 11.2023 | [doi:<a href="https://doi.org/10.6084/m9.figshare.24457543.v1">doi.org/10.6084/m9.figshare.24457543.v1</a>] </li>
           <li>Jovanic, Godovich, <b>Vianello</b>, Hadjantonakis; <font style="font-variant: small-caps"> International Society for Stem Cell Research (ISSCR) annual meeting </font>, "2D and 3D gastruloid models for investigating mammalian endoderm development" | 06.2023 </li>
           <li><b>Vianello</b>, Lutolf; <font style="font-variant: small-caps"> BIRS-CMO Workshop: "Modelling and engineering the mouse embryo" Oaxaca, MX </font> | Cancelled due pandemic 04.2020</li>
           <li><b>Vianello</b>, Lutolf; <font style="font-variant: small-caps">European Summer School on Stem Cells and Regenerative Medicine Hydra, EL </font>, "Studying the mechanobiology of early mammalian development using self-organising embryonic organoids" |09.2019</li>
