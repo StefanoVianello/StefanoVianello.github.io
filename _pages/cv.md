@@ -351,6 +351,7 @@ redirect_from:
         <div class="projcard-title">Talks</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
+          <li>ITALIAN SOCIETY OF EVOLUTIONARY BIOLOGY (SIBE) Speaker: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 09.2024</li>
           <li>ECOEVODEVO INTERGROUP SEMINARS (INTERNAL) Speaker: "Gut metamorphosis in the common clownfish <i>Amphiprion ocellaris</i>", 02.2023</li>
           <li>INTERNATIONAL SCIENCE COUNCIL: OPEN SCIENCE SOUTH ASIAN NETWORK CONFERENCE 2022. Invited speaker: "Preprints- A Pathway to Open Access", 09.2022</li>
           <li>eLife Early Career Researcher Wednesday Webinar Series Invited speaker: "Do-it-Yourself strategies to prefigurative publishing", 05.2022</li>
