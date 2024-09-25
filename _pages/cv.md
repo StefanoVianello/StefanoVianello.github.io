@@ -267,6 +267,7 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"> 
           <ul>
+            <li>Herrera*, <b>Vianello*</b>, Mitchell, Chamot, Lorin-Nebel, Roux, Besseau, Gibert, Laudet; "From Genes to Pathways: A Curated Gene Approach to Accurate Pathway Reconstruction in Teleost Fish Transcriptomics", 2024 [doi:<a href="https://doi.org/10.1101/2024.09.23.614382">10.1101/2024.09.23.614382</a>]</li>
             <li>Reynaud*, <b>Vianello*</b>, Lee, Salis, Wu, Frederich, Lecchini, Besseau, Roux, Laudet; "The multi-level effect of chlorpyrifos during clownfish metamorphosis", 2024 [PPR:<a href="https://doi.org/10.1101/2024.08.02.606305">PPR890713</a>]</li>
             <li>Zwahlen, Gairin, <b>Vianello</b>, Mercader, Roux, Laudet; "The ecological function of thyroid hormones", 2024 [PMID:<a href="https://doi.org/10.1098/rstb.2022.0511">38310932</a>]</li>
             <li>Roux, <b>Vianello</b>, Laudet; "Physiology of metamorphosis", 2023 [doi:<a href="https://doi.org/10.1016/B978-0-323-90801-6.00134-8">doi.org/10.1016/B978-0-323-90801-6.00134-8</a>]</li>
