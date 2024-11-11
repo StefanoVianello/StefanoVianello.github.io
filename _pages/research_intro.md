@@ -236,13 +236,15 @@ author_profile: true
         <div class="projcard-textbox">
         <div class="projcard-title"> Ecotoxicology of organophosphate pesticides</div>
         <div class="projcard-subtitle">Effect of chlorpyrifos on clownfish metamorphosis</div>
-        <div class="projcard-bar"></div>
-        <div class="projcard-description"> </div>
+        <div class="projcard-bar"> </div>
+        <div class="projcard-description"> In Taiwan, the use of Chlorpyrifos (陶斯松) is under ongoing phaseout, with a total ban planned by 2026. Within South East Asia, its use has been officially banned in Indonesia, Malaysia, Vietnam, and Thailand, though not yet in the Philippines. 
+        <img src="https://StefanoVianello.github.io/images/chlorpyrifosspray.png" alt="Farmers spraying chlorpyrifos pesticide on crops">
+        </div>
         <div class="projcard-tagbox">
-          <span class="projcard-tag">EcoEvoDevo</span>
-          <span class="projcard-tag">endoderm</span>
+          <span class="projcard-tag">EcoDevo</span>
+          <span class="projcard-tag">Ecotoxicology</span>
           <span class="projcard-tag">metamorphosis</span>
-          <span class="projcard-tag">gut development</span>
+          <span class="projcard-tag">pesticides</span>
         </div>
       </div>
     </div>
