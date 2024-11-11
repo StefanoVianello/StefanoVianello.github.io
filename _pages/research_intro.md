@@ -211,7 +211,9 @@ author_profile: true
 
 
 <div class="projcard-container">
-    
+
+ **Postdoc research** <br/>
+
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
@@ -228,6 +230,8 @@ author_profile: true
       </div>
     </div>
   </div>
+
+**PhD research** <br/>
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
