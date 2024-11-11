@@ -237,7 +237,7 @@ author_profile: true
         <div class="projcard-title"> Ecotoxicology of organophosphate pesticides</div>
         <div class="projcard-subtitle">Effect of chlorpyrifos on clownfish metamorphosis</div>
         <div class="projcard-bar"> </div>
-        <div class="projcard-description"> In Taiwan, the use of Chlorpyrifos (陶斯松) is under ongoing phaseout, with a total ban planned by 2026. Within South East Asia, its use has been officially banned in Indonesia, Malaysia, Vietnam, and Thailand, though not yet in the Philippines. 
+        <div class="projcard-description"> In Taiwan, the use of Chlorpyrifos (陶斯松) is under <a href="https://www.moenv.gov.tw/en/6F017386BDF4CDF5/4d875576-a2a3-4c57-ba2a-348b04833a2b">ongoing phaseout</a>, with a total ban planned by 2026. Within South East Asia, its use has been officially banned in <a href="https://panap.net/2022/08/malaysia-commended-for-ban-on-chlorpyrifos-and-carbofuran/">Malaysia</a>, <a href="https://panap.net/2019/02/pan-vietnam-welcomes-the-ban-of-chlorpyrifos-and-fipronil/">Vietnam</a>, and <a href="https://www.ratchakitcha.soc.go.th/DATA/PDF/2563/E/117/T_0056.PDF">Thailand</a>, though <a href="https://fpa.da.gov.ph/call-to-ban-chlorpyrifos-application-in-banana-raised-to-extruders-in-davao/">not yet in the Philippines</a> and <a href="https://ipen.org/documents/situation-report-chlorpyrifos-indonesia"> Indonesia</a>,. 
         <img src="https://StefanoVianello.github.io/images/chlorpyrifosspray.png" alt="Farmers spraying chlorpyrifos pesticide on crops">
         </div>
         <div class="projcard-tagbox">
