@@ -212,13 +212,13 @@ author_profile: true
 
 <div class="projcard-container">
 
- <b>Postdoc research </b> <br/><br/>
+ <b>Postdoc research </b> 
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
-        <!-- <div class="projcard-title"> Postdoc Research</div> -->
-        <div class="projcard-subtitle">Gut metamorphosis in the common clownfish</div>
+        <div class="projcard-title"> Gut metamorphosis in the common clownfish</div>
+        <!-- <div class="projcard-subtitle">Gut metamorphosis in the common clownfish</div> -->
         <div class="projcard-bar"></div>
         <div class="projcard-description"> I study the hormonal control of metamorphosis in the common clownfish (<i>Amphiprion ocellaris</i>). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef.  <br/> <img src="https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.png" alt="Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef"><figcaption> Illustration of the lifecycle of the common clownfish. Larvae (rightmost) disperse into the ocean (pelagic phase). Major physiological, behavioral, and ecological changes (metamorphosis) take place as the larval body plan is recruited into the reef and the clownfish finds an anemome in which to house. Figure redrawn from (<a href="https://doi.org/10.1002/dvdy.46">Roux et al. 2019</a>). <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> Image licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. </figcaption></div>
         <div class="projcard-tagbox">
@@ -231,13 +231,47 @@ author_profile: true
     </div>
   </div>
 
-<b>PhD research</b> <br/>
+  <div class="projcard projcard-grey">
+    <div class="projcard-innerbox">
+        <div class="projcard-textbox">
+        <div class="projcard-title"> Ecotoxicology of organophosphate pesticides</div>
+        <div class="projcard-subtitle">Effect of chlorpyrifos on clownfish metamorphosis</div>
+        <div class="projcard-bar"></div>
+        <div class="projcard-description"> </div>
+        <div class="projcard-tagbox">
+          <span class="projcard-tag">EcoEvoDevo</span>
+          <span class="projcard-tag">endoderm</span>
+          <span class="projcard-tag">metamorphosis</span>
+          <span class="projcard-tag">gut development</span>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
-        <!-- <div class="projcard-title"> PhD Research</div> -->
-        <div class="projcard-subtitle">Endoderm development in gastruloids</div>
+        <div class="projcard-title"> Effect of dietary phytochemicals on coral reef biology</div>
+        <!-- <div class="projcard-subtitle">Effect of chlorpyrifos on clownfish metamorphosis</div> -->
+        <div class="projcard-bar"></div>
+        <div class="projcard-description"> </div>
+        <div class="projcard-tagbox">
+          <span class="projcard-tag">EcoEvoDevo</span>
+          <span class="projcard-tag">endoderm</span>
+          <span class="projcard-tag">metamorphosis</span>
+          <span class="projcard-tag">gut development</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<b>PhD research</b> 
+
+  <div class="projcard projcard-grey">
+    <div class="projcard-innerbox">
+        <div class="projcard-textbox">
+        <div class="projcard-title"> Endoderm development in gastruloids</div>
+        <!-- <div class="projcard-subtitle">Endoderm development in gastruloids</div> -->
         <div class="projcard-bar"></div>
         <div class="projcard-description"> In humans, mice, and other mammals key internal organs such as the gut, lungs, pancreas, liver, thyroid, thymus, and bladder (and many others!) all derive from the same embryonic tissue: the endoderm. The development of all of these structures thus depends on a same set of early cells, and on the developmental instructions provided to them by the embryo. To study what these instructions might be, I am currently investigating the modes of development that endoderm cells (and their progenitors) execute when they can <i>not</i> rely on them. That is, when they are made to self-organise <i>in vitro</i> in a dish in the lab. Even on their own, endoderm cells emerge with timings and patterns comparable to what happens when they are on the embryo, and eventually form patterned structures in many way similar to the embryonic gut tube. My research touches on topics of endoderm and epithelial identity, self-organisation, patterning, and fundamental mammalian developmental biology. <br/> <img src="https://StefanoVianello.github.io/images/TBra_foxA2_banner.PNG" alt="Gastruloids immunostained for endoderm marker FoxA2 and posterior marker TBra"><figcaption> Embryonic stem cells can be left to self-organise into structures called Gastruloids. These provide an <i>in vitro</i> model of embryonic development. Endoderm cells, marked here in cyan (FoxA2), form an elongated internal core. The posterior marker TBra (gold) marks the posterior of the aggregate. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloids_and_tail.PNG" alt="Gastruloids next to the tailbud of a mouse embryo. The same makers have been immunostained in both."><figcaption> Gastruloids have been found to express genes in a organised way, in many way similar (and in many ways different) from that of the real mouse embryo. In the image above, the same markers have been stained in the tail of a mouse embryo (big structure on the right) and in 7-days-old Gastruloids. Insight comes from the comparison between what seen in the embryo and what observed to happen in these self-organising *in vitro* systems. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloid_quantification.PNG" alt="Plots showing alternative quantifications of the marker expression patterns in Gastruloids"><figcaption> The patterns of gene expression amongst Gastruloids are very robust and reproducible. We can image entire populations of Gastruloids and extract spatial information about where specific genes are expressed along the main axis. </figcaption></div>
         <div class="projcard-tagbox">
