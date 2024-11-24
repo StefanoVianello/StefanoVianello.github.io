@@ -259,7 +259,7 @@ author_profile: true
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
         <div class="projcard-title"> Effect of dietary phytochemicals on coral reef biology</div>
-        <div class="projcard-subtitle">Physiological effects of caulerpin on fish metabolism and physiology</div> 
+        <div class="projcard-subtitle">The bisindolic alkaloid Caulerpin and its effects on fish metabolism and physiology</div> 
                 <div class="projcard-bar"> </div>
         <div class="projcard-description">
         
