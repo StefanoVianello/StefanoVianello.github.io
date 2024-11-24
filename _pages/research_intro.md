@@ -230,6 +230,24 @@ author_profile: true
       </div>
     </div>
   </div>
+  
+    <div class="projcard projcard-grey">
+    <div class="projcard-innerbox">
+        <div class="projcard-textbox">
+        <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
+        <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div> 
+        <div class="projcard-bar"></div>
+        <div class="projcard-description"> 
+        </div>
+        <div class="projcard-tagbox">
+          <span class="projcard-tag">EvoDevo</span>
+          <span class="projcard-tag">throughgut</span>
+          <span class="projcard-tag">Anteroposterior patterning</span>
+          <span class="projcard-tag">developmental patterning</span>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
