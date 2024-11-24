@@ -267,7 +267,7 @@ author_profile: true
 On the other hand, a member of the <i>Caulerpa racemosa</i> complex is currently a source of heightened concern in the Mediterranean Sea, new waters it is believed to have reached as a result of aquarium trade from Western Australia. In these waters, in the form of the so-called <i>var. cylindracea</i>, this species has shown one of the highest invasive characters ever recorded in the Mediterranean, affecting pre-established seagrass ecosystems and reducing species diversity. Further concern has notably derived from its accumulation within the tissues of local sparid species of human consumption (e.g.  <i>Diplodus sargus</i>). <br/> <br/>
 
 Critically, <i>Caulerpa cylindracea</i> and many other species of the genus synthesize a bisindolic red pigment called caulerpin, first discovered in Caulerpa racemosa by Filipino scientist Gertrudes Aguilar Santos. While data on the accumulation of this compound in fish of historical <i>Caulerpa spp.</i> tropical habitats are difficult to find, an increasing body of literature has instead documented its clear accumulation in muscle and liver of Mediterranean species, and its effects on fish physiology have been characterised in terms of restricted panels of expected mechanisms of action (notably, oxidative stress; refs).
-        
+                <img src="https://StefanoVianello.github.io/images/Caulerpin_field_bantayan.png" alt="A field of bright green Caulerpa, near Bantayn Island, Philippines . From Rey Baruc Youtube channel">
         </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EcoEvoDevo</span>
