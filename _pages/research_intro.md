@@ -235,7 +235,7 @@ author_profile: true
     </div>
   </div>
   
-    <div class="projcard projcard-grey">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
         <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
@@ -247,10 +247,7 @@ author_profile: true
         We considered five marine organisms across main branches of the bilaterian evolutionary tree. As a representative of the protostomes, the annelid worm <i>Platynereis dumerilii</i> (Dumeril's clam worm; Audouin & Milne Edwards, 1833). Among deuterostomes, within the Ambulacraria, the echinoderm <i>Strongylocentrotus purpuratus</i> (purple sea urchin; Stimpson, 1857) and the hemichordate <i>Ptychodera flava<i> (acorn worm; Eschscholtz, 1825). For the chordate branch, the cephalochordate <i>Branchiostoma floridae</i> (Florida lancelet; Hubbs, 1922), and the vertebrate <i>Amphiprion ocellaris</i> (common clownfish; Cuvier, 1830). For each We develop spatiotemporal transcriptomic resources along the entire gut, in the adults, the larval stages, amd across the metamorphic process.      
         
         
-        <br/> <br/> <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon. </font> <br/> <br/>
-        
-        
-    </div>
+        <br/> <br/> <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon. </font> <br/> <br/>  </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EvoDevo</span>
           <span class="projcard-tag">throughgut</span>
