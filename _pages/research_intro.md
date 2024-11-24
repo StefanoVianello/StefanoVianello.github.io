@@ -250,7 +250,7 @@ author_profile: true
         <br/> <br/> <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon. </font> <br/> <br/>
         
         
-        </div>
+    </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EvoDevo</span>
           <span class="projcard-tag">throughgut</span>
