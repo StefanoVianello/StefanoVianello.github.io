@@ -30,7 +30,7 @@ redirect_from:
 
 
 
-**I am a postdoctoral researcher studying clownfish metamorphosis.** I focus on the early (post-embryonic) development of clownfish digestive tract and on the role of thyroid hormones in this process.  I work in [Vincent Laudet's lab](https://groups.oist.jp/meedu) at Academia Sinica's Marine Research Station ([中央研究院所臨海研究站](https://mrs.icob.sinica.edu.tw/)), Yilan County, Taiwan.  My main academic interests reside in **endoderm and gut tube development**. My current collaborations expand this theme across all three fields of **Eco-Evo-Devo**, as well as **fish metabolism and physiology**, and **ecotoxicology** (see my [Research](https://stefanovianello.github.io/research_intro/) page). 
+**I am a postdoctoral researcher studying clownfish metamorphosis.** I focus on the early (post-embryonic) development of clownfish digestive tract and on the role of thyroid hormones in this process.  I work in [Vincent Laudet's lab](https://groups.oist.jp/meedu) at Academia Sinica's Marine Research Station ([中央研究院所臨海研究站](https://mrs.icob.sinica.edu.tw/)), Yilan County, Taiwan.  <br/> My main academic interests reside in **endoderm and gut tube development**. My current collaborations expand this theme across all three fields of **Eco-Evo-Devo**, as well as **fish metabolism and physiology**, and **ecotoxicology** (see my [Research page](https://stefanovianello.github.io/research_intro/)). 
 <br/><br/>
 
 ![Landscape view from the Marine Research Station: fish pond in the foreground, green mountains in the background](https://StefanoVianello.github.io/images/landscape.png)
@@ -46,7 +46,7 @@ redirect_from:
 </div>
 /-->
 
-My PhD was in biotechnology and bioengineering, and also focused on endoderm developmental biology, but in the context of the mammalian embryo. I have expertise in stem cell biology, mouse developmental biology, and endoderm developmental biology. I have also experience in synthetic embryology and bioengineering. I am an advocate for intersectional open science, preprints, equitable publishing, and knowledge equity. Aside from my work, I am interested in data communication and visual storytelling in developmental biology.
+My PhD was in biotechnology and bioengineering, and also focused on endoderm developmental biology, but in the context of the mammalian embryo. I therefore also have expertise in stem cell biology, mouse developmental biology, and endoderm developmental biology. I have also experience in synthetic embryology and bioengineering. I am an advocate for intersectional open science, preprints, equitable publishing, and knowledge equity. Aside from my work, I am interested in data communication and visual storytelling in developmental biology.
 
  <span style="color:Silver">*I am a signatory of [DORA](https://sfdora.org/read/),  and a member of the International Union of Scientists Against Militarism and the Destructive Use of Science and Technology. I am currently also a member of the Taiwanese Society of Developmental Biology and of the Philippine Society for Developmental Biology* </span>
 
