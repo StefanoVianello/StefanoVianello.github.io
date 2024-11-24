@@ -260,6 +260,12 @@ author_profile: true
         <div class="projcard-textbox">
         <div class="projcard-title"> Effect of dietary phytochemicals on coral reef biology</div>
         <!-- <div class="projcard-subtitle">Effect of chlorpyrifos on clownfish metamorphosis</div> -->
+        Species of the genus <i>Caulerpa</i>, a siphonaceous green alga that grows in the upper sublittoral zone of tropical coral reefs,  are widely distributed in Australian and Southeast Asian waters. <i>Caulerpa lentillifera</i> and varieties of <i>Caulerpa racemosa</i> are for example considered a delicacy in the Philippines, Indonesia, Malaysia, and Okinawa (Japan), and many <i>Caulerpa</i> species have (also) been long valued for their medicinal uses. In fact, <i>Caulerpa</i> varieties are now widely farmed in many Southeast Asian nations, a practice first developed in the 1950s in Mactan Island, Cebu (Philippines). <br/> <br/>
+
+On the other hand, a member of the <i>Caulerpa racemosa</i> complex is currently a source of heightened concern in the Mediterranean Sea, new waters it is believed to have reached as a result of aquarium trade from Western Australia. In these waters, in the form of the so-called <i>var. cylindracea</i>, this species has shown one of the highest invasive characters ever recorded in the Mediterranean, affecting pre-established seagrass ecosystems and reducing species diversity. Further concern has notably derived from its accumulation within the tissues of local sparid species of human consumption (e.g.  <i>Diplodus sargus</i>). <br/> <br/>
+
+Critically, <i>Caulerpa cylindracea</i> and many other species of the genus synthesize a bisindolic red pigment called caulerpin, first discovered in Caulerpa racemosa by Filipino scientist Gertrudes Aguilar Santos. While data on the accumulation of this compound in fish of historical <i>Caulerpa spp.</i> tropical habitats are difficult to find, an increasing body of literature has instead documented its clear accumulation in muscle and liver of Mediterranean species, and its effects on fish physiology have been characterised in terms of restricted panels of expected mechanisms of action (notably, oxidative stress; refs).
+        
         <div class="projcard-bar"></div>
         <div class="projcard-description"> </div>
         <div class="projcard-tagbox">
