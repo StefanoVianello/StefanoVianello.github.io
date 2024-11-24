@@ -249,9 +249,9 @@ author_profile: true
         </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EcoDevo</span>
-          <span class="projcard-tag">Ecotoxicology</span>
+          <span class="projcard-tag">Pesticides</span>
           <span class="projcard-tag">metamorphosis</span>
-          <span class="projcard-tag">pesticides</span>
+          <span class="projcard-tag">Endocrine disruption</span>
         </div>
       </div>
     </div>
