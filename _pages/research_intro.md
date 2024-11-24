@@ -235,7 +235,7 @@ author_profile: true
     </div>
   </div>
   
-    <div class="projcard projcard-grey">
+<div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
         <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
