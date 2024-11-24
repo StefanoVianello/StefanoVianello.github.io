@@ -30,7 +30,7 @@ redirect_from:
 
 
 
-**I am a postdoctoral researcher studying clownfish metamorphosis.** I focus on the early (post-embryonic) development of clownfish digestive tract and on the role of thyroid hormones in this process.  I work in [Vincent Laudet's lab](https://groups.oist.jp/meedu) at Academia Sinica's Marine Research Station ([中央研究院所臨海研究站](https://mrs.icob.sinica.edu.tw/)), Yilan County, Taiwan.  <br/> My main academic interests reside in **endoderm and gut tube development**. My current collaborations expand this theme across all three fields of **Eco-Evo-Devo**, as well as **fish metabolism and physiology**, and **ecotoxicology** (see my [Research page](https://stefanovianello.github.io/research_intro/)). 
+**I am a postdoctoral researcher studying clownfish metamorphosis.** I focus on the early (post-embryonic) development of clownfish digestive tract and on the role of thyroid hormones in this process.  I work in [Vincent Laudet's lab](https://groups.oist.jp/meedu) at Academia Sinica's Marine Research Station ([中央研究院所臨海研究站](https://mrs.icob.sinica.edu.tw/)), Yilan County, Taiwan.  <br/><br/> My main academic interests reside in **endoderm and gut tube development**. My current collaborations expand this theme across all three fields of **Eco-Evo-Devo**, as well as **fish metabolism and physiology**, and **ecotoxicology** (see my [Research page](https://stefanovianello.github.io/research_intro/)). 
 <br/><br/>
 
 ![Landscape view from the Marine Research Station: fish pond in the foreground, green mountains in the background](https://StefanoVianello.github.io/images/landscape.png)
