@@ -237,7 +237,7 @@ author_profile: true
         <div class="projcard-title"> Endocrine disrupting effects of organophosphate pesticides</div>
         <div class="projcard-subtitle">using clownfish as a laboratory model</div>
         <div class="projcard-bar"> </div>
-        <div class="projcard-description"> A collaboration with Dr. Matthieu Reynaud. Read the preprint at: <a href="https://www.biorxiv.org/content/10.1101/2024.08.02.606305v2">**Reynaud**, **Vianello** et al.</a>, "The multi-level effect of chlorpyrifos during clownfish metamorphosis" (2024). The collaboration is still ongoing with more data and an extension of the ecotoxicological relevance of the study. <br/> <br/>
+        <div class="projcard-description"> A collaboration with Dr. Matthieu Reynaud. <br/>Read the preprint at: <a href="https://www.biorxiv.org/content/10.1101/2024.08.02.606305v2">Reynaud, Vianello <i>et al</i>.</a>, "The multi-level effect of chlorpyrifos during clownfish metamorphosis" (2024). <br/> The collaboration is still ongoing with more data and an extension of the ecotoxicological relevance of the study. <br/> <br/>
         
         
         Chlorpyrifos is an organophosphate pesticide widely used in agriculture: classified as a persitant organic polluter, it leaches into the soil and waterstreams following application, and accumulates long-term within coastal marine sediments. Its use has bee long associated with the violation of labour- and human rights in both Southeast Asia and South America, backed at least in part by neocolonial EU trade policies <br/>
