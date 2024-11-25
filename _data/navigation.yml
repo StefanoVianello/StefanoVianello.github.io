@@ -5,11 +5,11 @@ main:
   - title: "Research"
     url: /research_intro/
 
-  - title: "Illustration"
-    url: /illustration/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Illustration"
+    url: /illustration/
 
   - title: "Blog Posts"
     url: /year-archive/
