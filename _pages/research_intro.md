@@ -253,16 +253,15 @@ author_profile: true
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
-        <div class="projcard-title"> Endocrine disrupting effects of organophosphate pesticides</div>
-        <div class="projcard-subtitle">using clownfish as a laboratory model</div>
+        <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
+        <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div>
         <div class="projcard-bar"> </div>
         <div class="projcard-description"> Test
         </div>
         <div class="projcard-tagbox">
-          <span class="projcard-tag">EcoDevo</span>
-          <span class="projcard-tag">Pesticides</span>
-          <span class="projcard-tag">metamorphosis</span>
-          <span class="projcard-tag">Endocrine disruption</span>
+          <span class="projcard-tag">EvoDevo</span>
+          <span class="projcard-tag">throughgut</span>
+          <span class="projcard-tag">Anteroposterior patterning</span>
         </div>
       </div>
     </div>
