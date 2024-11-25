@@ -256,7 +256,7 @@ author_profile: true
         <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
         <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div>
         <div class="projcard-bar"> </div>
-        <div class="projcard-description"> My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> We considered five marine organisms across main branches of the bilaterian evolutionary tree. 
+        <div class="projcard-description"> My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> We considered five marine organisms across main branches of the bilaterian evolutionary tree. As a representative of the protostomes, the annelid worm <i>Platynereis dumerilii</i> (Dumeril's clam worm; Audouin & Milne Edwards, 1833). Among deuterostomes, within the Ambulacraria, the echinoderm <i>Strongylocentrotus purpuratus</i> (purple sea urchin; Stimpson, 1857) and the hemichordate <i>Ptychodera flava<i> (acorn worm; Eschscholtz, 1825). For the chordate branch, the cephalochordate <i>Branchiostoma floridae</i> (Florida lancelet; Hubbs, 1922), and the vertebrate <i>Amphiprion ocellaris</i> (common clownfish; Cuvier, 1830).
         </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EvoDevo</span>
