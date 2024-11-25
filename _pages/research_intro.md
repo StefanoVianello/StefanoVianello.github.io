@@ -216,14 +216,12 @@ author_profile: true
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
-        <div class="projcard-textbox">
+      <div class="projcard-textbox">
         <div class="projcard-title"> Gut metamorphosis in the common clownfish</div>
         <!-- <div class="projcard-subtitle">Gut metamorphosis in the common clownfish</div> -->
         <div class="projcard-bar"></div>
         <div class="projcard-description"> I study the hormonal control of metamorphosis in the common clownfish (<i>Amphiprion ocellaris</i>). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef.  <br/> 
         Work related to this project is ongoing, though below are related publications: Roux, Vianello, Laudet; "Physiology of metamorphosis", 2023; Zwahlen, Gairin, Vianello, Mercader, Roux, Laudet; "The ecological function of thyroid hormones", 2024. 
-        
-        
         <img src="https://StefanoVianello.github.io/images/metamorphosis_Aocellaris.png" alt="Diagram of the common clownfish lifecycle between pelagic larval life and settlement into the reef"><figcaption> Illustration of the lifecycle of the common clownfish. Larvae (rightmost) disperse into the ocean (pelagic phase). Major physiological, behavioral, and ecological changes (metamorphosis) take place as the larval body plan is recruited into the reef and the clownfish finds an anemome in which to house. Figure redrawn from (<a href="https://doi.org/10.1002/dvdy.46">Roux et al. 2019</a>). <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> Image licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. </figcaption></div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EcoEvoDevo</span>
@@ -235,40 +233,36 @@ author_profile: true
     </div>
   </div>
   
-<div class="projcard projcard-grey">
+  <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
-        <div class="projcard-textbox">
+      <div class="projcard-textbox">
         <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
         <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div> 
-                <div class="projcard-bar"> </div>
+        <div class="projcard-bar"> </div>
         <div class="projcard-description">
-                My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> 
+        My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> 
         We considered five marine organisms across main branches of the bilaterian evolutionary tree. As a representative of the protostomes, the annelid worm <i>Platynereis dumerilii</i> (Dumeril's clam worm; Audouin & Milne Edwards, 1833). Among deuterostomes, within the Ambulacraria, the echinoderm <i>Strongylocentrotus purpuratus</i> (purple sea urchin; Stimpson, 1857) and the hemichordate <i>Ptychodera flava<i> (acorn worm; Eschscholtz, 1825). For the chordate branch, the cephalochordate <i>Branchiostoma floridae</i> (Florida lancelet; Hubbs, 1922), and the vertebrate <i>Amphiprion ocellaris</i> (common clownfish; Cuvier, 1830). For each We develop spatiotemporal transcriptomic resources along the entire gut, in the adults, the larval stages, amd across the metamorphic process.
-        <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon.  </font> 
-        
-        </div>
+        <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon.</font> 
+        </div>      
         <div class="projcard-tagbox">
           <span class="projcard-tag">EvoDevo</span>
           <span class="projcard-tag">throughgut</span>
           <span class="projcard-tag">Anteroposterior patterning</span>
         </div>
-      </div>
-    </div>
+      </div> 
+    </div>    
   </div>
         
   
   
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
-        <div class="projcard-textbox">
+      <div class="projcard-textbox">
         <div class="projcard-title"> Endocrine disrupting effects of organophosphate pesticides</div>
         <div class="projcard-subtitle">using clownfish as a laboratory model</div>
         <div class="projcard-bar"> </div>
         <div class="projcard-description"> Read the preprint at: <a href="https://www.biorxiv.org/content/10.1101/2024.08.02.606305v2"><b>Reynaud</b>, <b>Vianello</b> <i>et al</i>., "The multi-level effect of chlorpyrifos during clownfish metamorphosis" (2024). </a><br/> <font color="gray"> A collaboration with Dr. Matthieu Reynaud. [Pharmacological perturbation, transcriptomics, fish phisiology]. The collaboration is <b>still ongoing</b> with more data and an extension of the ecotoxicological relevance of the study. </font> <br/> <br/>
-        
-        
         Chlorpyrifos is an organophosphate pesticide widely used in agriculture: classified as a persitant organic polluter, it leaches into the soil and waterstreams following application, and accumulates long-term within coastal marine sediments. Its use has bee long associated with the violation of labour- and human rights in both Southeast Asia and South America, backed at least in part by neocolonial EU trade policies. In Taiwan, the use of Chlorpyrifos (陶斯松) is under <a href="https://www.moenv.gov.tw/en/6F017386BDF4CDF5/4d875576-a2a3-4c57-ba2a-348b04833a2b">ongoing phaseout</a>, with a total ban planned <a href="https://www.taipeitimes.com/News/taiwan/archives/2022/03/07/2003774336"> by 2026 </a>. Within South East Asia, its use has been officially banned in <a href="https://panap.net/2022/08/malaysia-commended-for-ban-on-chlorpyrifos-and-carbofuran/">Malaysia</a>, <a href="https://panap.net/2019/02/pan-vietnam-welcomes-the-ban-of-chlorpyrifos-and-fipronil/">Vietnam</a>, and <a href="https://www.ratchakitcha.soc.go.th/DATA/PDF/2563/E/117/T_0056.PDF">Thailand</a>, though <a href="https://fpa.da.gov.ph/call-to-ban-chlorpyrifos-application-in-banana-raised-to-extruders-in-davao/">not yet in the Philippines</a> and <a href="https://ipen.org/documents/situation-report-chlorpyrifos-indonesia"> Indonesia</a>, despite this pesticide having such "significant adverse human health and/or environmental effects, that global action is warranted" according to the latest <a href="https://www.pops.int/TheConvention/POPsReviewCommittee/Meetings/POPRC20/Overview/tabid/9850/Default.aspx">Stockholm Convention's Persistent Organic Pollutants Review Committee review </a>. <br/> <br/>
-        
         <b>Particular alarm and morbidity has always concerned the effects of Chlorpyrifos as an endocrine disruptor</b>, including on the Thyroid Hormone Axis. By using metamorphosing larvae of the common clownfish <i> Amphiprion ocellaris </i> as a model system of Thyroid Hormone endocrine regulation in fish, we characterised the effect of this pesticide on a marine fish at the level of the whole transcriptome, with a further focus on the consequences on the Thyroid Hormone endocrine axis. Beside the ecotoxicological inferences that this research allows, specifically on the threat represented by transmaritime trade across tropical waters, our findings provide one of the first system-level description of the potential effects of this pesticide on fish, and in comparison to known thyroid hormone axis modulators. <br/>
         <img src="https://StefanoVianello.github.io/images/chlorpyrifosspray.png" alt="Farmers spraying chlorpyrifos pesticide on crops"><figcaption>Chlorpyrifos pesticide spraying over agriculture crops</figcaption>
         </div>
@@ -284,19 +278,16 @@ author_profile: true
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
-        <div class="projcard-textbox">
+      <div class="projcard-textbox">
         <div class="projcard-title"> Effect of dietary phytochemicals on coral reef biology</div>
         <div class="projcard-subtitle">The bisindolic alkaloid Caulerpin and its effects on fish metabolism and physiology</div> 
                 <div class="projcard-bar"> </div>
-        <div class="projcard-description">
-        
+        <div class="projcard-description">        
         <font color="gray"> A collaboration with Carmela Celentano, Italy. The results from this research have not yet been published. </font> <br/> <br/>
         Species of the genus <i>Caulerpa</i>, a siphonaceous green alga that grows in the upper sublittoral zone of tropical coral reefs,  are widely distributed in Australian and Southeast Asian waters. <i>Caulerpa lentillifera</i> and varieties of <i>Caulerpa racemosa</i> are for example considered a delicacy in the Philippines, Indonesia, Malaysia, and Okinawa (Japan), and many <i>Caulerpa</i> species have (also) been long valued for their medicinal uses. In fact, <i>Caulerpa</i> varieties are now widely farmed in many Southeast Asian nations, a practice first developed in the 1950s in Mactan Island (Cebu, Philippines). <br/> <br/>
-
-On the other hand, a member of the <i>Caulerpa racemosa</i> complex is currently a source of heightened concern in the Mediterranean Sea, new waters it is believed to have reached as a result of aquarium trade from Western Australia. In these waters, in the form of the so-called <i>var. cylindracea</i>, this species has shown one of the highest invasive characters ever recorded in the Mediterranean, affecting pre-established seagrass ecosystems and reducing species diversity. Further concern has notably derived from its accumulation within the tissues of local sparid species of human consumption (e.g.  <i>Diplodus sargus</i>). <br/> <br/>
-
-Critically, <b><i>Caulerpa cylindracea</i> and many other species of the genus synthesize a bisindolic red pigment called caulerpin</b>, first discovered in <i>Caulerpa racemosa</i> by Filipino scientist Gertrudes Aguilar Santos. While data on the accumulation of this compound in fish of historical <i>Caulerpa spp.</i> tropical habitats are difficult to find, an increasing body of literature has instead documented its clear accumulation in muscle and liver of Mediterranean species. The effects of caulerpin on fish physiology and metabolism have however been only characterised in terms of a restricted panels of expected targets or target processes (notably, oxidative stress, selected lipid metabolism enzymes, etc...). By leveraging the amenability of <i>Amphiorion clarkii</i> to experimentation, our collaborative research <b>characterised the effects of caulerpin at all levels of fish physiology: transcriptomics, lipidomics, metatranscriptomics, behaviour </b>.
-                <img src="https://StefanoVianello.github.io/images/Caulerpin_field_bantayan.PNG" alt="A field of bright green Caulerpa, near Bantayan Island, Philippines . From Rey Baruc Youtube channel"><figcaption>A field of <i>Caulerpa spp.</i> in the waters around Bantayan Island (Cebu, Philippines). From Rey Baruc's video "Lato or Sea Grapes ( Green Caviar ) in Bantayan Cebu"</figcaption>
+        On the other hand, a member of the <i>Caulerpa racemosa</i> complex is currently a source of heightened concern in the Mediterranean Sea, new waters it is believed to have reached as a result of aquarium trade from Western Australia. In these waters, in the form of the so-called <i>var. cylindracea</i>, this species has shown one of the highest invasive characters ever recorded in the Mediterranean, affecting pre-established seagrass ecosystems and reducing species diversity. Further concern has notably derived from its accumulation within the tissues of local sparid species of human consumption (e.g.  <i>Diplodus sargus</i>). <br/> <br/>        
+        Critically, <b><i>Caulerpa cylindracea</i> and many other species of the genus synthesize a bisindolic red pigment called caulerpin</b>, first discovered in <i>Caulerpa racemosa</i> by Filipino scientist Gertrudes Aguilar Santos. While data on the accumulation of this compound in fish of historical <i>Caulerpa spp.</i> tropical habitats are difficult to find, an increasing body of literature has instead documented its clear accumulation in muscle and liver of Mediterranean species. The effects of caulerpin on fish physiology and metabolism have however been only characterised in terms of a restricted panels of expected targets or target processes (notably, oxidative stress, selected lipid metabolism enzymes, etc...). By leveraging the amenability of <i>Amphiorion clarkii</i> to experimentation, our collaborative research <b>characterised the effects of caulerpin at all levels of fish physiology: transcriptomics, lipidomics, metatranscriptomics, behaviour </b>.
+        <img src="https://StefanoVianello.github.io/images/Caulerpin_field_bantayan.PNG" alt="A field of bright green Caulerpa, near Bantayan Island, Philippines . From Rey Baruc Youtube channel"><figcaption>A field of <i>Caulerpa spp.</i> in the waters around Bantayan Island (Cebu, Philippines). From Rey Baruc's video "Lato or Sea Grapes ( Green Caviar ) in Bantayan Cebu"</figcaption>
         </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">Ecology and Physiology</span>
@@ -312,11 +303,12 @@ Critically, <b><i>Caulerpa cylindracea</i> and many other species of the genus s
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
-        <div class="projcard-textbox">
+      <div class="projcard-textbox">
         <div class="projcard-title"> Endoderm development in gastruloids</div>
         <!-- <div class="projcard-subtitle">Endoderm development in gastruloids</div> -->
         <div class="projcard-bar"></div>
-        <div class="projcard-description"> In humans, mice, and other mammals key internal organs such as the gut, lungs, pancreas, liver, thyroid, thymus, and bladder (and many others!) all derive from the same embryonic tissue: the endoderm. The development of all of these structures thus depends on a same set of early cells, and on the developmental instructions provided to them by the embryo. To study what these instructions might be, I am currently investigating the modes of development that endoderm cells (and their progenitors) execute when they can <i>not</i> rely on them. That is, when they are made to self-organise <i>in vitro</i> in a dish in the lab. Even on their own, endoderm cells emerge with timings and patterns comparable to what happens when they are on the embryo, and eventually form patterned structures in many way similar to the embryonic gut tube. My research touches on topics of endoderm and epithelial identity, self-organisation, patterning, and fundamental mammalian developmental biology. <br/> <img src="https://StefanoVianello.github.io/images/TBra_foxA2_banner.PNG" alt="Gastruloids immunostained for endoderm marker FoxA2 and posterior marker TBra"><figcaption> Embryonic stem cells can be left to self-organise into structures called Gastruloids. These provide an <i>in vitro</i> model of embryonic development. Endoderm cells, marked here in cyan (FoxA2), form an elongated internal core. The posterior marker TBra (gold) marks the posterior of the aggregate. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloids_and_tail.PNG" alt="Gastruloids next to the tailbud of a mouse embryo. The same makers have been immunostained in both."><figcaption> Gastruloids have been found to express genes in a organised way, in many way similar (and in many ways different) from that of the real mouse embryo. In the image above, the same markers have been stained in the tail of a mouse embryo (big structure on the right) and in 7-days-old Gastruloids. Insight comes from the comparison between what seen in the embryo and what observed to happen in these self-organising *in vitro* systems. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloid_quantification.PNG" alt="Plots showing alternative quantifications of the marker expression patterns in Gastruloids"><figcaption> The patterns of gene expression amongst Gastruloids are very robust and reproducible. We can image entire populations of Gastruloids and extract spatial information about where specific genes are expressed along the main axis. </figcaption></div>
+        <div class="projcard-description"> In humans, mice, and other mammals key internal organs such as the gut, lungs, pancreas, liver, thyroid, thymus, and bladder (and many others!) all derive from the same embryonic tissue: the endoderm. The development of all of these structures thus depends on a same set of early cells, and on the developmental instructions provided to them by the embryo. To study what these instructions might be, I am currently investigating the modes of development that endoderm cells (and their progenitors) execute when they can <i>not</i> rely on them. That is, when they are made to self-organise <i>in vitro</i> in a dish in the lab. Even on their own, endoderm cells emerge with timings and patterns comparable to what happens when they are on the embryo, and eventually form patterned structures in many way similar to the embryonic gut tube. My research touches on topics of endoderm and epithelial identity, self-organisation, patterning, and fundamental mammalian developmental biology. <br/> <img src="https://StefanoVianello.github.io/images/TBra_foxA2_banner.PNG" alt="Gastruloids immunostained for endoderm marker FoxA2 and posterior marker TBra"><figcaption> Embryonic stem cells can be left to self-organise into structures called Gastruloids. These provide an <i>in vitro</i> model of embryonic development. Endoderm cells, marked here in cyan (FoxA2), form an elongated internal core. The posterior marker TBra (gold) marks the posterior of the aggregate. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloids_and_tail.PNG" alt="Gastruloids next to the tailbud of a mouse embryo. The same makers have been immunostained in both."><figcaption> Gastruloids have been found to express genes in a organised way, in many way similar (and in many ways different) from that of the real mouse embryo. In the image above, the same markers have been stained in the tail of a mouse embryo (big structure on the right) and in 7-days-old Gastruloids. Insight comes from the comparison between what seen in the embryo and what observed to happen in these self-organising *in vitro* systems. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloid_quantification.PNG" alt="Plots showing alternative quantifications of the marker expression patterns in Gastruloids"><figcaption> The patterns of gene expression amongst Gastruloids are very robust and reproducible. We can image entire populations of Gastruloids and extract spatial information about where specific genes are expressed along the main axis. </figcaption>
+        </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">gastruloids</span>
           <span class="projcard-tag">endoderm</span>
