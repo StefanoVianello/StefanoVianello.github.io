@@ -232,6 +232,7 @@ author_profile: true
       </div>
     </div>
   </div>
+
   
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
@@ -296,9 +297,9 @@ author_profile: true
       </div>
     </div>
   </div>
-</div>
 
-<b>PhD research</b> 
+
+ <b>PhD research</b> 
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
@@ -317,6 +318,7 @@ author_profile: true
     </div>
   </div>
 </div>
+
 
 <!--
 ## Research Projects
