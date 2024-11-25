@@ -233,6 +233,44 @@ author_profile: true
     </div>
   </div>
 
+  
+  <!-- <div class="projcard projcard-grey">
+    <div class="projcard-innerbox">
+      <div class="projcard-textbox">
+        <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
+        <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div> 
+        <div class="projcard-bar"> </div>
+        <div class="projcard-description"> My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> We considered five marine organisms across main branches of the bilaterian evolutionary tree. As a representative of the protostomes, the annelid worm <i>Platynereis dumerilii</i> (Dumeril's clam worm; Audouin & Milne Edwards, 1833). Among deuterostomes, within the Ambulacraria, the echinoderm <i>Strongylocentrotus purpuratus</i> (purple sea urchin; Stimpson, 1857) and the hemichordate <i>Ptychodera flava<i> (acorn worm; Eschscholtz, 1825). For the chordate branch, the cephalochordate <i>Branchiostoma floridae</i> (Florida lancelet; Hubbs, 1922), and the vertebrate <i>Amphiprion ocellaris</i> (common clownfish; Cuvier, 1830). For each We develop spatiotemporal transcriptomic resources along the entire gut, in the adults, the larval stages, amd across the metamorphic process. <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon.</font> .
+        </div>
+        <div class="projcard-tagbox">
+          <span class="projcard-tag">EvoDevo</span>
+          <span class="projcard-tag">throughgut</span>
+          <span class="projcard-tag">Anteroposterior patterning</span>
+        </div>
+      </div> 
+    </div>    
+  </div>      -->
+  <div class="projcard projcard-grey">
+    <div class="projcard-innerbox">
+      <div class="projcard-textbox">
+        <div class="projcard-title"> Endocrine disrupting effects of organophosphate pesticides</div>
+        <div class="projcard-subtitle">using clownfish as a laboratory model</div>
+        <div class="projcard-bar"> </div>
+        <div class="projcard-description"> Read the preprint at: <a href="https://www.biorxiv.org/content/10.1101/2024.08.02.606305v2"><b>Reynaud</b>, <b>Vianello</b> <i>et al</i>., "The multi-level effect of chlorpyrifos during clownfish metamorphosis" (2024). </a><br/> <font color="gray"> A collaboration with Dr. Matthieu Reynaud. [Pharmacological perturbation, transcriptomics, fish phisiology]. The collaboration is <b>still ongoing</b> with more data and an extension of the ecotoxicological relevance of the study. </font> <br/> <br/>
+        Chlorpyrifos is an organophosphate pesticide widely used in agriculture: classified as a persitant organic polluter, it leaches into the soil and waterstreams following application, and accumulates long-term within coastal marine sediments. Its use has bee long associated with the violation of labour- and human rights in both Southeast Asia and South America, backed at least in part by neocolonial EU trade policies. In Taiwan, the use of Chlorpyrifos (陶斯松) is under <a href="https://www.moenv.gov.tw/en/6F017386BDF4CDF5/4d875576-a2a3-4c57-ba2a-348b04833a2b">ongoing phaseout</a>, with a total ban planned <a href="https://www.taipeitimes.com/News/taiwan/archives/2022/03/07/2003774336"> by 2026 </a>. Within South East Asia, its use has been officially banned in <a href="https://panap.net/2022/08/malaysia-commended-for-ban-on-chlorpyrifos-and-carbofuran/">Malaysia</a>, <a href="https://panap.net/2019/02/pan-vietnam-welcomes-the-ban-of-chlorpyrifos-and-fipronil/">Vietnam</a>, and <a href="https://www.ratchakitcha.soc.go.th/DATA/PDF/2563/E/117/T_0056.PDF">Thailand</a>, though <a href="https://fpa.da.gov.ph/call-to-ban-chlorpyrifos-application-in-banana-raised-to-extruders-in-davao/">not yet in the Philippines</a> and <a href="https://ipen.org/documents/situation-report-chlorpyrifos-indonesia"> Indonesia</a>, despite this pesticide having such "significant adverse human health and/or environmental effects, that global action is warranted" according to the latest <a href="https://www.pops.int/TheConvention/POPsReviewCommittee/Meetings/POPRC20/Overview/tabid/9850/Default.aspx">Stockholm Convention's Persistent Organic Pollutants Review Committee review </a>. <br/> <br/>
+        <b>Particular alarm and morbidity has always concerned the effects of Chlorpyrifos as an endocrine disruptor</b>, including on the Thyroid Hormone Axis. By using metamorphosing larvae of the common clownfish <i> Amphiprion ocellaris </i> as a model system of Thyroid Hormone endocrine regulation in fish, we characterised the effect of this pesticide on a marine fish at the level of the whole transcriptome, with a further focus on the consequences on the Thyroid Hormone endocrine axis. Beside the ecotoxicological inferences that this research allows, specifically on the threat represented by transmaritime trade across tropical waters, our findings provide one of the first system-level description of the potential effects of this pesticide on fish, and in comparison to known thyroid hormone axis modulators. <br/>
+        <img src="https://StefanoVianello.github.io/images/chlorpyrifosspray.png" alt="Farmers spraying chlorpyrifos pesticide on crops"><figcaption>Chlorpyrifos pesticide spraying over agriculture crops</figcaption>
+        </div>
+        <div class="projcard-tagbox">
+          <span class="projcard-tag">EcoDevo</span>
+          <span class="projcard-tag">Pesticides</span>
+          <span class="projcard-tag">metamorphosis</span>
+          <span class="projcard-tag">Endocrine disruption</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
