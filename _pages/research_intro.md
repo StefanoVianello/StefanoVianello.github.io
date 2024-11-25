@@ -215,6 +215,7 @@ author_profile: true
   <li><a href="#bilaterian">Evolution of the bilaterian throughgut</a></li>
   <li><a href="#chlorpyrifos">Endocrine disrupting effects of organophosphate pesticides</a></li>
   	<li><a href="#caulerpin">Effect of dietary phytochemicals on coral reef biology</a></li>
+    <li><a href="#gastruloids">Endoderm development in stem-cell-based models of early mouse development</a></li>
 </ul>
 
 <div class="projcard-container">
@@ -239,24 +240,9 @@ author_profile: true
       </div>
     </div>
   </div>
+  <div><span style="font-size:14px"><a href="#top">Back to top</a></span></div>
+<div>&nbsp;</div>
 
-  
-  <!-- <div class="projcard projcard-grey">
-    <div class="projcard-innerbox">
-      <div class="projcard-textbox">
-        <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
-        <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div> 
-        <div class="projcard-bar"> </div>
-        <div class="projcard-description"> My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> We considered five marine organisms across main branches of the bilaterian evolutionary tree. As a representative of the protostomes, the annelid worm <i>Platynereis dumerilii</i> (Dumeril's clam worm; Audouin & Milne Edwards, 1833). Among deuterostomes, within the Ambulacraria, the echinoderm <i>Strongylocentrotus purpuratus</i> (purple sea urchin; Stimpson, 1857) and the hemichordate <i>Ptychodera flava<i> (acorn worm; Eschscholtz, 1825). For the chordate branch, the cephalochordate <i>Branchiostoma floridae</i> (Florida lancelet; Hubbs, 1922), and the vertebrate <i>Amphiprion ocellaris</i> (common clownfish; Cuvier, 1830). For each We develop spatiotemporal transcriptomic resources along the entire gut, in the adults, the larval stages, amd across the metamorphic process. <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon.</font> .
-        </div>
-        <div class="projcard-tagbox">
-          <span class="projcard-tag">EvoDevo</span>
-          <span class="projcard-tag">throughgut</span>
-          <span class="projcard-tag">Anteroposterior patterning</span>
-        </div>
-      </div> 
-    </div>    
-  </div>      -->
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
@@ -273,6 +259,8 @@ author_profile: true
       </div>
     </div>
   </div>
+  <div><span style="font-size:14px"><a href="#top">Back to top</a></span></div>
+<div>&nbsp;</div>
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
@@ -294,6 +282,8 @@ author_profile: true
       </div>
     </div>
   </div>
+<div><span style="font-size:14px"><a href="#top">Back to top</a></span></div>
+<div>&nbsp;</div>
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
@@ -317,14 +307,15 @@ author_profile: true
       </div>
     </div>
   </div>
-
+<div><span style="font-size:14px"><a href="#top">Back to top</a></span></div>
+<div>&nbsp;</div>
 
  <b>PhD research</b> 
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
-        <div class="projcard-title"> Endoderm development in gastruloids</div>
+        <div class="projcard-title" id="gastruloid"> Endoderm development in gastruloids</div>
         <!-- <div class="projcard-subtitle">Endoderm development in gastruloids</div> -->
         <div class="projcard-bar"></div>
         <div class="projcard-description"> In humans, mice, and other mammals key internal organs such as the gut, lungs, pancreas, liver, thyroid, thymus, and bladder (and many others!) all derive from the same embryonic tissue: the endoderm. The development of all of these structures thus depends on a same set of early cells, and on the developmental instructions provided to them by the embryo. To study what these instructions might be, I am currently investigating the modes of development that endoderm cells (and their progenitors) execute when they can <i>not</i> rely on them. That is, when they are made to self-organise <i>in vitro</i> in a dish in the lab. Even on their own, endoderm cells emerge with timings and patterns comparable to what happens when they are on the embryo, and eventually form patterned structures in many way similar to the embryonic gut tube. My research touches on topics of endoderm and epithelial identity, self-organisation, patterning, and fundamental mammalian developmental biology. <br/> <img src="https://StefanoVianello.github.io/images/TBra_foxA2_banner.PNG" alt="Gastruloids immunostained for endoderm marker FoxA2 and posterior marker TBra"><figcaption> Embryonic stem cells can be left to self-organise into structures called Gastruloids. These provide an <i>in vitro</i> model of embryonic development. Endoderm cells, marked here in cyan (FoxA2), form an elongated internal core. The posterior marker TBra (gold) marks the posterior of the aggregate. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloids_and_tail.PNG" alt="Gastruloids next to the tailbud of a mouse embryo. The same makers have been immunostained in both."><figcaption> Gastruloids have been found to express genes in a organised way, in many way similar (and in many ways different) from that of the real mouse embryo. In the image above, the same markers have been stained in the tail of a mouse embryo (big structure on the right) and in 7-days-old Gastruloids. Insight comes from the comparison between what seen in the embryo and what observed to happen in these self-organising *in vitro* systems. </figcaption> <br/> <img src="https://StefanoVianello.github.io/images/Gastruloid_quantification.PNG" alt="Plots showing alternative quantifications of the marker expression patterns in Gastruloids"><figcaption> The patterns of gene expression amongst Gastruloids are very robust and reproducible. We can image entire populations of Gastruloids and extract spatial information about where specific genes are expressed along the main axis. </figcaption>
@@ -339,6 +330,8 @@ author_profile: true
   </div>
 </div>
 
+  <div><span style="font-size:14px"><a href="#top">Back to top</a></span></div>
+<div>&nbsp;</div>
 
 <!--
 ## Research Projects
