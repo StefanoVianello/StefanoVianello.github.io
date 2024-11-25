@@ -210,6 +210,13 @@ author_profile: true
   </style>
 
 
+<ul id="top">
+  <li><a href="#metamorphosis">Gut and stomach metamorphosis in the common clownfish</a></li>
+  <li><a href="#bilaterian">Evolution of the bilaterian throughgut</a></li>
+  <li><a href="#chlorpyrifos">Endocrine disrupting effects of organophosphate pesticides</a></li>
+  	<li><a href="#caulerpin">Effect of dietary phytochemicals on coral reef biology</a></li>
+</ul>
+
 <div class="projcard-container">
 
  <b>Postdoctoral research </b> 
@@ -217,7 +224,7 @@ author_profile: true
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
-        <div class="projcard-title"> Gut metamorphosis in the common clownfish</div>
+        <div class="projcard-title" id="metamorphosis"> Gut metamorphosis in the common clownfish</div>
         <!-- <div class="projcard-subtitle">Gut metamorphosis in the common clownfish</div> -->
         <div class="projcard-bar"></div>
         <div class="projcard-description"> I study the hormonal control of metamorphosis in the common clownfish (<i>Amphiprion ocellaris</i>). Specifically, I focus on the transformations in gastrointestinal anatomy and function as the larvae undergo the broader metamorphic changes that prepare them to settle in the reef.  <br/> 
@@ -253,7 +260,7 @@ author_profile: true
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
-        <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
+        <div class="projcard-title" id="bilaterian"> Evolution of the bilaterian throughgut</div>
         <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div>
         <div class="projcard-bar"> </div>
         <div class="projcard-description"> My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> We considered five marine organisms across main branches of the bilaterian evolutionary tree. As a representative of the protostomes, the annelid worm <i>Platynereis dumerilii</i> (Dumeril's clam worm; Audouin & Milne Edwards, 1833). Among deuterostomes, within the Ambulacraria, the echinoderm <i>Strongylocentrotus purpuratus</i> (purple sea urchin; Stimpson, 1857) and the hemichordate <i>Ptychodera flava</i> (acorn worm; Eschscholtz, 1825). For the chordate branch, the cephalochordate <i>Branchiostoma floridae</i> (Florida lancelet; Hubbs, 1922), and the vertebrate <i>Amphiprion ocellaris</i> (common clownfish; Cuvier, 1830). For each We develop spatiotemporal transcriptomic resources along the entire gut, in the adults, the larval stages, amd across the metamorphic process.<br/><br/>  <font color="gray"> One first manuscript our of this collaboration is <b>in preparation</b>. This section will be updated soon.</font> <br/><br/> <img src="https://StefanoVianello.github.io/images/Fivespecies.png" alt="Farmers spraying chlorpyrifos pesticide on crops"><figcaption> The annelid worm <i>Platynereis dumerilii</i>, the echinoderm <i>Strongylocentrotus purpuratus</i>, an acorn worm, a cephalochordate <i>Branchiostoma</i>, and the vertebrate <i>Amphiprion ocellaris</i>  <font color="gray">[Image sources: Torkild Bakken;  Flickr/kqedquest; Chris Lowe; D. L. GEIGER/SNAP/ALAMY; Unsplash]</font></figcaption>
@@ -270,7 +277,7 @@ author_profile: true
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
-        <div class="projcard-title"> Endocrine disrupting effects of organophosphate pesticides</div>
+        <div class="projcard-title" id="chlorpyrifos"> Endocrine disrupting effects of organophosphate pesticides</div>
         <div class="projcard-subtitle">using clownfish as a laboratory model</div>
         <div class="projcard-bar"> </div>
         <div class="projcard-description"> Read the preprint at: <a href="https://www.biorxiv.org/content/10.1101/2024.08.02.606305v2"><b>Reynaud</b>, <b>Vianello</b> <i>et al</i>., "The multi-level effect of chlorpyrifos during clownfish metamorphosis" (2024). </a><br/> <font color="gray"> A collaboration with Dr. Matthieu Reynaud. [Pharmacological perturbation, transcriptomics, fish phisiology]. The collaboration is <b>still ongoing</b> with more data and an extension of the ecotoxicological relevance of the study. </font> <br/> <br/>
@@ -291,7 +298,7 @@ author_profile: true
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
       <div class="projcard-textbox">
-        <div class="projcard-title"> Effect of dietary phytochemicals on coral reef biology</div>
+        <div class="projcard-title" id="caulerpin"> Effect of dietary phytochemicals on coral reef biology</div>
         <div class="projcard-subtitle">The bisindolic alkaloid Caulerpin and its effects on fish metabolism and physiology</div> 
                 <div class="projcard-bar"> </div>
         <div class="projcard-description">        
