@@ -256,7 +256,7 @@ author_profile: true
         <div class="projcard-title"> Evolution of the bilaterian throughgut</div>
         <div class="projcard-subtitle">An EcoDevo exploration of gut organisation across marine bilaterians</div>
         <div class="projcard-bar"> </div>
-        <div class="projcard-description"> Test
+        <div class="projcard-description"> My main postdoctoral research project, a collaboration with three other Academia Sinica labs to bring together the study of a total of five different marine organisms on the common topic of gastrointestinal development and throughgut evolution. <br/><br/> We considered five marine organisms across main branches of the bilaterian evolutionary tree. 
         </div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EvoDevo</span>
