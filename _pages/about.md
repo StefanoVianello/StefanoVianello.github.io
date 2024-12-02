@@ -34,7 +34,7 @@ redirect_from:
 <br/><br/>
 
 ![Landscape view from the Marine Research Station: fish pond in the foreground, green mountains in the background](https://StefanoVianello.github.io/images/landscape.png)
-<br/>
+<br/><br/>
 ![Me and my colleague working at the sea anemone pool of the marine station](https://StefanoVianello.github.io/images/Anemone_pool.png)
 
 <!--
