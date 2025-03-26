@@ -413,7 +413,7 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"> <ul>
           <li><b>Languages</b>: <span class="projcard-tag">Italian (native)</span> <span class="projcard-tag">French (fluent)</span> <span class="projcard-tag">English (fluent)</span> </li>
-          <li><b>Affiliations</b>: <span class="projcard-tag">PSDB (Philippine Society for Developmental Biology) member</span> <span class="projcard-tag">TSDB (Taiwanese Society of Developmental Biology) member</span> <span class="projcard-tag">DORA (signatory)</span> </li>
+          <li><b>Affiliations</b>: <span class="projcard-tag">PSDB (Philippine Society for Developmental Biology) member</span> <span class="projcard-tag">TSDB (Taiwanese Society of Developmental Biology) member</span> <span class="projcard-tag">DORA (signatory)</span> <span class="projcard-tag">IUS (International Union of Scientists Against Militarism and the Destructive Use of Science) member</span> </li>
           <li><b>Hobbies</b>: </li>
           <li><b>IT skills</b>: 
             <ul>
