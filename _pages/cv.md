@@ -390,19 +390,25 @@ redirect_from:
       <div class="projcard-textbox">
         <div class="projcard-title">Teaching Training/Experience</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description"><ul>
+        <div class="projcard-description">
+        Teaching experience:
+        <ul>
           <li>2025: <b>Supervisor</b>: Bachelor Research Student internship (4 months)</li>
-          <li>2024: <b>Supervisor</b>: Research Secondment PhD student (3 months) </li>
-          <li></li>
-          <li>2024: Attended <font style="font-variant: small-caps">University of the Pgilippines Center for Integrative and Development Studies (UP CIDS)</font>: International Conference "Resisting Intellectual Imperialism and Epistemic Violence: Towards Autonomous Knowledge Production"</li>
-          <li>2021: Completed <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
-          <li>2021: Completed <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
-          <li>2020: Completed <font style="font-variant: small-caps">EPFL ENG-624</font>: Science and Engineering Teaching and Learning</li>
+          <li>2024: <b>Supervisor</b>: Research Secondment PhD student (3 months) </li>          
           <li>2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL BIO-378</font>: Physiology Lab 1</li>
           <li>2018-2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL BIOENG-110</font>: General Biology</li>
           <li>24,25/10/2019: <b>Course Instructor</b> <font style="font-variant: small-caps">CamBioscience</font>: Practical Course: Discovering Gastruloids</li>
           <li>10/2016; 02/2017: <b>Demonstrator</b> <font style="font-variant: small-caps">University of Cambridge</font></li>
-        </ul></div>
+        </ul>
+        Teaching training:
+          <ul>
+          <li>2024: <font style="font-variant: small-caps">University of the Philippines Center for Integrative and Development Studies (UP CIDS)</font>: International Conference "Resisting Intellectual Imperialism and Epistemic Violence: Towards Autonomous Knowledge Production"</li>
+          <li>2021: <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
+          <li>2021: <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
+          <li>2020: <font style="font-variant: small-caps">EPFL ENG-624</font>: Science and Engineering Teaching and Learning</li>
+          
+        </ul>
+        </div>
         </div>
     </div>
   </div>
