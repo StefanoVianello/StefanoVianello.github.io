@@ -391,6 +391,10 @@ redirect_from:
         <div class="projcard-title">Teaching Training/Experience</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
+          <li>2025: <b>Supervisor</b>: Bachelor Research Student internship (4 months)</li>
+          <li>2025: <b>Supervisor</b>: Research Secondment PhD student (3 months) </li>
+          <li></li>
+          <li>2021: EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
           <li>2021: EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
           <li>2020: EPFL ENG-624: SCIENCE & ENGINEERING TEACHING AND LEARNING</li>
           <li>2021: TEACHING ASSISTANT EPFL BIO-378 PHYSIOLOGY LAB 1</li>
