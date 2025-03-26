@@ -351,17 +351,19 @@ redirect_from:
         <div class="projcard-title">Talks</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
-          <li>ITALIAN SOCIETY OF EVOLUTIONARY BIOLOGY (SIBE) Speaker: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 09.2024</li>
-          <li>EuroEvoDevo 2024: Meeting of the European Evolutionary Developmental Biology Society; Accepted speaker for the Fish Satellite Meeting: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2023 *(could not attend)*</li>
-          <li>EcoEvoDevo INTERGROUP SEMINARS (INTERNAL) Speaker: "Gut metamorphosis in the common clownfish <i>Amphiprion ocellaris</i>", 02.2023</li>
-          <li>INTERNATIONAL SCIENCE COUNCIL: OPEN SCIENCE SOUTH ASIAN NETWORK CONFERENCE 2022. Invited speaker: "Preprints- A Pathway to Open Access", 09.2022</li>
-          <li>eLife Early Career Researcher Wednesday Webinar Series Invited speaker: "Do-it-Yourself strategies to prefigurative publishing", 05.2022</li>
-          <li>OASPA Open Access Scholarly Publishing Association Webinar; Invited speaker: "So can publishing respond to a crisis? An evidence-informed approach" 12.2021</li>
-          <li>PREPRINTS IN MOTION PODCAST; Invited speaker: "Be the change you want to see: Prefigurative politics in academia" 11.2021</li>
-          <li>ASAPbio FELLOWS TRAINING PROGRAMME virtual Invited speaker: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
-          <li> PHYSICS OF LIVING SYSTEMS (INTERNAL) Lausanne, CH "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
-          <li>EUROTECH SUMMER SCHOOL: OPEN SCIENCE IN PRACTICE Lausanne, CH Invited speaker: "PreLights: a community-driven effort to highlighting preprints". 2019</li>
-          <li>EMBO WORKSHOP: IMAGING MOUSE DEVELOPMENT Heidelberg, DE "Elucidating the role of mechanical cues during peri-implantation mouse development". 2019</li>
+          <li><font style="font-variant: small-caps">2025 Joint Conference of the Asian Society of Ichthyologists Annual Meeting and the 12th Indo-Pacific Fish Conference (ASI-IPFC)</font>; <b>Speaker</b>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2025</li>
+          <li><font style="font-variant: small-caps">University of the Philippines Marine Science Institute (UP MSI)</font>; <b>Invited speaker</b>: "Listening to one's gut: approaching marine life evolution, life history transitions, and ecophysiology from the perspective of the gastrointestinal system", 01.2025</li>
+          <li><font style="font-variant: small-caps">ITALIAN SOCIETY OF EVOLUTIONARY BIOLOGY (SIBE)</font>;  <b>Speaker</b>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 09.2024</li>
+          <li><font style="font-variant: small-caps">EuroEvoDevo 2024: Meeting of the European Evolutionary Developmental Biology Society</font>; Accepted speaker for the Fish Satellite Meeting: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2023 *(could not attend)*</li>
+          <li><font style="font-variant: small-caps">EcoEvoDevo INTERGROUP SEMINARS (INTERNAL)</font>; <b>Speaker</b>: "Gut metamorphosis in the common clownfish <i>Amphiprion ocellaris</i>", 02.2023</li>
+          <li><font style="font-variant: small-caps">INTERNATIONAL SCIENCE COUNCIL: OPEN SCIENCE SOUTH ASIAN NETWORK CONFERENCE 2022</font>; <b>Invited speaker</b>: "Preprints- A Pathway to Open Access", 09.2022</li>
+          <li><font style="font-variant: small-caps">eLife Early Career Researcher Wednesday Webinar Series</font>; <b>Invited speaker</b>: "Do-it-Yourself strategies to prefigurative publishing", 05.2022</li>
+          <li><font style="font-variant: small-caps">OASPA Open Access Scholarly Publishing Association Webinar</font>; <b>Invited speaker</b>: "So can publishing respond to a crisis? An evidence-informed approach" 12.2021</li>
+          <li><font style="font-variant: small-caps">PREPRINTS IN MOTION PODCAST</font>; <b>Invited speaker</b>: "Be the change you want to see: Prefigurative politics in academia" 11.2021</li>
+          <li><font style="font-variant: small-caps">ASAPbio FELLOWS TRAINING PROGRAMME</font> virtual Invited speaker: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
+          <li><font style="font-variant: small-caps"> PHYSICS OF LIVING SYSTEMS (INTERNAL)</font>; <b>Speaker</b>: "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
+          <li><font style="font-variant: small-caps">EUROTECH SUMMER SCHOOL: OPEN SCIENCE IN PRACTICE</font>; <b>Invited speaker</b>: "PreLights: a community-driven effort to highlighting preprints". 2019</li>
+          <li><font style="font-variant: small-caps">EMBO WORKSHOP: IMAGING MOUSE DEVELOPMENT</font>; <b>Speaker</b>: "Elucidating the role of mechanical cues during peri-implantation mouse development". 2019</li>
         </ul></div>
         </div>
     </div>
