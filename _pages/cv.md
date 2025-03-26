@@ -405,7 +405,6 @@ redirect_from:
           <ul>
           <li>2024: <font style="font-variant: small-caps">University of the Philippines Center for Integrative and Development Studies (UP CIDS)</font>: International Conference "Resisting Intellectual Imperialism and Epistemic Violence: Towards Autonomous Knowledge Production"</li>
           <li>2021: <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
-          <li>2021: <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
           <li>2020: <font style="font-variant: small-caps">EPFL ENG-624</font>: Science and Engineering Teaching and Learning</li>
           
         </ul>
