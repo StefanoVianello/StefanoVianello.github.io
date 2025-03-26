@@ -394,12 +394,13 @@ redirect_from:
           <li>2025: <b>Supervisor</b>: Bachelor Research Student internship (4 months)</li>
           <li>2024: <b>Supervisor</b>: Research Secondment PhD student (3 months) </li>
           <li></li>
-          <li>2021: Completed EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
-          <li>2021: Completed EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
-          <li>2020: Completed EPFL ENG-624: SCIENCE & ENGINEERING TEACHING AND LEARNING</li>
-          <li>2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL</font> BIO-378 Physiology Lab 1</li>
-          <li>2018-2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL</font> BIOENG-110 General Biology</li>
-          <li>24,25/10/2019: <b>Course Instructor</b> <font style="font-variant: small-caps">CamBioscience Practical Course: Discovering Gastruloids</font></li>
+          <li>2024: Attended <font style="font-variant: small-caps">University of the Pgilippines Center for Integrative and Development Studies (UP CIDS)</font>: International Conference "Resisting Intellectual Imperialism and Epistemic Violence: Towards Autonomous Knowledge Production"</li>
+          <li>2021: Completed <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
+          <li>2021: Completed <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
+          <li>2020: Completed <font style="font-variant: small-caps">EPFL ENG-624</font>: Science and Engineering Teaching and Learning</li>
+          <li>2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL BIO-378</font>: Physiology Lab 1</li>
+          <li>2018-2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL BIOENG-110</font>: General Biology</li>
+          <li>24,25/10/2019: <b>Course Instructor</b> <font style="font-variant: small-caps">CamBioscience</font>: Practical Course: Discovering Gastruloids</li>
           <li>10/2016; 02/2017: <b>Demonstrator</b> <font style="font-variant: small-caps">University of Cambridge</font></li>
         </ul></div>
         </div>
