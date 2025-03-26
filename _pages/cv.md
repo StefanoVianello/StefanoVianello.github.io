@@ -376,10 +376,10 @@ redirect_from:
         <div class="projcard-title">Community involvement and responsibilities</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
-          <li><b>Organising Committee</b>: Satellite Meeting of the 2025 Joint Conference of the Asian Society of Ichthyologists Annual Meeting and the 12th Indo-Pacific Fish Conference (ASI-IPFC) </li>
-          <li>2021: Preprint Curator, Sciety</li>
-          <li>2020-2021: Preprint Curator, The company of biologists</li>
-          <li>2019-2021: PreLights Contributor, The company of biologists</li>
+          <li>2025: <b>Organising Committee</b>: Satellite Meeting of the 2025 Joint Conference of the Asian Society of Ichthyologists Annual Meeting and the 12th Indo-Pacific Fish Conference (ASI-IPFC) </li>
+          <li>2021: <b>Preprint Curator</b>, Sciety</li>
+          <li>2020-2021: <b>Preprint Curator</b>, The company of biologists</li>
+          <li>2019-2021: <b>PreLights Contributor</b>, The company of biologists</li>
         </ul></div>
         </div>
     </div>
