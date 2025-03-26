@@ -394,13 +394,13 @@ redirect_from:
           <li>2025: <b>Supervisor</b>: Bachelor Research Student internship (4 months)</li>
           <li>2024: <b>Supervisor</b>: Research Secondment PhD student (3 months) </li>
           <li></li>
-          <li>2021: EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
-          <li>2021: EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
-          <li>2020: EPFL ENG-624: SCIENCE & ENGINEERING TEACHING AND LEARNING</li>
-          <li>2021: TEACHING ASSISTANT EPFL BIO-378 PHYSIOLOGY LAB 1</li>
-          <li>2018-2021: TEACHING ASSISTANT EPFL BIOENG-110 GENERAL BIOLOGY</li>
-          <li>24,25/10/2019: COURSE INSTRUCTOR CAMBIOSCIENCE PRACTICAL COURSE: DISCOVERING GASTRULOIDS</li>
-          <li>10/2016; 02/2017: DEMONSTRATOR UNIVERSITY OF CAMBRIDGE</li>
+          <li>2021: Completed EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
+          <li>2021: Completed EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
+          <li>2020: Completed EPFL ENG-624: SCIENCE & ENGINEERING TEACHING AND LEARNING</li>
+          <li>2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL</font> BIO-378 Physiology Lab 1</li>
+          <li>2018-2021: <b>Teaching Assistant</b> <font style="font-variant: small-caps">EPFL</font> BIOENG-110 General Biology</li>
+          <li>24,25/10/2019: <b>Course Instructor</b> <font style="font-variant: small-caps">CamBioscience Practical Course: Discovering Gastruloids</font></li>
+          <li>10/2016; 02/2017: <b>Demonstrator</b> <font style="font-variant: small-caps">University of Cambridge</font></li>
         </ul></div>
         </div>
     </div>
