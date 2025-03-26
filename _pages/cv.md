@@ -392,7 +392,7 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
           <li>2025: <b>Supervisor</b>: Bachelor Research Student internship (4 months)</li>
-          <li>2025: <b>Supervisor</b>: Research Secondment PhD student (3 months) </li>
+          <li>2024: <b>Supervisor</b>: Research Secondment PhD student (3 months) </li>
           <li></li>
           <li>2021: EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
           <li>2021: EPFL ENG-629: LECTURING AND PRESENTING IN ENGINEERING</li>
