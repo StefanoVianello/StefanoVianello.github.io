@@ -327,6 +327,30 @@ redirect_from:
     </div>
   </div>
 
+<div class="projcard projcard-grey">
+    <div class="projcard-innerbox">     
+      <div class="projcard-textbox">
+        <div class="projcard-title">Talks</div>
+        <div class="projcard-bar"></div>
+        <div class="projcard-description"><ul>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps">2025 Joint Conference of the Asian Society of Ichthyologists Annual Meeting and the 12th Indo-Pacific Fish Conference (ASI-IPFC)</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2025</li>
+          <li><b>Invited speaker</b> | <font style="font-variant: small-caps">University of the Philippines Marine Science Institute (UP MSI) MSI@50 Lecture Series</font>: "Listening to one's gut: approaching marine life evolution, life history transitions, and ecophysiology from the perspective of the gastrointestinal system", 01.2025</li>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps">Italian Society of Evolutionary Biology (SIBE)</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 09.2024</li>
+          <li><b>Accepted for talk</b> | <font style="font-variant: small-caps">EuroEvoDevo 2024: Meeting of the European Evolutionary Developmental Biology Society, Fish Satellite Meeting</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2023 *(could not attend)*</li>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps">EcoEvoDevo Intergroup Seminars (internal)</font>: "Gut metamorphosis in the common clownfish <i>Amphiprion ocellaris</i>", 02.2023</li>
+          <li><b>Invited speaker</b> | <font style="font-variant: small-caps">International Science Council: Open Science South Asian Network Conference 2022</font>: "Preprints- A Pathway to Open Access", 09.2022</li>
+          <li><b>Invited speaker</b> | <font style="font-variant: small-caps">eLife Early Career Researcher Wednesday Webinar Series</font>: "Do-it-Yourself strategies to prefigurative publishing", 05.2022</li>
+          <li><b>Invited speaker</b> | <font style="font-variant: small-caps">OASPA Open Access Scholarly Publishing Association Webinar</font>: "So can publishing respond to a crisis? An evidence-informed approach" 12.2021</li>
+          <li><b>Invited speaker</b> | <font style="font-variant: small-caps">Preprints in Motion Podcast</font>: "Be the change you want to see: Prefigurative politics in academia" 11.2021</li>
+          <li><b>Invited speaker</b> (virtual) | <font style="font-variant: small-caps">ASAPbio Fellows Training Programme</font>: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps"> Physics of Living Systems (internal)</font>: "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
+          <li><b>Invited speaker</b> | <font style="font-variant: small-caps">Eurotech Summer School: Open Science in Practice</font>: "PreLights: a community-driven effort to highlighting preprints". 2019</li>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps">EMBO Workshop: Imaging mouse development</font>: "Elucidating the role of mechanical cues during peri-implantation mouse development". 2019</li>
+        </ul></div>
+        </div>
+    </div>
+  </div>
+
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
@@ -345,29 +369,6 @@ redirect_from:
     </div>
   </div>
 
-  <div class="projcard projcard-grey">
-    <div class="projcard-innerbox">     
-      <div class="projcard-textbox">
-        <div class="projcard-title">Talks</div>
-        <div class="projcard-bar"></div>
-        <div class="projcard-description"><ul>
-          <li><b>Speaker</b> |<font style="font-variant: small-caps">2025 Joint Conference of the Asian Society of Ichthyologists Annual Meeting and the 12th Indo-Pacific Fish Conference (ASI-IPFC)</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2025</li>
-          <li><b>Invited speaker</b> |<font style="font-variant: small-caps">University of the Philippines Marine Science Institute (UP MSI) MSI@50 Lecture Series</font>: "Listening to one's gut: approaching marine life evolution, life history transitions, and ecophysiology from the perspective of the gastrointestinal system", 01.2025</li>
-          <li><b>Speaker</b> |<font style="font-variant: small-caps">ITALIAN SOCIETY OF EVOLUTIONARY BIOLOGY (SIBE)</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 09.2024</li>
-          <li><b>Accepted for talk</b> |<font style="font-variant: small-caps">EuroEvoDevo 2024: Meeting of the European Evolutionary Developmental Biology Society, Fish Satellite Meeting</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2023 *(could not attend)*</li>
-          <li><b>Speaker</b> |<font style="font-variant: small-caps">EcoEvoDevo INTERGROUP SEMINARS (INTERNAL)</font>: "Gut metamorphosis in the common clownfish <i>Amphiprion ocellaris</i>", 02.2023</li>
-          <li><b>Invited speaker</b> |<font style="font-variant: small-caps">INTERNATIONAL SCIENCE COUNCIL: OPEN SCIENCE SOUTH ASIAN NETWORK CONFERENCE 2022</font>: "Preprints- A Pathway to Open Access", 09.2022</li>
-          <li><b>Invited speaker</b> |<font style="font-variant: small-caps">eLife Early Career Researcher Wednesday Webinar Series</font>: "Do-it-Yourself strategies to prefigurative publishing", 05.2022</li>
-          <li><b>Invited speaker</b> |<font style="font-variant: small-caps">OASPA Open Access Scholarly Publishing Association Webinar</font>: "So can publishing respond to a crisis? An evidence-informed approach" 12.2021</li>
-          <li><b>Invited speaker</b> |<font style="font-variant: small-caps">PREPRINTS IN MOTION PODCAST</font>: "Be the change you want to see: Prefigurative politics in academia" 11.2021</li>
-          <li><b>Invited speaker</b> (virtual) |<font style="font-variant: small-caps">ASAPbio FELLOWS TRAINING PROGRAMME</font>: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
-          <li><b>Speaker</b> |<font style="font-variant: small-caps"> PHYSICS OF LIVING SYSTEMS (INTERNAL)</font>: "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
-          <li><b>Invited speaker</b> |<font style="font-variant: small-caps">EUROTECH SUMMER SCHOOL: OPEN SCIENCE IN PRACTICE</font>: "PreLights: a community-driven effort to highlighting preprints". 2019</li>
-          <li><b>Speaker</b> |<font style="font-variant: small-caps">EMBO WORKSHOP: IMAGING MOUSE DEVELOPMENT</font>: "Elucidating the role of mechanical cues during peri-implantation mouse development". 2019</li>
-        </ul></div>
-        </div>
-    </div>
-  </div>
 
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
