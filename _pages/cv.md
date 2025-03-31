@@ -333,7 +333,8 @@ redirect_from:
         <div class="projcard-title">Talks</div>
         <div class="projcard-bar"></div>
         <div class="projcard-description"><ul>
-          <li><b>Speaker</b> | <font style="font-variant: small-caps">2025 Joint Conference of the Asian Society of Ichthyologists Annual Meeting and the 12th Indo-Pacific Fish Conference (ASI-IPFC)</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2025</li>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps">Philippine Association of Marine Science 18th National Symposium (PAMS18)</font>: "The multi-level effect of chlorpyrifos during clownfish metamorphosis", 07.2025 (<i>scheduled</i>)</li>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps">2025 Joint Conference of the Asian Society of Ichthyologists Annual Meeting and the 12th Indo-Pacific Fish Conference (ASI-IPFC)</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 06.2025 (<i>scheduled</i>)</li>
           <li><b>Invited speaker</b> | <font style="font-variant: small-caps">University of the Philippines Marine Science Institute (UP MSI) MSI@50 Lecture Series</font>: "Listening to one's gut: approaching marine life evolution, life history transitions, and ecophysiology from the perspective of the gastrointestinal system", 01.2025</li>
           <li><b>Speaker</b> | <font style="font-variant: small-caps">Italian Society of Evolutionary Biology (SIBE)</font>: "Thyroid hormones trigger stomach differentiation during metamorphosis of the common clownfish (<i>Amphiprion ocellaris</i>)", 09.2024</li>
           <li><b>Invited Speaker</b> | <font style="font-variant: small-caps">OIST-CNRS Joint Symposium on West Pacific Marine Biology</font>: "Thyroid hormones trigger stomach development and differentiation during clownfish metamorphosis", 07.2024</li>
@@ -346,7 +347,7 @@ redirect_from:
           <li><b>Invited speaker</b> (virtual) | <font style="font-variant: small-caps">ASAPbio Fellows Training Programme</font>: "Preprint highlighting in a haunted house: Matthew effect, bias, preprint curation. 2021</li>
           <li><b>Speaker</b> | <font style="font-variant: small-caps"> Physics of Living Systems (internal)</font>: "Squeezing, pressing, and bounding Gastruloids: mechanics and symmetry-breaking in vitro. 2019</li>
           <li><b>Invited speaker</b> | <font style="font-variant: small-caps">Eurotech Summer School: Open Science in Practice</font>: "PreLights: a community-driven effort to highlighting preprints". 2019</li>
-          <li><b>Speaker</b> | <font style="font-variant: small-caps">EMBO Workshop: Imaging mouse development</font>: "Elucidating the role of mechanical cues during peri-implantation mouse development". 2019</li>
+          <li><b>Speaker</b> | <font style="font-variant: small-caps">EMBO Workshop: Imaging mouse development</font>: "Elucidating the role of mechanical cues during peri-implantation mouse development". 2018</li>
         </ul></div>
         </div>
     </div>
