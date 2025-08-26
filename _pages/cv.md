@@ -267,6 +267,7 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description"> 
           <ul>
+             <li>Klann, Miura, Lee, <b>Vianello</b>, Ross, Watanabe, Gairin, Liang, Hutto, McCluskey, Herrera, Solnica-Krezel, Besseau, Pigolotti, Parichy, Kinoshita, Laudet; "Cell-cell communication as underlying principle governing color pattern formation in fishes", 2025 [doi:<a href="https://doi.org/10.1101/2025.08.21.671633">10.1101/2025.08.21.671633</a>]</li>
             <li>Taborsky, Valdivia-Francia, Ranjbar, Llop-Grau, Dure, Ghoshdastider, Renz, Weber, Yigit, Mironov, Hyams, <b>Vianello</b>, Zavolan, Lutolf, Sendoel; "Regulation of mRNA polyadenylation governs mammalian body plan formation in gastruloids", 2025 [doi:<a href="https://doi.org/10.1101/2025.07.22.666114">10.1101/2025.07.22.666114</a>]</li>
             <li><b>Vianello</b>, Lin, Pinem, Li, Li, Sonia, Lee, Wu, Laudet, Su, Yu, Schneider; "Deconstructing the common anteroposterior organisation of adult bilaterian guts", 2025 [doi:<a href="https://doi.org/10.1101/2025.07.02.662275">10.1101/2025.07.02.662275</a>]</li>
             <li>Herrera*, <b>Vianello*</b>, Mitchell, Chamot, Lorin-Nebel, Bonnelye, Roux, Besseau, Gibert, Laudet; "From Genes to Pathways: A Curated Gene Approach to Accurate Pathway Reconstruction in Teleost Fish Transcriptomics", 2025 [PMID:<a href="https://doi.org/10.1002/jez.b.23299">40296566</a>], with associated preprint [2024 PPR:<a href="https://doi.org/10.1101/2024.09.23.614382">PPR914795</a>]</li>
