@@ -444,3 +444,5 @@ redirect_from:
 
 
 </div>
+
+[![Hits](https://hits.sh/stefanovianello.github.io/cv.svg?view=today-total&style=for-the-badge&label=page%20visits%3A&color=a6e9ff&labelColor=e0e0e0)](https://hits.sh/stefanovianello.github.io/cv/)
