@@ -52,4 +52,4 @@ My PhD was in biotechnology and bioengineering, and also focused on endoderm dev
 
  <span style="color:Silver">*I am a signatory of [DORA](https://sfdora.org/read/),  and a member of the International Union of Scientists Against Militarism and the Destructive Use of Science and Technology. I am currently also a member of the Taiwanese Society of Developmental Biology and of the Philippine Society for Developmental Biology.* </span>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fstefanovianello.github.io&count_bg=%23B4B4B4&title_bg=%23555555&icon=glitch.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/stefanovianello.github.io.svg?view=today-total&style=for-the-badge&label=page%20visits%3A&color=a6e9ff&labelColor=e0e0e0)](https://hits.sh/stefanovianello.github.io/)
