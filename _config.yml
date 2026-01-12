@@ -83,11 +83,11 @@ author:
   name             : "Stefano Davide Vianello, PhD"
   avatar           : "SDV.PNG"
   bio              : "Developmental Biologist, endoderm development, synthetic embriology, metamorphosis"
-  location         : "Yilan County, Taiwan"
-  employer         : "中央研究院所臨海研究站"
+  location         : "The Philippines"
+  employer         : ""
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "stefano@vianello.ai"
+  email            : "stefano@vianello.ph"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Manila # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
