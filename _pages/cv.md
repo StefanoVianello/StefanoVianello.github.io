@@ -225,14 +225,14 @@ redirect_from:
 
 
   <div class="projcard-container">
-    
+
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">
         <div class="projcard-textbox">
         <div class="projcard-title"> Stefano Davide Vianello, PhD</div>
         <div class="projcard-subtitle">ORCID iD:<a href="https://orcid.org/0000-0002-4152-8990" target="_blank" rel="noopener noreferrer"> <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> 0000-0002-4152-8990</a></div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description"> Postdoctoral researcher, <br/> Current work address: <a href="https://icob.sinica.edu.tw/Eng/Home/" target="_blank" rel="noopener noreferrer">中央研究院細胞與個體生物學研究所</a> (Institute of Cellular and Organismic Biology) Taiwan <br/> <br/>  I am a postdoctoral researcher working as part of Academia Sinica's multi-lab programme "Towards an integrated understanding of metamorphosis in bilaterians". My research focuses on the study of gastrointestinal changes during anemonefish metamorphosis, and on the role of thyroid hormones in this process; with a focus on the evolutionary conservation of gastrointestinal metamorphosis mechanisms across deuterostomes. <br/><br/> I completed my PhD in the Laboratory of Stem Cell Engineering of Prof. Matthias Lütolf at EPFL, Switzerland; in which I described the self-organisation properties of endoderm cells as they develop within stem-cell-based models of early embryonic development (gastruloids). I studied Natural Sciences in Cambridge (Girton College), specialising in Genetics. I then worked in the laboratory of Prof. Alfonso Martinez-Arias, Department of Genetics, to investigate the interactions between chemical signalling pathways involved in early embryonic development (Wnt and Notch signalling integration). I am an advocate for intersectional open science, preprinting, and knowledge equity, and a strong critic of the current politics of publishing in academia. Aside from my lab work, I am interested in data communication and visual storytelling in developmental biology.</div>
+        <div class="projcard-description"> Assistant Professor <br/> Current work address: <a href="https://nimbb.upd.edu.ph/" target="_blank" rel="noopener noreferrer">National Institute of Molecular Biology and Biotechnology</a> (NIMBB), University of the Philippines Diliman <br/> <br/> I was a postdoctoral researcher working as part of Academia Sinica's multi-lab programme "Towards an integrated understanding of metamorphosis in bilaterians". My research focused on the study of gastrointestinal changes during anemonefish metamorphosis, and on the role of thyroid hormones in this process; with a focus on the evolutionary conservation of gastrointestinal metamorphosis mechanisms across deuterostomes. <br/><br/> I completed my PhD in the Laboratory of Stem Cell Engineering of Prof. Matthias Lütolf at EPFL, Switzerland; in which I described the self-organisation properties of endoderm cells as they develop within stem-cell-based models of early embryonic development (gastruloids). I studied Natural Sciences in Cambridge (Girton College), specialising in Genetics. I then worked in the laboratory of Prof. Alfonso Martinez-Arias, Department of Genetics, to investigate the interactions between chemical signalling pathways involved in early embryonic development (Wnt and Notch signalling integration). I am an advocate for intersectional open science, preprinting, and knowledge equity, and a strong critic of the current politics of publishing in academia. Aside from my lab work, I am interested in data communication and visual storytelling in developmental biology.</div>
         <div class="projcard-tagbox">
           <span class="projcard-tag">EcoEvoDevo</span>
           <span class="projcard-tag">endoderm</span>
@@ -242,7 +242,7 @@ redirect_from:
       </div>
     </div>
   </div>
-  
+
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
@@ -250,7 +250,8 @@ redirect_from:
         <div class="projcard-bar"></div>
         <div class="projcard-description">
           <ul>
-            <li><font style="font-variant: small-caps">2022-present | Marine Research Station, Academia Sinica </font> <br/> <b>Postdoctoral researcher</b> <br/> "Towards an integrated understanding of metamorphosis in bilaterians" <br/> Academia Sinica Grand Challenge Program </li>
+            <li><font style="font-variant: small-caps">2026-present | National Institute of Molecular Biology and Biotechnology, University of the Philippines Diliman </font> <br/> <b>Assistant Professor 7 (International)</b> <br/> </li>
+            <li><font style="font-variant: small-caps">2022-2025 | Marine Research Station, Academia Sinica </font> <br/> <b>Postdoctoral researcher</b> <br/> "Towards an integrated understanding of metamorphosis in bilaterians" <br/> Academia Sinica Grand Challenge Program </li>
             <li><font style="font-variant: small-caps">2017-2021 | École polytechnique fédérale de Lausanne (EPFL)</font> <br/><b>PhD in Biotechnology and Bioengineering</b>, with Teaching Assistantship<br/> Laboratory of Stem Cell Bioengineering, with Prof M. Lütolf <br/> "Endoderm development and morphogenesis in self-organising stem cell-based models of mouse embryogenesis" <br/>  “Characterising the mechanical and geometrical inputs of early mammalian development through bioengineered models of patterning and morphogenesis” <br/>  Swiss National Science Foundation Synergia Grant</li>
             <li><font style="font-variant: small-caps">2016-2017 |  Girton College, University of Cambridge </font> <br/><b>MPhil in Biological Science (Genetics)</b><br/>  “Wnt and Notch (Wntch) interactions in in vitro models of preimplantation embryonic development”, with Prof A. Martinez-Arias</li>
             <li><font style="font-variant: small-caps">2013-2016 |  Girton College, University of Cambridge</font><br/><b> BA Hons Natural Sciences</b></li>
@@ -259,14 +260,15 @@ redirect_from:
         </div>
     </div>
   </div>
-  
+
    <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
         <div class="projcard-title">Publications</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-description"> 
+        <div class="projcard-description">
           <ul>
+          <li> <b>Vianello</b>, Lin, Pinem, Li, Li, Sonia, Lee, Wu, Laudet, Su, Yu, Schneider; "Comparative transcriptomics reveal the common anteroposterior molecular blueprint of adult bilaterian guts", 2026 [doi:<a href="https://doi.org/10.1371/journal.pbio.3003571">10.1371/journal.pbio.3003571</a>]</li>
              <li>Klann, Miura, Lee, <b>Vianello</b>, Ross, Watanabe, Gairin, Liang, Hutto, McCluskey, Herrera, Solnica-Krezel, Besseau, Pigolotti, Parichy, Kinoshita, Laudet; "Cell-cell communication as underlying principle governing color pattern formation in fishes", 2025 [doi:<a href="https://doi.org/10.1101/2025.08.21.671633">10.1101/2025.08.21.671633</a>]</li>
             <li>Taborsky, Valdivia-Francia, Ranjbar, Llop-Grau, Dure, Ghoshdastider, Renz, Weber, Yigit, Mironov, Hyams, <b>Vianello</b>, Zavolan, Lutolf, Sendoel; "Regulation of mRNA polyadenylation governs mammalian body plan formation in gastruloids", 2025 [doi:<a href="https://doi.org/10.1101/2025.07.22.666114">10.1101/2025.07.22.666114</a>]</li>
             <li><b>Vianello</b>, Lin, Pinem, Li, Li, Sonia, Lee, Wu, Laudet, Su, Yu, Schneider; "Deconstructing the common anteroposterior organisation of adult bilaterian guts", 2025 [doi:<a href="https://doi.org/10.1101/2025.07.02.662275">10.1101/2025.07.02.662275</a>]</li>
@@ -284,7 +286,7 @@ redirect_from:
         </div>
     </div>
   </div>
-  
+
   <div class="projcard projcard-grey">
     <div class="projcard-innerbox">     
       <div class="projcard-textbox">
@@ -412,7 +414,7 @@ redirect_from:
           <li>2024: <font style="font-variant: small-caps">University of the Philippines Center for Integrative and Development Studies (UP CIDS)</font>: International Conference "Resisting Intellectual Imperialism and Epistemic Violence: Towards Autonomous Knowledge Production"</li>
           <li>2021: <font style="font-variant: small-caps">EPFL ENG-629</font>: Lecturing and presenting in engineering</li>
           <li>2020: <font style="font-variant: small-caps">EPFL ENG-624</font>: Science and Engineering Teaching and Learning</li>
-          
+
         </ul>
         </div>
         </div>
@@ -428,9 +430,9 @@ redirect_from:
           <li><b>Languages</b>: <span class="projcard-tag">Italian (native)</span> <span class="projcard-tag">French (fluent)</span> <span class="projcard-tag">English (fluent)</span> </li>
           <li><b>Affiliations</b>: <span class="projcard-tag">PSDB (Philippine Society for Developmental Biology) member</span> <span class="projcard-tag">TSDB (Taiwanese Society of Developmental Biology) member</span> <span class="projcard-tag">DORA (signatory)</span> <span class="projcard-tag">IUS (International Union of Scientists Against Militarism and the Destructive Use of Science) member</span> </li>
           <li><b>Hobbies</b>: </li>
-          <li><b>IT skills</b>: 
+          <li><b>IT skills</b>:
             <ul>
-              <li><b>Programming</b>: <span class="projcard-tag">R (e.g. Seurat; full scRNAseq and bulkRNAseq analysis, FACS processing)</span> <span class="projcard-tag">Python/Jupyter notebooks</span></li> 
+              <li><b>Programming</b>: <span class="projcard-tag">R (e.g. Seurat; full scRNAseq and bulkRNAseq analysis, FACS processing)</span> <span class="projcard-tag">Python/Jupyter notebooks</span></li>
               <li><b>Software</b>: <span class="projcard-tag">MS Office</span> <span class="projcard-tag">LibreOffice</span> <span class="projcard-tag">GIMP/Photoshop</span> <span class="projcard-tag">Inkscape/Adobe Illustrator</span></li>
               <li><b>Web Development</b>: <span class="projcard-tag">PHP</span> <span class="projcard-tag">HTML</span> <span class="projcard-tag">SQL</span> <span class="projcard-tag">CSS</span></li>
               <li><b>Virtual Reality</b>: <span class="projcard-tag">Unity</span> <span class="projcard-tag">Blender</span> <span class="projcard-tag">Google cardboard</span></li>
