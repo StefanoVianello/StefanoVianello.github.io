@@ -33,6 +33,8 @@ redirect_from:
 **I am an incoming Assistant Professor at the National Institute of Molecular Biology and Biotechnology (NIMBB), University of the Philippines Diliman**. <br/><br/> My main academic interests reside in **endoderm and gut tube development**. My current collaborations expand this theme across all three fields of **Eco-Evo-Devo**, as well as **fish metabolism and physiology**, and **ecotoxicology** (see my [Research page](https://stefanovianello.github.io/research_intro/)).
 <br/><br/>
 
+![Landscape view of the University of the Philippines oblation statue and panorama](https://StefanoVianello.github.io/images/UPD_oblation_landscape.png)
+<br/><br/>
 ![Landscape view from the Marine Research Station: fish pond in the foreground, green mountains in the background](https://StefanoVianello.github.io/images/landscape.png)
 <br/><br/>
 ![Me and my colleague working at the sea anemone pool of the marine station](https://StefanoVianello.github.io/images/Anemone_pool.png)
